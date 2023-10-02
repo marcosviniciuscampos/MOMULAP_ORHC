@@ -1,0 +1,1837 @@
+1 -564059.0
+2 -5369048.588199999
+3 -0.48407338389404975
+Funções objetivo
+
+
+Mamógrafos: 
+
+Mamógrafo 0 instalado em Olinda capacidade ociosa 0
+
+Olinda => 6758/36518
+
+Mamógrafo 1 instalado em Vertentes capacidade ociosa 4522
+
+Santa Maria do Cambucá => 920/920
+Vertentes => 1316/1316
+
+Mamógrafo 2 instalado em Bezerros capacidade ociosa 1888
+
+Bezerros => 4870/4870
+
+Mamógrafo 3 instalado em Araripina capacidade ociosa 0
+
+Araripina => 5262/5262
+Trindade => 1496/1699
+
+Mamógrafo 4 instalado em Jaboatão dos Guararapes capacidade ociosa 0
+
+Jaboatão dos Guararapes => 6758/59717
+
+Mamógrafo 5 instalado em Pesqueira capacidade ociosa 1797
+
+Pesqueira => 4961/4961
+
+Mamógrafo 6 instalado em São Lourenço da Mata capacidade ociosa 0
+
+São Lourenço da Mata => 6758/8666
+
+Mamógrafo 7 instalado em Itambé capacidade ociosa 4205
+
+Itambé => 2553/2553
+
+Mamógrafo 8 instalado em Arcoverde capacidade ociosa 192
+
+Alagoinha => 1021/1021
+Arcoverde => 5545/5545
+
+Mamógrafo 9 instalado em Paulista capacidade ociosa 0
+
+Paulista => 6758/29457
+
+Mamógrafo 10 instalado em Vitória de Santo Antão capacidade ociosa 0
+
+Vitória de Santo Antão => 6758/10902
+
+Mamógrafo 11 instalado em Caruaru capacidade ociosa 0
+
+Caruaru => 6758/26298
+
+Mamógrafo 12 instalado em Abreu e Lima capacidade ociosa 0
+
+Abreu e Lima => 6758/8706
+
+Mamógrafo 13 instalado em Limoeiro capacidade ociosa 2029
+
+Limoeiro => 4729/4729
+
+Mamógrafo 14 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 15 instalado em Custódia capacidade ociosa 3241
+
+Custódia => 2608/2608
+Iguaracy => 909/909
+
+Mamógrafo 16 instalado em Salgueiro capacidade ociosa 1232
+
+Salgueiro => 4220/4220
+Terra Nova => 646/646
+Verdejante => 660/660
+
+Mamógrafo 17 instalado em Caruaru capacidade ociosa 0
+
+Caruaru => 6758/26298
+
+Mamógrafo 18 instalado em Garanhuns capacidade ociosa 0
+
+Garanhuns => 6758/10535
+
+Mamógrafo 19 instalado em Paudalho capacidade ociosa 2848
+
+Paudalho => 3910/3910
+
+Mamógrafo 20 instalado em Moreno capacidade ociosa 376
+
+Feira Nova => 1626/1626
+Moreno => 4756/4756
+
+Mamógrafo 21 instalado em Limoeiro capacidade ociosa 6758
+
+
+Mamógrafo 22 instalado em Garanhuns capacidade ociosa 1778
+
+Garanhuns => 3777/10535
+Venturosa => 1203/1203
+
+Mamógrafo 23 instalado em Afogados da Ingazeira capacidade ociosa 3604
+
+Afogados da Ingazeira => 2818/2818
+Ingazeira => 336/336
+
+Mamógrafo 24 instalado em Garanhuns capacidade ociosa 6758
+
+
+Mamógrafo 25 instalado em Jaboatão dos Guararapes capacidade ociosa 0
+
+Jaboatão dos Guararapes => 6758/59717
+
+Mamógrafo 26 instalado em Ipojuca capacidade ociosa 246
+
+Ipojuca => 5592/5592
+Primavera => 920/920
+
+Mamógrafo 27 instalado em Ipojuca capacidade ociosa 6758
+
+
+Mamógrafo 28 instalado em Goiana capacidade ociosa 514
+
+Goiana => 6244/6244
+
+Mamógrafo 29 instalado em Ouricuri capacidade ociosa 572
+
+Ipubi => 1722/1722
+Ouricuri => 4261/4261
+Trindade => 203/1699
+
+Mamógrafo 30 instalado em São Lourenço da Mata capacidade ociosa 574
+
+Lagoa de Itaenga => 1513/1513
+Nazaré da Mata => 2763/2763
+São Lourenço da Mata => 1908/8666
+
+Mamógrafo 31 instalado em Gravatá capacidade ociosa 522
+
+Gravatá => 6236/6236
+
+Mamógrafo 32 instalado em Moreno capacidade ociosa 6758
+
+
+Mamógrafo 33 instalado em Camaragibe capacidade ociosa 0
+
+Camaragibe => 6758/12977
+
+Mamógrafo 34 instalado em Carpina capacidade ociosa 121
+
+Carpina => 6637/6637
+
+Mamógrafo 35 instalado em Camaragibe capacidade ociosa 0
+
+Camaragibe => 6219/12977
+Lagoa do Carro => 539/1282
+
+Mamógrafo 36 instalado em Afogados da Ingazeira capacidade ociosa 6758
+
+
+Mamógrafo 37 instalado em Caruaru capacidade ociosa 0
+
+Caruaru => 6758/26298
+
+Mamógrafo 38 instalado em Escada capacidade ociosa 0
+
+Cortês => 807/866
+Escada => 4888/4888
+Joaquim Nabuco => 1063/1063
+
+Mamógrafo 39 instalado em Petrolina capacidade ociosa 0
+
+Petrolina => 6758/21562
+
+Mamógrafo 40 instalado em Araripina capacidade ociosa 6758
+
+
+Mamógrafo 41 instalado em Petrolândia capacidade ociosa 1979
+
+Jatobá => 1080/1080
+Petrolândia => 2272/2272
+Tacaratu => 1427/1427
+
+Mamógrafo 42 instalado em Paulista capacidade ociosa 0
+
+Paulista => 6758/29457
+
+Mamógrafo 43 instalado em Arcoverde capacidade ociosa 6758
+
+
+Mamógrafo 44 instalado em Caruaru capacidade ociosa 0
+
+Caruaru => 6024/26298
+Cupira => 734/1775
+
+Mamógrafo 45 instalado em Jaboatão dos Guararapes capacidade ociosa 0
+
+Jaboatão dos Guararapes => 6758/59717
+
+Mamógrafo 46 instalado em Iati capacidade ociosa 4427
+
+Iati => 1210/1210
+Saloá => 1121/1121
+
+Mamógrafo 47 instalado em Timbaúba capacidade ociosa 1218
+
+São Vicente Férrer => 1195/1195
+Timbaúba => 4345/4345
+
+Mamógrafo 48 instalado em Caruaru capacidade ociosa 5206
+
+Cupira => 1041/1775
+Ibirajuba => 511/511
+
+Mamógrafo 49 instalado em Arcoverde capacidade ociosa 6758
+
+
+Mamógrafo 50 instalado em Petrolina capacidade ociosa 0
+
+Petrolina => 6758/21562
+
+Mamógrafo 51 instalado em Petrolina capacidade ociosa 0
+
+Petrolina => 6758/21562
+
+Mamógrafo 52 instalado em Petrolina capacidade ociosa 4000
+
+Lagoa Grande => 1470/1470
+Petrolina => 1288/21562
+
+Mamógrafo 53 instalado em Surubim capacidade ociosa 1478
+
+Salgadinho => 679/679
+Surubim => 4601/4601
+
+Mamógrafo 54 instalado em Chã Grande capacidade ociosa 4450
+
+Chã Grande => 1461/1461
+Sairé => 847/847
+
+Mamógrafo 55 instalado em Salgueiro capacidade ociosa 6758
+
+
+Mamógrafo 56 instalado em Cabo de Santo Agostinho capacidade ociosa 0
+
+Cabo de Santo Agostinho => 6758/15180
+
+Mamógrafo 57 instalado em Paulista capacidade ociosa 0
+
+Paulista => 6758/29457
+
+Mamógrafo 58 instalado em Caruaru capacidade ociosa 6758
+
+
+Mamógrafo 59 instalado em Petrolina capacidade ociosa 6758
+
+
+Mamógrafo 60 instalado em Palmares capacidade ociosa 0
+
+Belém de Maria => 709/727
+Palmares => 4580/4580
+São Joaquim do Monte => 1469/1469
+
+Mamógrafo 61 instalado em Belo Jardim capacidade ociosa 0
+
+Belo Jardim => 5602/5602
+Lajedo => 1156/2757
+
+Mamógrafo 62 instalado em Jaboatão dos Guararapes capacidade ociosa 0
+
+Jaboatão dos Guararapes => 6758/59717
+
+Mamógrafo 63 instalado em Araripina capacidade ociosa 6758
+
+
+Mamógrafo 64 instalado em Gravatá capacidade ociosa 6758
+
+
+Mamógrafo 65 instalado em Surubim capacidade ociosa 6758
+
+
+Mamógrafo 66 instalado em Araripina capacidade ociosa 6758
+
+
+Mamógrafo 67 instalado em Caruaru capacidade ociosa 6758
+
+
+Mamógrafo 68 instalado em Serra Talhada capacidade ociosa 0
+
+Flores => 584/1669
+Serra Talhada => 6174/6174
+
+Mamógrafo 69 instalado em Paulista capacidade ociosa 0
+
+Paulista => 6758/29457
+
+Mamógrafo 70 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 71 instalado em Palmares capacidade ociosa 6740
+
+Belém de Maria => 18/727
+
+Mamógrafo 72 instalado em Vitória de Santo Antão capacidade ociosa 2614
+
+Vitória de Santo Antão => 4144/10902
+
+Mamógrafo 73 instalado em Cabo de Santo Agostinho capacidade ociosa 0
+
+Cabo de Santo Agostinho => 6758/15180
+
+Mamógrafo 74 instalado em Cabo de Santo Agostinho capacidade ociosa 3529
+
+Cabo de Santo Agostinho => 1664/15180
+Rio Formoso => 1565/1565
+
+Mamógrafo 75 instalado em Pesqueira capacidade ociosa 6758
+
+
+Mamógrafo 76 instalado em Paulista capacidade ociosa 2811
+
+Ilha de Itamaracá => 1522/1522
+Paulista => 2425/29457
+
+Mamógrafo 77 instalado em Arcoverde capacidade ociosa 6758
+
+
+Mamógrafo 78 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 79 instalado em Vitória de Santo Antão capacidade ociosa 6758
+
+
+Mamógrafo 80 instalado em Paudalho capacidade ociosa 6758
+
+
+Mamógrafo 81 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 82 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 83 instalado em Serra Talhada capacidade ociosa 5254
+
+Calumbi => 419/419
+Flores => 1085/1669
+
+Mamógrafo 84 instalado em Palmares capacidade ociosa 6758
+
+
+Mamógrafo 85 instalado em Garanhuns capacidade ociosa 6758
+
+
+Mamógrafo 86 instalado em Serra Talhada capacidade ociosa 6758
+
+
+Mamógrafo 87 instalado em Arcoverde capacidade ociosa 6758
+
+
+Mamógrafo 88 instalado em Palmares capacidade ociosa 6758
+
+
+Mamógrafo 89 instalado em Limoeiro capacidade ociosa 6758
+
+
+Mamógrafo 90 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 91 instalado em Garanhuns capacidade ociosa 6758
+
+
+Mamógrafo 92 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 93 instalado em Limoeiro capacidade ociosa 6758
+
+
+Mamógrafo 94 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 95 instalado em Paudalho capacidade ociosa 6758
+
+
+Mamógrafo 96 instalado em Paudalho capacidade ociosa 6758
+
+
+Mamógrafo 97 instalado em Garanhuns capacidade ociosa 6758
+
+
+Mamógrafo 98 instalado em Limoeiro capacidade ociosa 6758
+
+
+Mamógrafo 99 instalado em Limoeiro capacidade ociosa 6758
+
+
+Mamógrafo 100 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 101 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 102 instalado em Serra Talhada capacidade ociosa 6758
+
+
+Mamógrafo 103 instalado em Vitória de Santo Antão capacidade ociosa 6758
+
+
+Mamógrafo 104 instalado em Serra Talhada capacidade ociosa 6758
+
+
+Mamógrafo 105 instalado em Serra Talhada capacidade ociosa 6758
+
+
+Mamógrafo 106 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 107 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 108 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 109 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 110 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 111 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 112 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 113 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Mamógrafo 114 instalado em Recife capacidade ociosa 0
+
+Recife => 6758/150838
+
+Cidades cobertas pelo mamógrafo 0 => Olinda, 
+
+
+Cidades cobertas pelo mamógrafo 1 => Santa Maria do Cambucá, Vertentes, 
+
+
+Cidades cobertas pelo mamógrafo 2 => Bezerros, 
+
+
+Cidades cobertas pelo mamógrafo 3 => Araripina, Trindade, 
+
+
+Cidades cobertas pelo mamógrafo 4 => Jaboatão dos Guararapes, 
+
+
+Cidades cobertas pelo mamógrafo 5 => Pesqueira, 
+
+
+Cidades cobertas pelo mamógrafo 6 => São Lourenço da Mata, 
+
+
+Cidades cobertas pelo mamógrafo 7 => Itambé, 
+
+
+Cidades cobertas pelo mamógrafo 8 => Alagoinha, Arcoverde, 
+
+
+Cidades cobertas pelo mamógrafo 9 => Paulista, 
+
+
+Cidades cobertas pelo mamógrafo 10 => Vitória de Santo Antão, 
+
+
+Cidades cobertas pelo mamógrafo 11 => Caruaru, 
+
+
+Cidades cobertas pelo mamógrafo 12 => Abreu e Lima, 
+
+
+Cidades cobertas pelo mamógrafo 13 => Limoeiro, 
+
+
+Cidades cobertas pelo mamógrafo 14 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 15 => Custódia, Iguaracy, 
+
+
+Cidades cobertas pelo mamógrafo 16 => Salgueiro, Terra Nova, Verdejante, 
+
+
+Cidades cobertas pelo mamógrafo 17 => Caruaru, 
+
+
+Cidades cobertas pelo mamógrafo 18 => Garanhuns, 
+
+
+Cidades cobertas pelo mamógrafo 19 => Paudalho, 
+
+
+Cidades cobertas pelo mamógrafo 20 => Feira Nova, Moreno, 
+
+
+Cidades cobertas pelo mamógrafo 21 => 
+
+
+Cidades cobertas pelo mamógrafo 22 => Garanhuns, Venturosa, 
+
+
+Cidades cobertas pelo mamógrafo 23 => Afogados da Ingazeira, Ingazeira, 
+
+
+Cidades cobertas pelo mamógrafo 24 => 
+
+
+Cidades cobertas pelo mamógrafo 25 => Jaboatão dos Guararapes, 
+
+
+Cidades cobertas pelo mamógrafo 26 => Ipojuca, Primavera, 
+
+
+Cidades cobertas pelo mamógrafo 27 => 
+
+
+Cidades cobertas pelo mamógrafo 28 => Goiana, 
+
+
+Cidades cobertas pelo mamógrafo 29 => Ipubi, Ouricuri, Trindade, 
+
+
+Cidades cobertas pelo mamógrafo 30 => Lagoa de Itaenga, Nazaré da Mata, São Lourenço da Mata, 
+
+
+Cidades cobertas pelo mamógrafo 31 => Gravatá, 
+
+
+Cidades cobertas pelo mamógrafo 32 => 
+
+
+Cidades cobertas pelo mamógrafo 33 => Camaragibe, 
+
+
+Cidades cobertas pelo mamógrafo 34 => Carpina, 
+
+
+Cidades cobertas pelo mamógrafo 35 => Camaragibe, Lagoa do Carro, 
+
+
+Cidades cobertas pelo mamógrafo 36 => 
+
+
+Cidades cobertas pelo mamógrafo 37 => Caruaru, 
+
+
+Cidades cobertas pelo mamógrafo 38 => Cortês, Escada, Joaquim Nabuco, 
+
+
+Cidades cobertas pelo mamógrafo 39 => Petrolina, 
+
+
+Cidades cobertas pelo mamógrafo 40 => 
+
+
+Cidades cobertas pelo mamógrafo 41 => Jatobá, Petrolândia, Tacaratu, 
+
+
+Cidades cobertas pelo mamógrafo 42 => Paulista, 
+
+
+Cidades cobertas pelo mamógrafo 43 => 
+
+
+Cidades cobertas pelo mamógrafo 44 => Caruaru, Cupira, 
+
+
+Cidades cobertas pelo mamógrafo 45 => Jaboatão dos Guararapes, 
+
+
+Cidades cobertas pelo mamógrafo 46 => Iati, Saloá, 
+
+
+Cidades cobertas pelo mamógrafo 47 => São Vicente Férrer, Timbaúba, 
+
+
+Cidades cobertas pelo mamógrafo 48 => Cupira, Ibirajuba, 
+
+
+Cidades cobertas pelo mamógrafo 49 => 
+
+
+Cidades cobertas pelo mamógrafo 50 => Petrolina, 
+
+
+Cidades cobertas pelo mamógrafo 51 => Petrolina, 
+
+
+Cidades cobertas pelo mamógrafo 52 => Lagoa Grande, Petrolina, 
+
+
+Cidades cobertas pelo mamógrafo 53 => Salgadinho, Surubim, 
+
+
+Cidades cobertas pelo mamógrafo 54 => Chã Grande, Sairé, 
+
+
+Cidades cobertas pelo mamógrafo 55 => 
+
+
+Cidades cobertas pelo mamógrafo 56 => Cabo de Santo Agostinho, 
+
+
+Cidades cobertas pelo mamógrafo 57 => Paulista, 
+
+
+Cidades cobertas pelo mamógrafo 58 => 
+
+
+Cidades cobertas pelo mamógrafo 59 => 
+
+
+Cidades cobertas pelo mamógrafo 60 => Belém de Maria, Palmares, São Joaquim do Monte, 
+
+
+Cidades cobertas pelo mamógrafo 61 => Belo Jardim, Lajedo, 
+
+
+Cidades cobertas pelo mamógrafo 62 => Jaboatão dos Guararapes, 
+
+
+Cidades cobertas pelo mamógrafo 63 => 
+
+
+Cidades cobertas pelo mamógrafo 64 => 
+
+
+Cidades cobertas pelo mamógrafo 65 => 
+
+
+Cidades cobertas pelo mamógrafo 66 => 
+
+
+Cidades cobertas pelo mamógrafo 67 => 
+
+
+Cidades cobertas pelo mamógrafo 68 => Flores, Serra Talhada, 
+
+
+Cidades cobertas pelo mamógrafo 69 => Paulista, 
+
+
+Cidades cobertas pelo mamógrafo 70 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 71 => Belém de Maria, 
+
+
+Cidades cobertas pelo mamógrafo 72 => Vitória de Santo Antão, 
+
+
+Cidades cobertas pelo mamógrafo 73 => Cabo de Santo Agostinho, 
+
+
+Cidades cobertas pelo mamógrafo 74 => Cabo de Santo Agostinho, Rio Formoso, 
+
+
+Cidades cobertas pelo mamógrafo 75 => 
+
+
+Cidades cobertas pelo mamógrafo 76 => Ilha de Itamaracá, Paulista, 
+
+
+Cidades cobertas pelo mamógrafo 77 => 
+
+
+Cidades cobertas pelo mamógrafo 78 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 79 => 
+
+
+Cidades cobertas pelo mamógrafo 80 => 
+
+
+Cidades cobertas pelo mamógrafo 81 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 82 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 83 => Calumbi, Flores, 
+
+
+Cidades cobertas pelo mamógrafo 84 => 
+
+
+Cidades cobertas pelo mamógrafo 85 => 
+
+
+Cidades cobertas pelo mamógrafo 86 => 
+
+
+Cidades cobertas pelo mamógrafo 87 => 
+
+
+Cidades cobertas pelo mamógrafo 88 => 
+
+
+Cidades cobertas pelo mamógrafo 89 => 
+
+
+Cidades cobertas pelo mamógrafo 90 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 91 => 
+
+
+Cidades cobertas pelo mamógrafo 92 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 93 => 
+
+
+Cidades cobertas pelo mamógrafo 94 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 95 => 
+
+
+Cidades cobertas pelo mamógrafo 96 => 
+
+
+Cidades cobertas pelo mamógrafo 97 => 
+
+
+Cidades cobertas pelo mamógrafo 98 => 
+
+
+Cidades cobertas pelo mamógrafo 99 => 
+
+
+Cidades cobertas pelo mamógrafo 100 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 101 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 102 => 
+
+
+Cidades cobertas pelo mamógrafo 103 => 
+
+
+Cidades cobertas pelo mamógrafo 104 => 
+
+
+Cidades cobertas pelo mamógrafo 105 => 
+
+
+Cidades cobertas pelo mamógrafo 106 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 107 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 108 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 109 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 110 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 111 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 112 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 113 => Recife, 
+
+
+Cidades cobertas pelo mamógrafo 114 => Recife, 
+
+
+
+Lista de mamógrafos na cidade Abreu e Lima: 12, 
+
+
+Lista de mamógrafos na cidade Afogados da Ingazeira: 23, 36, 
+
+
+Lista de mamógrafos na cidade Afrânio: 
+
+
+Lista de mamógrafos na cidade Agrestina: 
+
+
+Lista de mamógrafos na cidade Água Preta: 
+
+
+Lista de mamógrafos na cidade Águas Belas: 
+
+
+Lista de mamógrafos na cidade Alagoinha: 
+
+
+Lista de mamógrafos na cidade Aliança: 
+
+
+Lista de mamógrafos na cidade Altinho: 
+
+
+Lista de mamógrafos na cidade Amaraji: 
+
+
+Lista de mamógrafos na cidade Angelim: 
+
+
+Lista de mamógrafos na cidade Araçoiaba: 
+
+
+Lista de mamógrafos na cidade Araripina: 3, 40, 63, 66, 
+
+
+Lista de mamógrafos na cidade Arcoverde: 8, 43, 49, 77, 87, 
+
+
+Lista de mamógrafos na cidade Barra de Guabiraba: 
+
+
+Lista de mamógrafos na cidade Barreiros: 
+
+
+Lista de mamógrafos na cidade Belém de Maria: 
+
+
+Lista de mamógrafos na cidade Belém do São Francisco: 
+
+
+Lista de mamógrafos na cidade Belo Jardim: 61, 
+
+
+Lista de mamógrafos na cidade Betânia: 
+
+
+Lista de mamógrafos na cidade Bezerros: 2, 
+
+
+Lista de mamógrafos na cidade Bodocó: 
+
+
+Lista de mamógrafos na cidade Bom Conselho: 
+
+
+Lista de mamógrafos na cidade Bom Jardim: 
+
+
+Lista de mamógrafos na cidade Bonito: 
+
+
+Lista de mamógrafos na cidade Brejão: 
+
+
+Lista de mamógrafos na cidade Brejinho: 
+
+
+Lista de mamógrafos na cidade Brejo da Madre de Deus: 
+
+
+Lista de mamógrafos na cidade Buenos Aires: 
+
+
+Lista de mamógrafos na cidade Buíque: 
+
+
+Lista de mamógrafos na cidade Cabo de Santo Agostinho: 56, 73, 74, 
+
+
+Lista de mamógrafos na cidade Cabrobó: 
+
+
+Lista de mamógrafos na cidade Cachoeirinha: 
+
+
+Lista de mamógrafos na cidade Caetés: 
+
+
+Lista de mamógrafos na cidade Calçado: 
+
+
+Lista de mamógrafos na cidade Calumbi: 
+
+
+Lista de mamógrafos na cidade Camaragibe: 33, 35, 
+
+
+Lista de mamógrafos na cidade Camocim de São Félix: 
+
+
+Lista de mamógrafos na cidade Camutanga: 
+
+
+Lista de mamógrafos na cidade Canhotinho: 
+
+
+Lista de mamógrafos na cidade Capoeiras: 
+
+
+Lista de mamógrafos na cidade Carnaíba: 
+
+
+Lista de mamógrafos na cidade Carnaubeira da Penha: 
+
+
+Lista de mamógrafos na cidade Carpina: 34, 
+
+
+Lista de mamógrafos na cidade Caruaru: 11, 17, 37, 44, 48, 58, 67, 
+
+
+Lista de mamógrafos na cidade Casinhas: 
+
+
+Lista de mamógrafos na cidade Catende: 
+
+
+Lista de mamógrafos na cidade Cedro: 
+
+
+Lista de mamógrafos na cidade Chã de Alegria: 
+
+
+Lista de mamógrafos na cidade Chã Grande: 54, 
+
+
+Lista de mamógrafos na cidade Condado: 
+
+
+Lista de mamógrafos na cidade Correntes: 
+
+
+Lista de mamógrafos na cidade Cortês: 
+
+
+Lista de mamógrafos na cidade Cumaru: 
+
+
+Lista de mamógrafos na cidade Cupira: 
+
+
+Lista de mamógrafos na cidade Custódia: 15, 
+
+
+Lista de mamógrafos na cidade Dormentes: 
+
+
+Lista de mamógrafos na cidade Escada: 38, 
+
+
+Lista de mamógrafos na cidade Exu: 
+
+
+Lista de mamógrafos na cidade Feira Nova: 
+
+
+Lista de mamógrafos na cidade Fernando de Noronha: 
+
+
+Lista de mamógrafos na cidade Flores: 
+
+
+Lista de mamógrafos na cidade Floresta: 
+
+
+Lista de mamógrafos na cidade Frei Miguelinho: 
+
+
+Lista de mamógrafos na cidade Gameleira: 
+
+
+Lista de mamógrafos na cidade Garanhuns: 18, 22, 24, 85, 91, 97, 
+
+
+Lista de mamógrafos na cidade Glória do Goitá: 
+
+
+Lista de mamógrafos na cidade Goiana: 28, 
+
+
+Lista de mamógrafos na cidade Granito: 
+
+
+Lista de mamógrafos na cidade Gravatá: 31, 64, 
+
+
+Lista de mamógrafos na cidade Iati: 46, 
+
+
+Lista de mamógrafos na cidade Ibimirim: 
+
+
+Lista de mamógrafos na cidade Ibirajuba: 
+
+
+Lista de mamógrafos na cidade Igarassu: 
+
+
+Lista de mamógrafos na cidade Iguaracy: 
+
+
+Lista de mamógrafos na cidade Inajá: 
+
+
+Lista de mamógrafos na cidade Ingazeira: 
+
+
+Lista de mamógrafos na cidade Ipojuca: 26, 27, 
+
+
+Lista de mamógrafos na cidade Ipubi: 
+
+
+Lista de mamógrafos na cidade Itacuruba: 
+
+
+Lista de mamógrafos na cidade Itaíba: 
+
+
+Lista de mamógrafos na cidade Ilha de Itamaracá: 
+
+
+Lista de mamógrafos na cidade Itambé: 7, 
+
+
+Lista de mamógrafos na cidade Itapetim: 
+
+
+Lista de mamógrafos na cidade Itapissuma: 
+
+
+Lista de mamógrafos na cidade Itaquitinga: 
+
+
+Lista de mamógrafos na cidade Jaboatão dos Guararapes: 4, 25, 45, 62, 
+
+
+Lista de mamógrafos na cidade Jaqueira: 
+
+
+Lista de mamógrafos na cidade Jataúba: 
+
+
+Lista de mamógrafos na cidade Jatobá: 
+
+
+Lista de mamógrafos na cidade João Alfredo: 
+
+
+Lista de mamógrafos na cidade Joaquim Nabuco: 
+
+
+Lista de mamógrafos na cidade Jucati: 
+
+
+Lista de mamógrafos na cidade Jupi: 
+
+
+Lista de mamógrafos na cidade Jurema: 
+
+
+Lista de mamógrafos na cidade Lagoa do Carro: 
+
+
+Lista de mamógrafos na cidade Lagoa de Itaenga: 
+
+
+Lista de mamógrafos na cidade Lagoa do Ouro: 
+
+
+Lista de mamógrafos na cidade Lagoa dos Gatos: 
+
+
+Lista de mamógrafos na cidade Lagoa Grande: 
+
+
+Lista de mamógrafos na cidade Lajedo: 
+
+
+Lista de mamógrafos na cidade Limoeiro: 13, 21, 89, 93, 98, 99, 
+
+
+Lista de mamógrafos na cidade Macaparana: 
+
+
+Lista de mamógrafos na cidade Machados: 
+
+
+Lista de mamógrafos na cidade Manari: 
+
+
+Lista de mamógrafos na cidade Maraial: 
+
+
+Lista de mamógrafos na cidade Mirandiba: 
+
+
+Lista de mamógrafos na cidade Moreno: 20, 32, 
+
+
+Lista de mamógrafos na cidade Nazaré da Mata: 
+
+
+Lista de mamógrafos na cidade Olinda: 0, 
+
+
+Lista de mamógrafos na cidade Orobó: 
+
+
+Lista de mamógrafos na cidade Orocó: 
+
+
+Lista de mamógrafos na cidade Ouricuri: 29, 
+
+
+Lista de mamógrafos na cidade Palmares: 60, 71, 84, 88, 
+
+
+Lista de mamógrafos na cidade Palmeirina: 
+
+
+Lista de mamógrafos na cidade Panelas: 
+
+
+Lista de mamógrafos na cidade Paranatama: 
+
+
+Lista de mamógrafos na cidade Parnamirim: 
+
+
+Lista de mamógrafos na cidade Passira: 
+
+
+Lista de mamógrafos na cidade Paudalho: 19, 80, 95, 96, 
+
+
+Lista de mamógrafos na cidade Paulista: 9, 42, 57, 69, 76, 
+
+
+Lista de mamógrafos na cidade Pedra: 
+
+
+Lista de mamógrafos na cidade Pesqueira: 5, 75, 
+
+
+Lista de mamógrafos na cidade Petrolândia: 41, 
+
+
+Lista de mamógrafos na cidade Petrolina: 39, 50, 51, 52, 59, 
+
+
+Lista de mamógrafos na cidade Poção: 
+
+
+Lista de mamógrafos na cidade Pombos: 
+
+
+Lista de mamógrafos na cidade Primavera: 
+
+
+Lista de mamógrafos na cidade Quipapá: 
+
+
+Lista de mamógrafos na cidade Recife: 14, 70, 78, 81, 82, 90, 92, 94, 100, 101, 106, 107, 108, 109, 110, 111, 112, 113, 114, 
+
+
+Lista de mamógrafos na cidade Riacho das Almas: 
+
+
+Lista de mamógrafos na cidade Ribeirão: 
+
+
+Lista de mamógrafos na cidade Rio Formoso: 
+
+
+Lista de mamógrafos na cidade Sairé: 
+
+
+Lista de mamógrafos na cidade Salgadinho: 
+
+
+Lista de mamógrafos na cidade Salgueiro: 16, 55, 
+
+
+Lista de mamógrafos na cidade Saloá: 
+
+
+Lista de mamógrafos na cidade Sanharó: 
+
+
+Lista de mamógrafos na cidade Santa Cruz: 
+
+
+Lista de mamógrafos na cidade Santa Cruz da Baixa Verde: 
+
+
+Lista de mamógrafos na cidade Santa Cruz do Capibaribe: 
+
+
+Lista de mamógrafos na cidade Santa Filomena: 
+
+
+Lista de mamógrafos na cidade Santa Maria da Boa Vista: 
+
+
+Lista de mamógrafos na cidade Santa Terezinha: 
+
+
+Lista de mamógrafos na cidade São Benedito do Sul: 
+
+
+Lista de mamógrafos na cidade São Bento do Una: 
+
+
+Lista de mamógrafos na cidade São Caitano: 
+
+
+Lista de mamógrafos na cidade São João: 
+
+
+Lista de mamógrafos na cidade São Joaquim do Monte: 
+
+
+Lista de mamógrafos na cidade São José da Coroa Grande: 
+
+
+Lista de mamógrafos na cidade São José do Belmonte: 
+
+
+Lista de mamógrafos na cidade São José do Egito: 
+
+
+Lista de mamógrafos na cidade São Lourenço da Mata: 6, 30, 
+
+
+Lista de mamógrafos na cidade São Vicente Férrer: 
+
+
+Lista de mamógrafos na cidade Serra Talhada: 68, 83, 86, 102, 104, 105, 
+
+
+Lista de mamógrafos na cidade Serrita: 
+
+
+Lista de mamógrafos na cidade Sertânia: 
+
+
+Lista de mamógrafos na cidade Sirinhaém: 
+
+
+Lista de mamógrafos na cidade Moreilândia: 
+
+
+Lista de mamógrafos na cidade Solidão: 
+
+
+Lista de mamógrafos na cidade Surubim: 53, 65, 
+
+
+Lista de mamógrafos na cidade Tabira: 
+
+
+Lista de mamógrafos na cidade Tacaratu: 
+
+
+Lista de mamógrafos na cidade Tamandaré: 
+
+
+Lista de mamógrafos na cidade Taquaritinga do Norte: 
+
+
+Lista de mamógrafos na cidade Terezinha: 
+
+
+Lista de mamógrafos na cidade Terra Nova: 
+
+
+Lista de mamógrafos na cidade Timbaúba: 47, 
+
+
+Lista de mamógrafos na cidade Toritama: 
+
+
+Lista de mamógrafos na cidade Tracunhaém: 
+
+
+Lista de mamógrafos na cidade Trindade: 
+
+
+Lista de mamógrafos na cidade Triunfo: 
+
+
+Lista de mamógrafos na cidade Tupanatinga: 
+
+
+Lista de mamógrafos na cidade Tuparetama: 
+
+
+Lista de mamógrafos na cidade Venturosa: 
+
+
+Lista de mamógrafos na cidade Verdejante: 
+
+
+Lista de mamógrafos na cidade Vertente do Lério: 
+
+
+Lista de mamógrafos na cidade Vertentes: 1, 
+
+
+Lista de mamógrafos na cidade Vicência: 
+
+
+Lista de mamógrafos na cidade Vitória de Santo Antão: 10, 72, 79, 103, 
+
+
+Lista de mamógrafos na cidade Xexéu: 
+
+
+
+Cobertura da demanda
+Cidade Abreu e Lima:  6758/8706 => 77.62462669423387%
+Mamógrafo 12 instalado em Abreu e Lima => 6758/8706
+Cidade Afogados da Ingazeira:  2818/2818 => 100.0%
+Mamógrafo 23 instalado em Afogados da Ingazeira => 2818/2818
+Cidade Afrânio:  0/1194 => 0.0%
+Cidade Agrestina:  0/1670 => 0.0%
+Cidade Água Preta:  0/2214 => 0.0%
+Cidade Águas Belas:  0/2669 => 0.0%
+Cidade Alagoinha:  1021/1021 => 100.0%
+Mamógrafo 8 instalado em Arcoverde => 1021/1021
+Cidade Aliança:  0/2853 => 0.0%
+Cidade Altinho:  0/1722 => 0.0%
+Cidade Amaraji:  0/1509 => 0.0%
+Cidade Angelim:  0/710 => 0.0%
+Cidade Araçoiaba:  0/1301 => 0.0%
+Cidade Araripina:  5262/5262 => 100.0%
+Mamógrafo 3 instalado em Araripina => 5262/5262
+Cidade Arcoverde:  5545/5545 => 100.0%
+Mamógrafo 8 instalado em Arcoverde => 5545/5545
+Cidade Barra de Guabiraba:  0/843 => 0.0%
+Cidade Barreiros:  0/3002 => 0.0%
+Cidade Belém de Maria:  727/727 => 100.0%
+Mamógrafo 60 instalado em Palmares => 709/727
+Mamógrafo 71 instalado em Palmares => 18/727
+Cidade Belém do São Francisco:  0/1387 => 0.0%
+Cidade Belo Jardim:  5602/5602 => 100.0%
+Mamógrafo 61 instalado em Belo Jardim => 5602/5602
+Cidade Betânia:  0/816 => 0.0%
+Cidade Bezerros:  4870/4870 => 100.0%
+Mamógrafo 2 instalado em Bezerros => 4870/4870
+Cidade Bodocó:  0/2309 => 0.0%
+Cidade Bom Conselho:  0/3266 => 0.0%
+Cidade Bom Jardim:  0/2888 => 0.0%
+Cidade Bonito:  0/2704 => 0.0%
+Cidade Brejão:  0/620 => 0.0%
+Cidade Brejinho:  0/537 => 0.0%
+Cidade Brejo da Madre de Deus:  0/3040 => 0.0%
+Cidade Buenos Aires:  0/945 => 0.0%
+Cidade Buíque:  0/3341 => 0.0%
+Cidade Cabo de Santo Agostinho:  15180/15180 => 100.0%
+Mamógrafo 56 instalado em Cabo de Santo Agostinho => 6758/15180
+Mamógrafo 73 instalado em Cabo de Santo Agostinho => 6758/15180
+Mamógrafo 74 instalado em Cabo de Santo Agostinho => 1664/15180
+Cidade Cabrobó:  0/2142 => 0.0%
+Cidade Cachoeirinha:  0/1431 => 0.0%
+Cidade Caetés:  0/1703 => 0.0%
+Cidade Calçado:  0/754 => 0.0%
+Cidade Calumbi:  419/419 => 100.0%
+Mamógrafo 83 instalado em Serra Talhada => 419/419
+Cidade Camaragibe:  12977/12977 => 100.0%
+Mamógrafo 33 instalado em Camaragibe => 6758/12977
+Mamógrafo 35 instalado em Camaragibe => 6219/12977
+Cidade Camocim de São Félix:  0/1321 => 0.0%
+Cidade Camutanga:  0/611 => 0.0%
+Cidade Canhotinho:  0/1671 => 0.0%
+Cidade Capoeiras:  0/1345 => 0.0%
+Cidade Carnaíba:  0/1393 => 0.0%
+Cidade Carnaubeira da Penha:  0/636 => 0.0%
+Cidade Carpina:  6637/6637 => 100.0%
+Mamógrafo 34 instalado em Carpina => 6637/6637
+Cidade Caruaru:  26298/26298 => 100.0%
+Mamógrafo 11 instalado em Caruaru => 6758/26298
+Mamógrafo 17 instalado em Caruaru => 6758/26298
+Mamógrafo 37 instalado em Caruaru => 6758/26298
+Mamógrafo 44 instalado em Caruaru => 6024/26298
+Cidade Casinhas:  0/967 => 0.0%
+Cidade Catende:  0/2807 => 0.0%
+Cidade Cedro:  0/724 => 0.0%
+Cidade Chã de Alegria:  0/914 => 0.0%
+Cidade Chã Grande:  1461/1461 => 100.0%
+Mamógrafo 54 instalado em Chã Grande => 1461/1461
+Cidade Condado:  0/1858 => 0.0%
+Cidade Correntes:  0/1237 => 0.0%
+Cidade Cortês:  807/866 => 93.18706697459585%
+Mamógrafo 38 instalado em Escada => 807/866
+Cidade Cumaru:  0/1314 => 0.0%
+Cidade Cupira:  1775/1775 => 100.0%
+Mamógrafo 44 instalado em Caruaru => 734/1775
+Mamógrafo 48 instalado em Caruaru => 1041/1775
+Cidade Custódia:  2608/2608 => 100.0%
+Mamógrafo 15 instalado em Custódia => 2608/2608
+Cidade Dormentes:  0/1133 => 0.0%
+Cidade Escada:  4888/4888 => 100.0%
+Mamógrafo 38 instalado em Escada => 4888/4888
+Cidade Exu:  0/2156 => 0.0%
+Cidade Feira Nova:  1626/1626 => 100.0%
+Mamógrafo 20 instalado em Moreno => 1626/1626
+Cidade Fernando de Noronha:  0/280 => 0.0%
+Cidade Ferreiros:  0/867 => 0.0%
+Cidade Flores:  1669/1669 => 100.0%
+Mamógrafo 68 instalado em Serra Talhada => 584/1669
+Mamógrafo 83 instalado em Serra Talhada => 1085/1669
+Cidade Floresta:  0/1936 => 0.0%
+Cidade Frei Miguelinho:  0/1106 => 0.0%
+Cidade Gameleira:  0/1843 => 0.0%
+Cidade Garanhuns:  10535/10535 => 100.0%
+Mamógrafo 18 instalado em Garanhuns => 6758/10535
+Mamógrafo 22 instalado em Garanhuns => 3777/10535
+Cidade Glória do Goitá:  0/2094 => 0.0%
+Cidade Goiana:  6244/6244 => 100.0%
+Mamógrafo 28 instalado em Goiana => 6244/6244
+Cidade Granito:  0/460 => 0.0%
+Cidade Gravatá:  6236/6236 => 100.0%
+Mamógrafo 31 instalado em Gravatá => 6236/6236
+Cidade Iati:  1210/1210 => 100.0%
+Mamógrafo 46 instalado em Iati => 1210/1210
+Cidade Ibimirim:  0/1813 => 0.0%
+Cidade Ibirajuba:  511/511 => 100.0%
+Mamógrafo 48 instalado em Caruaru => 511/511
+Cidade Igarassu:  0/8724 => 0.0%
+Cidade Iguaracy:  909/909 => 100.0%
+Mamógrafo 15 instalado em Custódia => 909/909
+Cidade Inajá:  0/1098 => 0.0%
+Cidade Ingazeira:  336/336 => 100.0%
+Mamógrafo 23 instalado em Afogados da Ingazeira => 336/336
+Cidade Ipojuca:  5592/5592 => 100.0%
+Mamógrafo 26 instalado em Ipojuca => 5592/5592
+Cidade Ipubi:  1722/1722 => 100.0%
+Mamógrafo 29 instalado em Ouricuri => 1722/1722
+Cidade Itacuruba:  0/294 => 0.0%
+Cidade Itaíba:  0/1790 => 0.0%
+Cidade Ilha de Itamaracá:  1522/1522 => 100.0%
+Mamógrafo 76 instalado em Paulista => 1522/1522
+Cidade Itambé:  2553/2553 => 100.0%
+Mamógrafo 7 instalado em Itambé => 2553/2553
+Cidade Itapetim:  0/1087 => 0.0%
+Cidade Itapissuma:  0/1766 => 0.0%
+Cidade Itaquitinga:  0/1138 => 0.0%
+Cidade Jaboatão dos Guararapes:  27032/59717 => 45.26684193780666%
+Mamógrafo 4 instalado em Jaboatão dos Guararapes => 6758/59717
+Mamógrafo 25 instalado em Jaboatão dos Guararapes => 6758/59717
+Mamógrafo 45 instalado em Jaboatão dos Guararapes => 6758/59717
+Mamógrafo 62 instalado em Jaboatão dos Guararapes => 6758/59717
+Cidade Jaqueira:  0/747 => 0.0%
+Cidade Jataúba:  0/1109 => 0.0%
+Cidade Jatobá:  1080/1080 => 100.0%
+Mamógrafo 41 instalado em Petrolândia => 1080/1080
+Cidade João Alfredo:  0/2310 => 0.0%
+Cidade Joaquim Nabuco:  1063/1063 => 100.0%
+Mamógrafo 38 instalado em Escada => 1063/1063
+Cidade Jucati:  0/705 => 0.0%
+Cidade Jupi:  0/969 => 0.0%
+Cidade Jurema:  0/973 => 0.0%
+Cidade Lagoa do Carro:  539/1282 => 42.043681747269886%
+Mamógrafo 35 instalado em Camaragibe => 539/1282
+Cidade Lagoa de Itaenga:  1513/1513 => 100.0%
+Mamógrafo 30 instalado em São Lourenço da Mata => 1513/1513
+Cidade Lagoa do Ouro:  0/873 => 0.0%
+Cidade Lagoa dos Gatos:  0/1069 => 0.0%
+Cidade Lagoa Grande:  1470/1470 => 100.0%
+Mamógrafo 52 instalado em Petrolina => 1470/1470
+Cidade Lajedo:  1156/2757 => 41.92963365977512%
+Mamógrafo 61 instalado em Belo Jardim => 1156/2757
+Cidade Limoeiro:  4729/4729 => 100.0%
+Mamógrafo 13 instalado em Limoeiro => 4729/4729
+Cidade Macaparana:  0/1772 => 0.0%
+Cidade Machados:  0/956 => 0.0%
+Cidade Manari:  0/1003 => 0.0%
+Cidade Maraial:  0/759 => 0.0%
+Cidade Mirandiba:  0/950 => 0.0%
+Cidade Moreno:  4756/4756 => 100.0%
+Mamógrafo 20 instalado em Moreno => 4756/4756
+Cidade Nazaré da Mata:  2763/2763 => 100.0%
+Mamógrafo 30 instalado em São Lourenço da Mata => 2763/2763
+Cidade Olinda:  6758/36518 => 18.505942275042443%
+Mamógrafo 0 instalado em Olinda => 6758/36518
+Cidade Orobó:  0/1701 => 0.0%
+Cidade Orocó:  0/848 => 0.0%
+Cidade Ouricuri:  4261/4261 => 100.0%
+Mamógrafo 29 instalado em Ouricuri => 4261/4261
+Cidade Palmares:  4580/4580 => 100.0%
+Mamógrafo 60 instalado em Palmares => 4580/4580
+Cidade Palmeirina:  0/548 => 0.0%
+Cidade Panelas:  0/1701 => 0.0%
+Cidade Paranatama:  0/779 => 0.0%
+Cidade Parnamirim:  0/1364 => 0.0%
+Cidade Passira:  0/2280 => 0.0%
+Cidade Paudalho:  3910/3910 => 100.0%
+Mamógrafo 19 instalado em Paudalho => 3910/3910
+Cidade Paulista:  29457/29457 => 100.0%
+Mamógrafo 9 instalado em Paulista => 6758/29457
+Mamógrafo 42 instalado em Paulista => 6758/29457
+Mamógrafo 57 instalado em Paulista => 6758/29457
+Mamógrafo 69 instalado em Paulista => 6758/29457
+Mamógrafo 76 instalado em Paulista => 2425/29457
+Cidade Pedra:  0/1477 => 0.0%
+Cidade Pesqueira:  4961/4961 => 100.0%
+Mamógrafo 5 instalado em Pesqueira => 4961/4961
+Cidade Petrolândia:  2272/2272 => 100.0%
+Mamógrafo 41 instalado em Petrolândia => 2272/2272
+Cidade Petrolina:  21562/21562 => 100.0%
+Mamógrafo 39 instalado em Petrolina => 6758/21562
+Mamógrafo 50 instalado em Petrolina => 6758/21562
+Mamógrafo 51 instalado em Petrolina => 6758/21562
+Mamógrafo 52 instalado em Petrolina => 1288/21562
+Cidade Poção:  0/888 => 0.0%
+Cidade Pombos:  0/1862 => 0.0%
+Cidade Primavera:  920/920 => 100.0%
+Mamógrafo 26 instalado em Ipojuca => 920/920
+Cidade Quipapá:  0/1737 => 0.0%
+Cidade Quixaba:  0/479 => 0.0%
+Cidade Recife:  128402/150838 => 85.12576406475821%
+Mamógrafo 14 instalado em Recife => 6758/150838
+Mamógrafo 70 instalado em Recife => 6758/150838
+Mamógrafo 78 instalado em Recife => 6758/150838
+Mamógrafo 81 instalado em Recife => 6758/150838
+Mamógrafo 82 instalado em Recife => 6758/150838
+Mamógrafo 90 instalado em Recife => 6758/150838
+Mamógrafo 92 instalado em Recife => 6758/150838
+Mamógrafo 94 instalado em Recife => 6758/150838
+Mamógrafo 100 instalado em Recife => 6758/150838
+Mamógrafo 101 instalado em Recife => 6758/150838
+Mamógrafo 106 instalado em Recife => 6758/150838
+Mamógrafo 107 instalado em Recife => 6758/150838
+Mamógrafo 108 instalado em Recife => 6758/150838
+Mamógrafo 109 instalado em Recife => 6758/150838
+Mamógrafo 110 instalado em Recife => 6758/150838
+Mamógrafo 111 instalado em Recife => 6758/150838
+Mamógrafo 112 instalado em Recife => 6758/150838
+Mamógrafo 113 instalado em Recife => 6758/150838
+Mamógrafo 114 instalado em Recife => 6758/150838
+Cidade Riacho das Almas:  0/1426 => 0.0%
+Cidade Ribeirão:  0/3406 => 0.0%
+Cidade Rio Formoso:  1565/1565 => 100.0%
+Mamógrafo 74 instalado em Cabo de Santo Agostinho => 1565/1565
+Cidade Sairé:  847/847 => 100.0%
+Mamógrafo 54 instalado em Chã Grande => 847/847
+Cidade Salgadinho:  679/679 => 100.0%
+Mamógrafo 53 instalado em Surubim => 679/679
+Cidade Salgueiro:  4220/4220 => 100.0%
+Mamógrafo 16 instalado em Salgueiro => 4220/4220
+Cidade Saloá:  1121/1121 => 100.0%
+Mamógrafo 46 instalado em Iati => 1121/1121
+Cidade Sanharó:  0/1596 => 0.0%
+Cidade Santa Cruz:  0/851 => 0.0%
+Cidade Santa Cruz da Baixa Verde:  0/857 => 0.0%
+Cidade Santa Cruz do Capibaribe:  0/6310 => 0.0%
+Cidade Santa Filomena:  0/835 => 0.0%
+Cidade Santa Maria da Boa Vista:  0/2501 => 0.0%
+Cidade Santa Maria do Cambucá:  920/920 => 100.0%
+Mamógrafo 1 instalado em Vertentes => 920/920
+Cidade Santa Terezinha:  0/771 => 0.0%
+Cidade São Benedito do Sul:  0/957 => 0.0%
+Cidade São Bento do Una:  0/3696 => 0.0%
+Cidade São Caitano:  0/2522 => 0.0%
+Cidade São João:  0/1442 => 0.0%
+Cidade São Joaquim do Monte:  1469/1469 => 100.0%
+Mamógrafo 60 instalado em Palmares => 1469/1469
+Cidade São José da Coroa Grande:  0/1322 => 0.0%
+Cidade São José do Belmonte:  0/2339 => 0.0%
+Cidade São José do Egito:  0/2485 => 0.0%
+Cidade São Lourenço da Mata:  8666/8666 => 100.0%
+Mamógrafo 6 instalado em São Lourenço da Mata => 6758/8666
+Mamógrafo 30 instalado em São Lourenço da Mata => 1908/8666
+Cidade São Vicente Férrer:  1195/1195 => 100.0%
+Mamógrafo 47 instalado em Timbaúba => 1195/1195
+Cidade Serra Talhada:  6174/6174 => 100.0%
+Mamógrafo 68 instalado em Serra Talhada => 6174/6174
+Cidade Serrita:  0/1191 => 0.0%
+Cidade Sertânia:  0/2557 => 0.0%
+Cidade Sirinhaém:  0/2630 => 0.0%
+Cidade Moreilândia:  0/757 => 0.0%
+Cidade Solidão:  0/395 => 0.0%
+Cidade Surubim:  4601/4601 => 100.0%
+Mamógrafo 53 instalado em Surubim => 4601/4601
+Cidade Tabira:  0/1978 => 0.0%
+Cidade Tacaimbó:  0/913 => 0.0%
+Cidade Tacaratu:  1427/1427 => 100.0%
+Mamógrafo 41 instalado em Petrolândia => 1427/1427
+Cidade Tamandaré:  0/1398 => 0.0%
+Cidade Taquaritinga do Norte:  0/1840 => 0.0%
+Cidade Terezinha:  0/482 => 0.0%
+Cidade Terra Nova:  646/646 => 100.0%
+Mamógrafo 16 instalado em Salgueiro => 646/646
+Cidade Timbaúba:  4345/4345 => 100.0%
+Mamógrafo 47 instalado em Timbaúba => 4345/4345
+Cidade Toritama:  0/2313 => 0.0%
+Cidade Tracunhaém:  0/989 => 0.0%
+Cidade Trindade:  1699/1699 => 100.0%
+Mamógrafo 3 instalado em Araripina => 1496/1699
+Mamógrafo 29 instalado em Ouricuri => 203/1699
+Cidade Triunfo:  0/1217 => 0.0%
+Cidade Tupanatinga:  0/1535 => 0.0%
+Cidade Tuparetama:  0/635 => 0.0%
+Cidade Venturosa:  1203/1203 => 100.0%
+Mamógrafo 22 instalado em Garanhuns => 1203/1203
+Cidade Verdejante:  660/660 => 100.0%
+Mamógrafo 16 instalado em Salgueiro => 660/660
+Cidade Vertente do Lério:  0/577 => 0.0%
+Cidade Vertentes:  1316/1316 => 100.0%
+Mamógrafo 1 instalado em Vertentes => 1316/1316
+Cidade Vicência:  0/2304 => 0.0%
+Cidade Vitória de Santo Antão:  10902/10902 => 100.0%
+Mamógrafo 10 instalado em Vitória de Santo Antão => 6758/10902
+Mamógrafo 72 instalado em Vitória de Santo Antão => 4144/10902
+Cidade Xexéu:  0/953 => 0.0%
+Coberturas
+0.7762462669423387
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.9318706697459584
+0.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.45266841937806657
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.4204368174726989
+1.0
+0.0
+0.0
+1.0
+0.4192963365977512
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.18505942275042445
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.8512576406475821
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0

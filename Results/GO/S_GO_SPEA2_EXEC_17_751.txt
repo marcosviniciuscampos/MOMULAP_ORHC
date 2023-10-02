@@ -1,0 +1,2144 @@
+1 -398629.0
+2 -2168761.798399999
+3 -0.3935706566327902
+Objective functions
+
+
+Mammography Units: 
+
+Mammography Unit 0 installed at Rio Verde non-used capacity 0
+
+Rio Verde => 6758/13888
+
+Mammography Unit 1 installed at Luziânia non-used capacity 0
+
+Luziânia => 6758/12916
+
+Mammography Unit 2 installed at Goiânia non-used capacity 0
+
+Goiânia => 6758/121318
+
+Mammography Unit 3 installed at Aparecida de Goiânia non-used capacity 0
+
+Aparecida de Goiânia => 6758/37056
+
+Mammography Unit 4 installed at Goiânia non-used capacity 0
+
+Goiânia => 6758/121318
+
+Mammography Unit 5 installed at Anápolis non-used capacity 0
+
+Anápolis => 6758/30197
+
+Mammography Unit 6 installed at Aparecida de Goiânia non-used capacity 0
+
+Aparecida de Goiânia => 6758/37056
+
+Mammography Unit 7 installed at Valparaíso de Goiás non-used capacity 0
+
+Valparaíso de Goiás => 6758/10302
+
+Mammography Unit 8 installed at Luziânia non-used capacity 0
+
+Luziânia => 6158/12916
+Novo Gama => 95/6853
+Valparaíso de Goiás => 505/10302
+
+Mammography Unit 9 installed at Aparecida de Goiânia non-used capacity 0
+
+Aparecida de Goiânia => 6758/37056
+
+Mammography Unit 10 installed at Itumbiara non-used capacity 0
+
+Itumbiara => 6758/8885
+
+Mammography Unit 11 installed at Catalão non-used capacity 0
+
+Catalão => 6758/7651
+
+Mammography Unit 12 installed at Jataí non-used capacity 0
+
+Jataí => 6758/7351
+
+Mammography Unit 13 installed at Formosa non-used capacity 0
+
+Formosa => 6758/7662
+
+Mammography Unit 14 installed at Goiânia non-used capacity 0
+
+Goiânia => 6758/121318
+
+Mammography Unit 15 installed at Goiânia non-used capacity 0
+
+Goiânia => 6758/121318
+
+Mammography Unit 16 installed at Goiânia non-used capacity 0
+
+Goiânia => 6758/121318
+
+Mammography Unit 17 installed at Anápolis non-used capacity 0
+
+Anápolis => 6758/30197
+
+Mammography Unit 18 installed at Goiânia non-used capacity 0
+
+Goiânia => 6758/121318
+
+Mammography Unit 19 installed at Rio Verde non-used capacity 0
+
+Rio Verde => 6758/13888
+
+Mammography Unit 20 installed at Itumbiara non-used capacity 3585
+
+Buriti Alegre => 811/811
+Itumbiara => 2127/8885
+Panamá => 235/235
+
+Mammography Unit 21 installed at Cachoeira Dourada non-used capacity 5531
+
+Cachoeira Dourada => 741/741
+Inaciolândia => 486/486
+
+Mammography Unit 22 installed at Senador Canedo non-used capacity 0
+
+Caldazinha => 291/291
+Santo Antônio de Goiás => 27/392
+Senador Canedo => 6440/6440
+
+Mammography Unit 23 installed at Anápolis non-used capacity 0
+
+Anápolis => 6758/30197
+
+Mammography Unit 24 installed at Goiânia non-used capacity 0
+
+Goiânia => 6758/121318
+
+Mammography Unit 25 installed at Bela Vista de Goiás non-used capacity 0
+
+Aparecida de Goiânia => 434/37056
+Bela Vista de Goiás => 2117/2117
+Cristianópolis => 257/257
+Hidrolândia => 1398/1398
+Piracanjuba => 2233/2233
+São Miguel do Passa Quatro => 319/319
+
+Mammography Unit 26 installed at Palmeiras de Goiás non-used capacity 0
+
+Avelinópolis => 223/223
+Campestre de Goiás => 282/282
+Cezarina => 656/656
+Firminópolis => 631/1126
+Jandaia => 584/584
+Nazário => 695/695
+Palmeiras de Goiás => 2042/2042
+Palminópolis => 352/352
+Santa Bárbara de Goiás => 494/494
+Turvânia => 461/461
+Varjão => 338/338
+
+Mammography Unit 27 installed at Goiânia non-used capacity 0
+
+Goiânia => 6758/121318
+
+Mammography Unit 28 installed at Goiânia non-used capacity 0
+
+Goiânia => 6758/121318
+
+Mammography Unit 29 installed at Inhumas non-used capacity 0
+
+Araçu => 360/360
+Brazabrantes => 296/296
+Damolândia => 286/286
+Inhumas => 4494/4494
+Ouro Verde de Goiás => 307/374
+Santa Rosa de Goiás => 298/298
+Santo Antônio de Goiás => 365/392
+Taquaral de Goiás => 352/352
+
+Mammography Unit 30 installed at Cidade Ocidental non-used capacity 0
+
+Cidade Ocidental => 4318/4318
+Valparaíso de Goiás => 2440/10302
+
+Mammography Unit 31 installed at Crixás non-used capacity 5013
+
+Crixás => 1287/1287
+Guarinos => 207/207
+Uirapuru => 251/251
+
+Mammography Unit 32 installed at Mineiros non-used capacity 2320
+
+Mineiros => 4127/4127
+Portelândia => 311/311
+
+Mammography Unit 33 installed at Rio Verde non-used capacity 6040
+
+Rio Verde => 372/13888
+Santo Antônio da Barra => 346/346
+
+Mammography Unit 34 installed at Goiânia non-used capacity 0
+
+Goiânia => 6758/121318
+
+Mammography Unit 35 installed at Águas Lindas de Goiás non-used capacity 0
+
+Águas Lindas de Goiás => 6758/10776
+
+Mammography Unit 36 installed at Montividiu do Norte non-used capacity 6113
+
+Montividiu do Norte => 338/338
+Trombas => 307/307
+
+Mammography Unit 37 installed at Heitoraí non-used capacity 0
+
+Carmo do Rio Verde => 798/798
+Guaraíta => 246/246
+Heitoraí => 314/314
+Itaberaí => 495/3009
+Itaguari => 406/406
+Itaguaru => 525/525
+Itapuranga => 2521/2521
+São Patrício => 181/181
+Uruana => 1272/1272
+
+Mammography Unit 38 installed at Hidrolina non-used capacity 3287
+
+Hidrolina => 369/369
+Itapaci => 1537/1537
+Pilar de Goiás => 251/251
+Santa Terezinha de Goiás => 939/939
+São Luiz do Norte => 375/375
+
+Mammography Unit 39 installed at Morrinhos non-used capacity 2541
+
+Aloândia => 191/191
+Morrinhos => 3747/3747
+Rio Quente => 279/279
+
+Mammography Unit 40 installed at Araguapaz non-used capacity 5528
+
+Araguapaz => 659/659
+Aruanã => 571/571
+
+Mammography Unit 41 installed at Indiara non-used capacity 3739
+
+Edéia => 975/975
+Indiara => 1122/1122
+Paraúna => 922/922
+
+Mammography Unit 42 installed at São João d'Aliança non-used capacity 6052
+
+São João d'Aliança => 706/706
+
+Mammography Unit 43 installed at Novo Gama non-used capacity 0
+
+Novo Gama => 6758/6853
+
+Mammography Unit 44 installed at Posse non-used capacity 2758
+
+Alvorada do Norte => 605/605
+Guarani de Goiás => 321/321
+Iaciara => 838/838
+Posse => 2236/2236
+
+Mammography Unit 45 installed at Formoso non-used capacity 5355
+
+Campinaçu => 309/309
+Estrela do Norte => 295/295
+Formoso => 457/457
+Santa Tereza de Goiás => 342/342
+
+Mammography Unit 46 installed at Anápolis non-used capacity 0
+
+Anápolis => 6758/30197
+
+Mammography Unit 47 installed at Padre Bernardo non-used capacity 4526
+
+Mimoso de Goiás => 208/208
+Padre Bernardo => 2024/2024
+
+Mammography Unit 48 installed at Mozarlândia non-used capacity 5708
+
+Mozarlândia => 1050/1050
+
+Mammography Unit 49 installed at Caldas Novas non-used capacity 0
+
+Água Limpa => 176/176
+Caldas Novas => 5981/5981
+Corumbaíba => 433/701
+Marzagão => 168/168
+
+Mammography Unit 50 installed at Cachoeira Dourada non-used capacity 6758
+
+
+Mammography Unit 51 installed at Ceres non-used capacity 1950
+
+Ceres => 2044/2044
+Ipiranga de Goiás => 271/271
+Nova Glória => 765/765
+Rialma => 987/987
+Rianápolis => 392/392
+Santa Isabel => 349/349
+
+Mammography Unit 52 installed at Aragarças non-used capacity 5198
+
+Aragarças => 1560/1560
+
+Mammography Unit 53 installed at Goiânia non-used capacity 0
+
+Goiânia => 6758/121318
+
+Mammography Unit 54 installed at Iporá non-used capacity 2893
+
+Diorama => 228/228
+Iporá => 3084/3084
+Israelândia => 271/271
+Jaupaci => 282/282
+
+Mammography Unit 55 installed at Amorinópolis non-used capacity 6151
+
+Amorinópolis => 346/346
+Ivolândia => 261/261
+
+Mammography Unit 56 installed at Paranaiguara non-used capacity 3688
+
+Cachoeira Alta => 820/820
+Paranaiguara => 790/790
+São Simão => 1460/1460
+
+Mammography Unit 57 installed at Ipameri non-used capacity 4276
+
+Ipameri => 2191/2191
+Urutaí => 291/291
+
+Mammography Unit 58 installed at Goianésia non-used capacity 367
+
+Barro Alto => 673/673
+Goianésia => 5030/5030
+Santa Rita do Novo Destino => 273/273
+Vila Propício => 415/415
+
+Mammography Unit 59 installed at Santa Rita do Araguaia non-used capacity 6223
+
+Santa Rita do Araguaia => 535/535
+
+Mammography Unit 60 installed at Joviânia non-used capacity 5541
+
+Joviânia => 613/613
+Vicentinópolis => 604/604
+
+Mammography Unit 61 installed at Goiatuba non-used capacity 3781
+
+Goiatuba => 2977/2977
+
+Mammography Unit 62 installed at Mara Rosa non-used capacity 4643
+
+Alto Horizonte => 320/320
+Amaralina => 307/307
+Mara Rosa => 924/924
+Mutunópolis => 326/326
+Nova Iguaçu de Goiás => 238/238
+
+Mammography Unit 63 installed at Vila Boa non-used capacity 6470
+
+Vila Boa => 288/288
+
+Mammography Unit 64 installed at Edealina non-used capacity 6196
+
+Edealina => 327/327
+Mairipotaba => 235/235
+
+Mammography Unit 65 installed at Mambaí non-used capacity 5841
+
+Damianópolis => 266/266
+Mambaí => 441/441
+Sítio d'Abadia => 210/210
+
+Mammography Unit 66 installed at Faina non-used capacity 5742
+
+Faina => 625/625
+Matrinchã => 391/391
+
+Mammography Unit 67 installed at Maurilândia non-used capacity 5059
+
+Castelândia => 319/319
+Maurilândia => 807/807
+Porteirão => 255/255
+Turvelândia => 318/318
+
+Mammography Unit 68 installed at Aparecida de Goiânia non-used capacity 0
+
+Aparecida de Goiânia => 6758/37056
+
+Mammography Unit 69 installed at Santa Helena de Goiás non-used capacity 3497
+
+Santa Helena de Goiás => 3261/3261
+
+Mammography Unit 70 installed at Porangatu non-used capacity 2910
+
+Novo Planalto => 329/329
+Porangatu => 3519/3519
+
+Mammography Unit 71 installed at Jussara non-used capacity 2960
+
+Fazenda Nova => 600/600
+Itapirapuã => 713/713
+Jussara => 1763/1763
+Novo Brasil => 338/338
+Santa Fé de Goiás => 384/384
+
+Mammography Unit 72 installed at Campinorte non-used capacity 5855
+
+Campinorte => 903/903
+
+Mammography Unit 73 installed at Silvânia non-used capacity 2557
+
+Bonfinópolis => 633/633
+Gameleira de Goiás => 270/270
+Leopoldo de Bulhões => 648/648
+Silvânia => 1610/1610
+Vianópolis => 1040/1040
+
+Mammography Unit 74 installed at Alto Paraíso de Goiás non-used capacity 6251
+
+Alto Paraíso de Goiás => 507/507
+
+Mammography Unit 75 installed at Montividiu non-used capacity 5932
+
+Montividiu => 826/826
+
+Mammography Unit 76 installed at Quirinópolis non-used capacity 3035
+
+Quirinópolis => 3723/3723
+
+Mammography Unit 77 installed at Cristalina non-used capacity 3360
+
+Cristalina => 3398/3398
+
+Mammography Unit 78 installed at Simolândia non-used capacity 6060
+
+Buritinópolis => 241/241
+Simolândia => 457/457
+
+Mammography Unit 79 installed at Acreúna non-used capacity 5079
+
+Acreúna => 1679/1679
+
+Mammography Unit 80 installed at Uruaçu non-used capacity 3615
+
+Uruaçu => 3143/3143
+
+Mammography Unit 81 installed at Aporé non-used capacity 6020
+
+Aporé => 310/310
+Itajá => 428/428
+
+Mammography Unit 82 installed at Nova Crixás non-used capacity 5260
+
+Mundo Novo => 543/543
+Nova Crixás => 955/955
+
+Mammography Unit 83 installed at Chapadão do Céu non-used capacity 6308
+
+Chapadão do Céu => 450/450
+
+Mammography Unit 84 installed at Divinópolis de Goiás non-used capacity 5589
+
+Divinópolis de Goiás => 367/367
+São Domingos => 802/802
+
+Mammography Unit 85 installed at Niquelândia non-used capacity 3368
+
+Niquelândia => 3390/3390
+
+Mammography Unit 86 installed at Minaçu non-used capacity 4115
+
+Minaçu => 2643/2643
+
+Mammography Unit 87 installed at Caiapônia non-used capacity 4954
+
+Caiapônia => 1516/1516
+Palestina de Goiás => 288/288
+
+Mammography Unit 88 installed at Pires do Rio non-used capacity 3633
+
+Palmelo => 221/221
+Pires do Rio => 2615/2615
+Santa Cruz de Goiás => 289/289
+
+Mammography Unit 89 installed at Rubiataba non-used capacity 4630
+
+Morro Agudo de Goiás => 225/225
+Nova América => 200/200
+Rubiataba => 1703/1703
+
+Mammography Unit 90 installed at São Luís de Montes Belos non-used capacity 738
+
+Adelândia => 218/218
+Aurilândia => 364/364
+Buriti de Goiás => 247/247
+Cachoeira de Goiás => 119/119
+Córrego do Ouro => 252/252
+Firminópolis => 495/1126
+Moiporá => 174/174
+Mossâmedes => 466/466
+Sanclerlândia => 683/683
+São João da Paraúna => 167/167
+São Luís de Montes Belos => 2835/2835
+
+Mammography Unit 91 installed at Jaraguá non-used capacity 1648
+
+Jaraguá => 3466/3466
+Jesúpolis => 196/196
+Petrolina de Goiás => 909/909
+São Francisco de Goiás => 539/539
+
+Mammography Unit 92 installed at Pontalina non-used capacity 4583
+
+Cromínia => 327/327
+Pontalina => 1560/1560
+Professor Jamil => 288/288
+
+Mammography Unit 93 installed at Bom Jardim de Goiás non-used capacity 5671
+
+Baliza => 317/317
+Bom Jardim de Goiás => 770/770
+
+Mammography Unit 94 installed at Goiânia non-used capacity 0
+
+Goiânia => 6758/121318
+
+Mammography Unit 95 installed at Trindade non-used capacity 0
+
+Trindade => 6758/9052
+
+Mammography Unit 96 installed at Orizona non-used capacity 5502
+
+Orizona => 1256/1256
+
+Mammography Unit 97 installed at Campos Belos non-used capacity 4872
+
+Campos Belos => 1350/1350
+Monte Alegre de Goiás => 536/536
+
+Mammography Unit 98 installed at Caçu non-used capacity 4934
+
+Aparecida do Rio Doce => 204/204
+Caçu => 1116/1116
+Itarumã => 504/504
+
+Mammography Unit 99 installed at Piranhas non-used capacity 5362
+
+Arenópolis => 320/320
+Piranhas => 1076/1076
+
+Cities covered by the equipment 0 => Rio Verde, 
+
+
+Cities covered by the equipment 1 => Luziânia, 
+
+
+Cities covered by the equipment 2 => Goiânia, 
+
+
+Cities covered by the equipment 3 => Aparecida de Goiânia, 
+
+
+Cities covered by the equipment 4 => Goiânia, 
+
+
+Cities covered by the equipment 5 => Anápolis, 
+
+
+Cities covered by the equipment 6 => Aparecida de Goiânia, 
+
+
+Cities covered by the equipment 7 => Valparaíso de Goiás, 
+
+
+Cities covered by the equipment 8 => Luziânia, Novo Gama, Valparaíso de Goiás, 
+
+
+Cities covered by the equipment 9 => Aparecida de Goiânia, 
+
+
+Cities covered by the equipment 10 => Itumbiara, 
+
+
+Cities covered by the equipment 11 => Catalão, 
+
+
+Cities covered by the equipment 12 => Jataí, 
+
+
+Cities covered by the equipment 13 => Formosa, 
+
+
+Cities covered by the equipment 14 => Goiânia, 
+
+
+Cities covered by the equipment 15 => Goiânia, 
+
+
+Cities covered by the equipment 16 => Goiânia, 
+
+
+Cities covered by the equipment 17 => Anápolis, 
+
+
+Cities covered by the equipment 18 => Goiânia, 
+
+
+Cities covered by the equipment 19 => Rio Verde, 
+
+
+Cities covered by the equipment 20 => Buriti Alegre, Itumbiara, Panamá, 
+
+
+Cities covered by the equipment 21 => Cachoeira Dourada, Inaciolândia, 
+
+
+Cities covered by the equipment 22 => Caldazinha, Santo Antônio de Goiás, Senador Canedo, 
+
+
+Cities covered by the equipment 23 => Anápolis, 
+
+
+Cities covered by the equipment 24 => Goiânia, 
+
+
+Cities covered by the equipment 25 => Aparecida de Goiânia, Bela Vista de Goiás, Cristianópolis, Hidrolândia, Piracanjuba, São Miguel do Passa Quatro, 
+
+
+Cities covered by the equipment 26 => Avelinópolis, Campestre de Goiás, Cezarina, Firminópolis, Jandaia, Nazário, Palmeiras de Goiás, Palminópolis, Santa Bárbara de Goiás, Turvânia, Varjão, 
+
+
+Cities covered by the equipment 27 => Goiânia, 
+
+
+Cities covered by the equipment 28 => Goiânia, 
+
+
+Cities covered by the equipment 29 => Araçu, Brazabrantes, Damolândia, Inhumas, Ouro Verde de Goiás, Santa Rosa de Goiás, Santo Antônio de Goiás, Taquaral de Goiás, 
+
+
+Cities covered by the equipment 30 => Cidade Ocidental, Valparaíso de Goiás, 
+
+
+Cities covered by the equipment 31 => Crixás, Guarinos, Uirapuru, 
+
+
+Cities covered by the equipment 32 => Mineiros, Portelândia, 
+
+
+Cities covered by the equipment 33 => Rio Verde, Santo Antônio da Barra, 
+
+
+Cities covered by the equipment 34 => Goiânia, 
+
+
+Cities covered by the equipment 35 => Águas Lindas de Goiás, 
+
+
+Cities covered by the equipment 36 => Montividiu do Norte, Trombas, 
+
+
+Cities covered by the equipment 37 => Carmo do Rio Verde, Guaraíta, Heitoraí, Itaberaí, Itaguari, Itaguaru, Itapuranga, São Patrício, Uruana, 
+
+
+Cities covered by the equipment 38 => Hidrolina, Itapaci, Pilar de Goiás, Santa Terezinha de Goiás, São Luiz do Norte, 
+
+
+Cities covered by the equipment 39 => Aloândia, Morrinhos, Rio Quente, 
+
+
+Cities covered by the equipment 40 => Araguapaz, Aruanã, 
+
+
+Cities covered by the equipment 41 => Edéia, Indiara, Paraúna, 
+
+
+Cities covered by the equipment 42 => São João d'Aliança, 
+
+
+Cities covered by the equipment 43 => Novo Gama, 
+
+
+Cities covered by the equipment 44 => Alvorada do Norte, Guarani de Goiás, Iaciara, Posse, 
+
+
+Cities covered by the equipment 45 => Campinaçu, Estrela do Norte, Formoso, Santa Tereza de Goiás, 
+
+
+Cities covered by the equipment 46 => Anápolis, 
+
+
+Cities covered by the equipment 47 => Mimoso de Goiás, Padre Bernardo, 
+
+
+Cities covered by the equipment 48 => Mozarlândia, 
+
+
+Cities covered by the equipment 49 => Água Limpa, Caldas Novas, Corumbaíba, Marzagão, 
+
+
+Cities covered by the equipment 50 => 
+
+
+Cities covered by the equipment 51 => Ceres, Ipiranga de Goiás, Nova Glória, Rialma, Rianápolis, Santa Isabel, 
+
+
+Cities covered by the equipment 52 => Aragarças, 
+
+
+Cities covered by the equipment 53 => Goiânia, 
+
+
+Cities covered by the equipment 54 => Diorama, Iporá, Israelândia, Jaupaci, 
+
+
+Cities covered by the equipment 55 => Amorinópolis, Ivolândia, 
+
+
+Cities covered by the equipment 56 => Cachoeira Alta, Paranaiguara, São Simão, 
+
+
+Cities covered by the equipment 57 => Ipameri, Urutaí, 
+
+
+Cities covered by the equipment 58 => Barro Alto, Goianésia, Santa Rita do Novo Destino, Vila Propício, 
+
+
+Cities covered by the equipment 59 => Santa Rita do Araguaia, 
+
+
+Cities covered by the equipment 60 => Joviânia, Vicentinópolis, 
+
+
+Cities covered by the equipment 61 => Goiatuba, 
+
+
+Cities covered by the equipment 62 => Alto Horizonte, Amaralina, Mara Rosa, Mutunópolis, Nova Iguaçu de Goiás, 
+
+
+Cities covered by the equipment 63 => Vila Boa, 
+
+
+Cities covered by the equipment 64 => Edealina, Mairipotaba, 
+
+
+Cities covered by the equipment 65 => Damianópolis, Mambaí, Sítio d'Abadia, 
+
+
+Cities covered by the equipment 66 => Faina, Matrinchã, 
+
+
+Cities covered by the equipment 67 => Castelândia, Maurilândia, Porteirão, Turvelândia, 
+
+
+Cities covered by the equipment 68 => Aparecida de Goiânia, 
+
+
+Cities covered by the equipment 69 => Santa Helena de Goiás, 
+
+
+Cities covered by the equipment 70 => Novo Planalto, Porangatu, 
+
+
+Cities covered by the equipment 71 => Fazenda Nova, Itapirapuã, Jussara, Novo Brasil, Santa Fé de Goiás, 
+
+
+Cities covered by the equipment 72 => Campinorte, 
+
+
+Cities covered by the equipment 73 => Bonfinópolis, Gameleira de Goiás, Leopoldo de Bulhões, Silvânia, Vianópolis, 
+
+
+Cities covered by the equipment 74 => Alto Paraíso de Goiás, 
+
+
+Cities covered by the equipment 75 => Montividiu, 
+
+
+Cities covered by the equipment 76 => Quirinópolis, 
+
+
+Cities covered by the equipment 77 => Cristalina, 
+
+
+Cities covered by the equipment 78 => Buritinópolis, Simolândia, 
+
+
+Cities covered by the equipment 79 => Acreúna, 
+
+
+Cities covered by the equipment 80 => Uruaçu, 
+
+
+Cities covered by the equipment 81 => Aporé, Itajá, 
+
+
+Cities covered by the equipment 82 => Mundo Novo, Nova Crixás, 
+
+
+Cities covered by the equipment 83 => Chapadão do Céu, 
+
+
+Cities covered by the equipment 84 => Divinópolis de Goiás, São Domingos, 
+
+
+Cities covered by the equipment 85 => Niquelândia, 
+
+
+Cities covered by the equipment 86 => Minaçu, 
+
+
+Cities covered by the equipment 87 => Caiapônia, Palestina de Goiás, 
+
+
+Cities covered by the equipment 88 => Palmelo, Pires do Rio, Santa Cruz de Goiás, 
+
+
+Cities covered by the equipment 89 => Morro Agudo de Goiás, Nova América, Rubiataba, 
+
+
+Cities covered by the equipment 90 => Adelândia, Aurilândia, Buriti de Goiás, Cachoeira de Goiás, Córrego do Ouro, Firminópolis, Moiporá, Mossâmedes, Sanclerlândia, São João da Paraúna, São Luís de Montes Belos, 
+
+
+Cities covered by the equipment 91 => Jaraguá, Jesúpolis, Petrolina de Goiás, São Francisco de Goiás, 
+
+
+Cities covered by the equipment 92 => Cromínia, Pontalina, Professor Jamil, 
+
+
+Cities covered by the equipment 93 => Baliza, Bom Jardim de Goiás, 
+
+
+Cities covered by the equipment 94 => Goiânia, 
+
+
+Cities covered by the equipment 95 => Trindade, 
+
+
+Cities covered by the equipment 96 => Orizona, 
+
+
+Cities covered by the equipment 97 => Campos Belos, Monte Alegre de Goiás, 
+
+
+Cities covered by the equipment 98 => Aparecida do Rio Doce, Caçu, Itarumã, 
+
+
+Cities covered by the equipment 99 => Arenópolis, Piranhas, 
+
+
+
+List of mammography units in Abadia de Goiás: 
+
+
+List of mammography units in Abadiânia: 
+
+
+List of mammography units in Acreúna: 79, 
+
+
+List of mammography units in Água Fria de Goiás: 
+
+
+List of mammography units in Águas Lindas de Goiás: 35, 
+
+
+List of mammography units in Alexânia: 
+
+
+List of mammography units in Alto Horizonte: 
+
+
+List of mammography units in Alto Paraíso de Goiás: 74, 
+
+
+List of mammography units in Alvorada do Norte: 
+
+
+List of mammography units in Amaralina: 
+
+
+List of mammography units in Americano do Brasil: 
+
+
+List of mammography units in Amorinópolis: 55, 
+
+
+List of mammography units in Anápolis: 5, 17, 23, 46, 
+
+
+List of mammography units in Anicuns: 
+
+
+List of mammography units in Aparecida de Goiânia: 3, 6, 9, 68, 
+
+
+List of mammography units in Aporé: 81, 
+
+
+List of mammography units in Araçu: 
+
+
+List of mammography units in Aragarças: 52, 
+
+
+List of mammography units in Aragoiânia: 
+
+
+List of mammography units in Araguapaz: 40, 
+
+
+List of mammography units in Arenópolis: 
+
+
+List of mammography units in Aruanã: 
+
+
+List of mammography units in Aurilândia: 
+
+
+List of mammography units in Baliza: 
+
+
+List of mammography units in Barro Alto: 
+
+
+List of mammography units in Bela Vista de Goiás: 25, 
+
+
+List of mammography units in Bom Jardim de Goiás: 93, 
+
+
+List of mammography units in Bom Jesus de Goiás: 
+
+
+List of mammography units in Bonfinópolis: 
+
+
+List of mammography units in Brazabrantes: 
+
+
+List of mammography units in Britânia: 
+
+
+List of mammography units in Buriti Alegre: 
+
+
+List of mammography units in Cabeceiras: 
+
+
+List of mammography units in Cachoeira Alta: 
+
+
+List of mammography units in Cachoeira Dourada: 21, 50, 
+
+
+List of mammography units in Caçu: 98, 
+
+
+List of mammography units in Caiapônia: 87, 
+
+
+List of mammography units in Caldas Novas: 49, 
+
+
+List of mammography units in Caldazinha: 
+
+
+List of mammography units in Campinaçu: 
+
+
+List of mammography units in Campinorte: 72, 
+
+
+List of mammography units in Campo Alegre de Goiás: 
+
+
+List of mammography units in Campo Limpo de Goiás: 
+
+
+List of mammography units in Campos Belos: 97, 
+
+
+List of mammography units in Campos Verdes: 
+
+
+List of mammography units in Carmo do Rio Verde: 
+
+
+List of mammography units in Castelândia: 
+
+
+List of mammography units in Catalão: 11, 
+
+
+List of mammography units in Caturaí: 
+
+
+List of mammography units in Cavalcante: 
+
+
+List of mammography units in Ceres: 51, 
+
+
+List of mammography units in Cezarina: 
+
+
+List of mammography units in Chapadão do Céu: 83, 
+
+
+List of mammography units in Cidade Ocidental: 30, 
+
+
+List of mammography units in Cocalzinho de Goiás: 
+
+
+List of mammography units in Corumbá de Goiás: 
+
+
+List of mammography units in Corumbaíba: 
+
+
+List of mammography units in Cristalina: 77, 
+
+
+List of mammography units in Crixás: 31, 
+
+
+List of mammography units in Cromínia: 
+
+
+List of mammography units in Doverlândia: 
+
+
+List of mammography units in Edealina: 64, 
+
+
+List of mammography units in Edéia: 
+
+
+List of mammography units in Estrela do Norte: 
+
+
+List of mammography units in Faina: 66, 
+
+
+List of mammography units in Fazenda Nova: 
+
+
+List of mammography units in Firminópolis: 
+
+
+List of mammography units in Flores de Goiás: 
+
+
+List of mammography units in Formosa: 13, 
+
+
+List of mammography units in Formoso: 45, 
+
+
+List of mammography units in Divinópolis de Goiás: 84, 
+
+
+List of mammography units in Goianápolis: 
+
+
+List of mammography units in Goiandira: 
+
+
+List of mammography units in Goianésia: 58, 
+
+
+List of mammography units in Goiânia: 2, 4, 14, 15, 16, 18, 24, 27, 28, 34, 53, 94, 
+
+
+List of mammography units in Goianira: 
+
+
+List of mammography units in Goiás: 
+
+
+List of mammography units in Goiatuba: 61, 
+
+
+List of mammography units in Gouvelândia: 
+
+
+List of mammography units in Guapó: 
+
+
+List of mammography units in Guarani de Goiás: 
+
+
+List of mammography units in Heitoraí: 37, 
+
+
+List of mammography units in Hidrolândia: 
+
+
+List of mammography units in Hidrolina: 38, 
+
+
+List of mammography units in Iaciara: 
+
+
+List of mammography units in Inaciolândia: 
+
+
+List of mammography units in Indiara: 41, 
+
+
+List of mammography units in Inhumas: 29, 
+
+
+List of mammography units in Ipameri: 57, 
+
+
+List of mammography units in Iporá: 54, 
+
+
+List of mammography units in Itaberaí: 
+
+
+List of mammography units in Itaguari: 
+
+
+List of mammography units in Itaguaru: 
+
+
+List of mammography units in Itajá: 
+
+
+List of mammography units in Itapaci: 
+
+
+List of mammography units in Itapirapuã: 
+
+
+List of mammography units in Itapuranga: 
+
+
+List of mammography units in Itarumã: 
+
+
+List of mammography units in Itauçu: 
+
+
+List of mammography units in Itumbiara: 10, 20, 
+
+
+List of mammography units in Jandaia: 
+
+
+List of mammography units in Jaraguá: 91, 
+
+
+List of mammography units in Jataí: 12, 
+
+
+List of mammography units in Joviânia: 60, 
+
+
+List of mammography units in Jussara: 71, 
+
+
+List of mammography units in Leopoldo de Bulhões: 
+
+
+List of mammography units in Luziânia: 1, 8, 
+
+
+List of mammography units in Mambaí: 65, 
+
+
+List of mammography units in Mara Rosa: 62, 
+
+
+List of mammography units in Matrinchã: 
+
+
+List of mammography units in Maurilândia: 67, 
+
+
+List of mammography units in Minaçu: 86, 
+
+
+List of mammography units in Mineiros: 32, 
+
+
+List of mammography units in Monte Alegre de Goiás: 
+
+
+List of mammography units in Montes Claros de Goiás: 
+
+
+List of mammography units in Montividiu: 75, 
+
+
+List of mammography units in Montividiu do Norte: 36, 
+
+
+List of mammography units in Morrinhos: 39, 
+
+
+List of mammography units in Mossâmedes: 
+
+
+List of mammography units in Mozarlândia: 48, 
+
+
+List of mammography units in Mundo Novo: 
+
+
+List of mammography units in Mutunópolis: 
+
+
+List of mammography units in Nazário: 
+
+
+List of mammography units in Nerópolis: 
+
+
+List of mammography units in Niquelândia: 85, 
+
+
+List of mammography units in Nova Crixás: 82, 
+
+
+List of mammography units in Nova Glória: 
+
+
+List of mammography units in Nova Veneza: 
+
+
+List of mammography units in Novo Brasil: 
+
+
+List of mammography units in Novo Gama: 43, 
+
+
+List of mammography units in Novo Planalto: 
+
+
+List of mammography units in Orizona: 96, 
+
+
+List of mammography units in Ouro Verde de Goiás: 
+
+
+List of mammography units in Ouvidor: 
+
+
+List of mammography units in Padre Bernardo: 47, 
+
+
+List of mammography units in Palestina de Goiás: 
+
+
+List of mammography units in Palmeiras de Goiás: 26, 
+
+
+List of mammography units in Palminópolis: 
+
+
+List of mammography units in Paranaiguara: 56, 
+
+
+List of mammography units in Paraúna: 
+
+
+List of mammography units in Petrolina de Goiás: 
+
+
+List of mammography units in Piracanjuba: 
+
+
+List of mammography units in Piranhas: 99, 
+
+
+List of mammography units in Pirenópolis: 
+
+
+List of mammography units in Pires do Rio: 88, 
+
+
+List of mammography units in Planaltina: 
+
+
+List of mammography units in Pontalina: 92, 
+
+
+List of mammography units in Porangatu: 70, 
+
+
+List of mammography units in Portelândia: 
+
+
+List of mammography units in Posse: 44, 
+
+
+List of mammography units in Professor Jamil: 
+
+
+List of mammography units in Quirinópolis: 76, 
+
+
+List of mammography units in Rialma: 
+
+
+List of mammography units in Rianápolis: 
+
+
+List of mammography units in Rio Verde: 0, 19, 33, 
+
+
+List of mammography units in Rubiataba: 89, 
+
+
+List of mammography units in Sanclerlândia: 
+
+
+List of mammography units in Santa Bárbara de Goiás: 
+
+
+List of mammography units in Santa Cruz de Goiás: 
+
+
+List of mammography units in Santa Fé de Goiás: 
+
+
+List of mammography units in Santa Helena de Goiás: 69, 
+
+
+List of mammography units in Santa Isabel: 
+
+
+List of mammography units in Santa Rita do Araguaia: 59, 
+
+
+List of mammography units in Santa Rosa de Goiás: 
+
+
+List of mammography units in Santa Tereza de Goiás: 
+
+
+List of mammography units in Santa Terezinha de Goiás: 
+
+
+List of mammography units in Santo Antônio da Barra: 
+
+
+List of mammography units in Santo Antônio de Goiás: 
+
+
+List of mammography units in Santo Antônio do Descoberto: 
+
+
+List of mammography units in São Domingos: 
+
+
+List of mammography units in São Francisco de Goiás: 
+
+
+List of mammography units in São João d'Aliança: 42, 
+
+
+List of mammography units in São Luís de Montes Belos: 90, 
+
+
+List of mammography units in São Luiz do Norte: 
+
+
+List of mammography units in São Miguel do Araguaia: 
+
+
+List of mammography units in São Miguel do Passa Quatro: 
+
+
+List of mammography units in São Simão: 
+
+
+List of mammography units in Senador Canedo: 22, 
+
+
+List of mammography units in Serranópolis: 
+
+
+List of mammography units in Silvânia: 73, 
+
+
+List of mammography units in Simolândia: 78, 
+
+
+List of mammography units in Taquaral de Goiás: 
+
+
+List of mammography units in Terezópolis de Goiás: 
+
+
+List of mammography units in Trindade: 95, 
+
+
+List of mammography units in Trombas: 
+
+
+List of mammography units in Turvânia: 
+
+
+List of mammography units in Turvelândia: 
+
+
+List of mammography units in Uruaçu: 80, 
+
+
+List of mammography units in Uruana: 
+
+
+List of mammography units in Urutaí: 
+
+
+List of mammography units in Valparaíso de Goiás: 7, 
+
+
+List of mammography units in Varjão: 
+
+
+List of mammography units in Vianópolis: 
+
+
+List of mammography units in Vicentinópolis: 
+
+
+List of mammography units in Vila Boa: 63, 
+
+
+List of mammography units in Vila Propício: 
+
+
+
+Demand coverage
+City Abadia de Goiás:  0/586 => 0.0%
+City Abadiânia:  0/1252 => 0.0%
+City Acreúna:  1679/1679 => 100.0%
+Mammography Unit 79 installed at Acreúna => 1679/1679
+City Adelândia:  218/218 => 100.0%
+Mammography Unit 90 installed at São Luís de Montes Belos => 218/218
+City Água Fria de Goiás:  0/386 => 0.0%
+City Água Limpa:  176/176 => 100.0%
+Mammography Unit 49 installed at Caldas Novas => 176/176
+City Águas Lindas de Goiás:  6758/10776 => 62.71343726800297%
+Mammography Unit 35 installed at Águas Lindas de Goiás => 6758/10776
+City Alexânia:  0/1880 => 0.0%
+City Aloândia:  191/191 => 100.0%
+Mammography Unit 39 installed at Morrinhos => 191/191
+City Alto Horizonte:  320/320 => 100.0%
+Mammography Unit 62 installed at Mara Rosa => 320/320
+City Alto Paraíso de Goiás:  507/507 => 100.0%
+Mammography Unit 74 installed at Alto Paraíso de Goiás => 507/507
+City Alvorada do Norte:  605/605 => 100.0%
+Mammography Unit 44 installed at Posse => 605/605
+City Amaralina:  307/307 => 100.0%
+Mammography Unit 62 installed at Mara Rosa => 307/307
+City Americano do Brasil:  0/479 => 0.0%
+City Amorinópolis:  346/346 => 100.0%
+Mammography Unit 55 installed at Amorinópolis => 346/346
+City Anápolis:  27032/30197 => 89.5188263734808%
+Mammography Unit 5 installed at Anápolis => 6758/30197
+Mammography Unit 17 installed at Anápolis => 6758/30197
+Mammography Unit 23 installed at Anápolis => 6758/30197
+Mammography Unit 46 installed at Anápolis => 6758/30197
+City Anhanguera:  0/96 => 0.0%
+City Anicuns:  0/1766 => 0.0%
+City Aparecida de Goiânia:  27466/37056 => 74.12025043177893%
+Mammography Unit 3 installed at Aparecida de Goiânia => 6758/37056
+Mammography Unit 6 installed at Aparecida de Goiânia => 6758/37056
+Mammography Unit 9 installed at Aparecida de Goiânia => 6758/37056
+Mammography Unit 25 installed at Bela Vista de Goiás => 434/37056
+Mammography Unit 68 installed at Aparecida de Goiânia => 6758/37056
+City Aparecida do Rio Doce:  204/204 => 100.0%
+Mammography Unit 98 installed at Caçu => 204/204
+City Aporé:  310/310 => 100.0%
+Mammography Unit 81 installed at Aporé => 310/310
+City Araçu:  360/360 => 100.0%
+Mammography Unit 29 installed at Inhumas => 360/360
+City Aragarças:  1560/1560 => 100.0%
+Mammography Unit 52 installed at Aragarças => 1560/1560
+City Aragoiânia:  0/724 => 0.0%
+City Araguapaz:  659/659 => 100.0%
+Mammography Unit 40 installed at Araguapaz => 659/659
+City Arenópolis:  320/320 => 100.0%
+Mammography Unit 99 installed at Piranhas => 320/320
+City Aruanã:  571/571 => 100.0%
+Mammography Unit 40 installed at Araguapaz => 571/571
+City Aurilândia:  364/364 => 100.0%
+Mammography Unit 90 installed at São Luís de Montes Belos => 364/364
+City Avelinópolis:  223/223 => 100.0%
+Mammography Unit 26 installed at Palmeiras de Goiás => 223/223
+City Baliza:  317/317 => 100.0%
+Mammography Unit 93 installed at Bom Jardim de Goiás => 317/317
+City Barro Alto:  673/673 => 100.0%
+Mammography Unit 58 installed at Goianésia => 673/673
+City Bela Vista de Goiás:  2117/2117 => 100.0%
+Mammography Unit 25 installed at Bela Vista de Goiás => 2117/2117
+City Bom Jardim de Goiás:  770/770 => 100.0%
+Mammography Unit 93 installed at Bom Jardim de Goiás => 770/770
+City Bom Jesus de Goiás:  0/1658 => 0.0%
+City Bonfinópolis:  633/633 => 100.0%
+Mammography Unit 73 installed at Silvânia => 633/633
+City Bonópolis:  0/280 => 0.0%
+City Brazabrantes:  296/296 => 100.0%
+Mammography Unit 29 installed at Inhumas => 296/296
+City Britânia:  0/495 => 0.0%
+City Buriti Alegre:  811/811 => 100.0%
+Mammography Unit 20 installed at Itumbiara => 811/811
+City Buriti de Goiás:  247/247 => 100.0%
+Mammography Unit 90 installed at São Luís de Montes Belos => 247/247
+City Buritinópolis:  241/241 => 100.0%
+Mammography Unit 78 installed at Simolândia => 241/241
+City Cabeceiras:  0/543 => 0.0%
+City Cachoeira Alta:  820/820 => 100.0%
+Mammography Unit 56 installed at Paranaiguara => 820/820
+City Cachoeira de Goiás:  119/119 => 100.0%
+Mammography Unit 90 installed at São Luís de Montes Belos => 119/119
+City Cachoeira Dourada:  741/741 => 100.0%
+Mammography Unit 21 installed at Cachoeira Dourada => 741/741
+City Caçu:  1116/1116 => 100.0%
+Mammography Unit 98 installed at Caçu => 1116/1116
+City Caiapônia:  1516/1516 => 100.0%
+Mammography Unit 87 installed at Caiapônia => 1516/1516
+City Caldas Novas:  5981/5981 => 100.0%
+Mammography Unit 49 installed at Caldas Novas => 5981/5981
+City Caldazinha:  291/291 => 100.0%
+Mammography Unit 22 installed at Senador Canedo => 291/291
+City Campestre de Goiás:  282/282 => 100.0%
+Mammography Unit 26 installed at Palmeiras de Goiás => 282/282
+City Campinaçu:  309/309 => 100.0%
+Mammography Unit 45 installed at Formoso => 309/309
+City Campinorte:  903/903 => 100.0%
+Mammography Unit 72 installed at Campinorte => 903/903
+City Campo Alegre de Goiás:  0/485 => 0.0%
+City Campo Limpo de Goiás:  0/475 => 0.0%
+City Campos Belos:  1350/1350 => 100.0%
+Mammography Unit 97 installed at Campos Belos => 1350/1350
+City Campos Verdes:  0/447 => 0.0%
+City Carmo do Rio Verde:  798/798 => 100.0%
+Mammography Unit 37 installed at Heitoraí => 798/798
+City Castelândia:  319/319 => 100.0%
+Mammography Unit 67 installed at Maurilândia => 319/319
+City Catalão:  6758/7651 => 88.32832309502025%
+Mammography Unit 11 installed at Catalão => 6758/7651
+City Caturaí:  0/420 => 0.0%
+City Cavalcante:  0/609 => 0.0%
+City Ceres:  2044/2044 => 100.0%
+Mammography Unit 51 installed at Ceres => 2044/2044
+City Cezarina:  656/656 => 100.0%
+Mammography Unit 26 installed at Palmeiras de Goiás => 656/656
+City Chapadão do Céu:  450/450 => 100.0%
+Mammography Unit 83 installed at Chapadão do Céu => 450/450
+City Cidade Ocidental:  4318/4318 => 100.0%
+Mammography Unit 30 installed at Cidade Ocidental => 4318/4318
+City Cocalzinho de Goiás:  0/1338 => 0.0%
+City Colinas do Sul:  0/271 => 0.0%
+City Córrego do Ouro:  252/252 => 100.0%
+Mammography Unit 90 installed at São Luís de Montes Belos => 252/252
+City Corumbá de Goiás:  0/814 => 0.0%
+City Corumbaíba:  433/701 => 61.76890156918687%
+Mammography Unit 49 installed at Caldas Novas => 433/701
+City Cristalina:  3398/3398 => 100.0%
+Mammography Unit 77 installed at Cristalina => 3398/3398
+City Cristianópolis:  257/257 => 100.0%
+Mammography Unit 25 installed at Bela Vista de Goiás => 257/257
+City Crixás:  1287/1287 => 100.0%
+Mammography Unit 31 installed at Crixás => 1287/1287
+City Cromínia:  327/327 => 100.0%
+Mammography Unit 92 installed at Pontalina => 327/327
+City Cumari:  0/250 => 0.0%
+City Damianópolis:  266/266 => 100.0%
+Mammography Unit 65 installed at Mambaí => 266/266
+City Damolândia:  286/286 => 100.0%
+Mammography Unit 29 installed at Inhumas => 286/286
+City Davinópolis:  0/192 => 0.0%
+City Diorama:  228/228 => 100.0%
+Mammography Unit 54 installed at Iporá => 228/228
+City Doverlândia:  0/656 => 0.0%
+City Edealina:  327/327 => 100.0%
+Mammography Unit 64 installed at Edealina => 327/327
+City Edéia:  975/975 => 100.0%
+Mammography Unit 41 installed at Indiara => 975/975
+City Estrela do Norte:  295/295 => 100.0%
+Mammography Unit 45 installed at Formoso => 295/295
+City Faina:  625/625 => 100.0%
+Mammography Unit 66 installed at Faina => 625/625
+City Fazenda Nova:  600/600 => 100.0%
+Mammography Unit 71 installed at Jussara => 600/600
+City Firminópolis:  1126/1126 => 100.0%
+Mammography Unit 26 installed at Palmeiras de Goiás => 631/1126
+Mammography Unit 90 installed at São Luís de Montes Belos => 495/1126
+City Flores de Goiás:  0/854 => 0.0%
+City Formosa:  6758/7662 => 88.20151396502219%
+Mammography Unit 13 installed at Formosa => 6758/7662
+City Formoso:  457/457 => 100.0%
+Mammography Unit 45 installed at Formoso => 457/457
+City Gameleira de Goiás:  270/270 => 100.0%
+Mammography Unit 73 installed at Silvânia => 270/270
+City Divinópolis de Goiás:  367/367 => 100.0%
+Mammography Unit 84 installed at Divinópolis de Goiás => 367/367
+City Goianápolis:  0/853 => 0.0%
+City Goiandira:  0/471 => 0.0%
+City Goianésia:  5030/5030 => 100.0%
+Mammography Unit 58 installed at Goianésia => 5030/5030
+City Goiânia:  81096/121318 => 66.84581018480358%
+Mammography Unit 2 installed at Goiânia => 6758/121318
+Mammography Unit 4 installed at Goiânia => 6758/121318
+Mammography Unit 14 installed at Goiânia => 6758/121318
+Mammography Unit 15 installed at Goiânia => 6758/121318
+Mammography Unit 16 installed at Goiânia => 6758/121318
+Mammography Unit 18 installed at Goiânia => 6758/121318
+Mammography Unit 24 installed at Goiânia => 6758/121318
+Mammography Unit 27 installed at Goiânia => 6758/121318
+Mammography Unit 28 installed at Goiânia => 6758/121318
+Mammography Unit 34 installed at Goiânia => 6758/121318
+Mammography Unit 53 installed at Goiânia => 6758/121318
+Mammography Unit 94 installed at Goiânia => 6758/121318
+City Goianira:  0/2665 => 0.0%
+City Goiás:  0/2346 => 0.0%
+City Goiatuba:  2977/2977 => 100.0%
+Mammography Unit 61 installed at Goiatuba => 2977/2977
+City Gouvelândia:  0/420 => 0.0%
+City Guapó:  0/1207 => 0.0%
+City Guaraíta:  246/246 => 100.0%
+Mammography Unit 37 installed at Heitoraí => 246/246
+City Guarani de Goiás:  321/321 => 100.0%
+Mammography Unit 44 installed at Posse => 321/321
+City Guarinos:  207/207 => 100.0%
+Mammography Unit 31 installed at Crixás => 207/207
+City Heitoraí:  314/314 => 100.0%
+Mammography Unit 37 installed at Heitoraí => 314/314
+City Hidrolândia:  1398/1398 => 100.0%
+Mammography Unit 25 installed at Bela Vista de Goiás => 1398/1398
+City Hidrolina:  369/369 => 100.0%
+Mammography Unit 38 installed at Hidrolina => 369/369
+City Iaciara:  838/838 => 100.0%
+Mammography Unit 44 installed at Posse => 838/838
+City Inaciolândia:  486/486 => 100.0%
+Mammography Unit 21 installed at Cachoeira Dourada => 486/486
+City Indiara:  1122/1122 => 100.0%
+Mammography Unit 41 installed at Indiara => 1122/1122
+City Inhumas:  4494/4494 => 100.0%
+Mammography Unit 29 installed at Inhumas => 4494/4494
+City Ipameri:  2191/2191 => 100.0%
+Mammography Unit 57 installed at Ipameri => 2191/2191
+City Ipiranga de Goiás:  271/271 => 100.0%
+Mammography Unit 51 installed at Ceres => 271/271
+City Iporá:  3084/3084 => 100.0%
+Mammography Unit 54 installed at Iporá => 3084/3084
+City Israelândia:  271/271 => 100.0%
+Mammography Unit 54 installed at Iporá => 271/271
+City Itaberaí:  495/3009 => 16.450648055832502%
+Mammography Unit 37 installed at Heitoraí => 495/3009
+City Itaguari:  406/406 => 100.0%
+Mammography Unit 37 installed at Heitoraí => 406/406
+City Itaguaru:  525/525 => 100.0%
+Mammography Unit 37 installed at Heitoraí => 525/525
+City Itajá:  428/428 => 100.0%
+Mammography Unit 81 installed at Aporé => 428/428
+City Itapaci:  1537/1537 => 100.0%
+Mammography Unit 38 installed at Hidrolina => 1537/1537
+City Itapirapuã:  713/713 => 100.0%
+Mammography Unit 71 installed at Jussara => 713/713
+City Itapuranga:  2521/2521 => 100.0%
+Mammography Unit 37 installed at Heitoraí => 2521/2521
+City Itarumã:  504/504 => 100.0%
+Mammography Unit 98 installed at Caçu => 504/504
+City Itauçu:  0/824 => 0.0%
+City Itumbiara:  8885/8885 => 100.0%
+Mammography Unit 10 installed at Itumbiara => 6758/8885
+Mammography Unit 20 installed at Itumbiara => 2127/8885
+City Ivolândia:  261/261 => 100.0%
+Mammography Unit 55 installed at Amorinópolis => 261/261
+City Jandaia:  584/584 => 100.0%
+Mammography Unit 26 installed at Palmeiras de Goiás => 584/584
+City Jaraguá:  3466/3466 => 100.0%
+Mammography Unit 91 installed at Jaraguá => 3466/3466
+City Jataí:  6758/7351 => 91.93307033056726%
+Mammography Unit 12 installed at Jataí => 6758/7351
+City Jaupaci:  282/282 => 100.0%
+Mammography Unit 54 installed at Iporá => 282/282
+City Jesúpolis:  196/196 => 100.0%
+Mammography Unit 91 installed at Jaraguá => 196/196
+City Joviânia:  613/613 => 100.0%
+Mammography Unit 60 installed at Joviânia => 613/613
+City Jussara:  1763/1763 => 100.0%
+Mammography Unit 71 installed at Jussara => 1763/1763
+City Lagoa Santa:  0/112 => 0.0%
+City Leopoldo de Bulhões:  648/648 => 100.0%
+Mammography Unit 73 installed at Silvânia => 648/648
+City Luziânia:  12916/12916 => 100.0%
+Mammography Unit 1 installed at Luziânia => 6758/12916
+Mammography Unit 8 installed at Luziânia => 6158/12916
+City Mairipotaba:  235/235 => 100.0%
+Mammography Unit 64 installed at Edealina => 235/235
+City Mambaí:  441/441 => 100.0%
+Mammography Unit 65 installed at Mambaí => 441/441
+City Mara Rosa:  924/924 => 100.0%
+Mammography Unit 62 installed at Mara Rosa => 924/924
+City Marzagão:  168/168 => 100.0%
+Mammography Unit 49 installed at Caldas Novas => 168/168
+City Matrinchã:  391/391 => 100.0%
+Mammography Unit 66 installed at Faina => 391/391
+City Maurilândia:  807/807 => 100.0%
+Mammography Unit 67 installed at Maurilândia => 807/807
+City Mimoso de Goiás:  208/208 => 100.0%
+Mammography Unit 47 installed at Padre Bernardo => 208/208
+City Minaçu:  2643/2643 => 100.0%
+Mammography Unit 86 installed at Minaçu => 2643/2643
+City Mineiros:  4127/4127 => 100.0%
+Mammography Unit 32 installed at Mineiros => 4127/4127
+City Moiporá:  174/174 => 100.0%
+Mammography Unit 90 installed at São Luís de Montes Belos => 174/174
+City Monte Alegre de Goiás:  536/536 => 100.0%
+Mammography Unit 97 installed at Campos Belos => 536/536
+City Montes Claros de Goiás:  0/736 => 0.0%
+City Montividiu:  826/826 => 100.0%
+Mammography Unit 75 installed at Montividiu => 826/826
+City Montividiu do Norte:  338/338 => 100.0%
+Mammography Unit 36 installed at Montividiu do Norte => 338/338
+City Morrinhos:  3747/3747 => 100.0%
+Mammography Unit 39 installed at Morrinhos => 3747/3747
+City Morro Agudo de Goiás:  225/225 => 100.0%
+Mammography Unit 89 installed at Rubiataba => 225/225
+City Mossâmedes:  466/466 => 100.0%
+Mammography Unit 90 installed at São Luís de Montes Belos => 466/466
+City Mozarlândia:  1050/1050 => 100.0%
+Mammography Unit 48 installed at Mozarlândia => 1050/1050
+City Mundo Novo:  543/543 => 100.0%
+Mammography Unit 82 installed at Nova Crixás => 543/543
+City Mutunópolis:  326/326 => 100.0%
+Mammography Unit 62 installed at Mara Rosa => 326/326
+City Nazário:  695/695 => 100.0%
+Mammography Unit 26 installed at Palmeiras de Goiás => 695/695
+City Nerópolis:  0/2033 => 0.0%
+City Niquelândia:  3390/3390 => 100.0%
+Mammography Unit 85 installed at Niquelândia => 3390/3390
+City Nova América:  200/200 => 100.0%
+Mammography Unit 89 installed at Rubiataba => 200/200
+City Nova Aurora:  0/184 => 0.0%
+City Nova Crixás:  955/955 => 100.0%
+Mammography Unit 82 installed at Nova Crixás => 955/955
+City Nova Glória:  765/765 => 100.0%
+Mammography Unit 51 installed at Ceres => 765/765
+City Nova Iguaçu de Goiás:  238/238 => 100.0%
+Mammography Unit 62 installed at Mara Rosa => 238/238
+City Nova Roma:  0/283 => 0.0%
+City Nova Veneza:  0/693 => 0.0%
+City Novo Brasil:  338/338 => 100.0%
+Mammography Unit 71 installed at Jussara => 338/338
+City Novo Gama:  6853/6853 => 100.0%
+Mammography Unit 8 installed at Luziânia => 95/6853
+Mammography Unit 43 installed at Novo Gama => 6758/6853
+City Novo Planalto:  329/329 => 100.0%
+Mammography Unit 70 installed at Porangatu => 329/329
+City Orizona:  1256/1256 => 100.0%
+Mammography Unit 96 installed at Orizona => 1256/1256
+City Ouro Verde de Goiás:  307/374 => 82.0855614973262%
+Mammography Unit 29 installed at Inhumas => 307/374
+City Ouvidor:  0/470 => 0.0%
+City Padre Bernardo:  2024/2024 => 100.0%
+Mammography Unit 47 installed at Padre Bernardo => 2024/2024
+City Palestina de Goiás:  288/288 => 100.0%
+Mammography Unit 87 installed at Caiapônia => 288/288
+City Palmeiras de Goiás:  2042/2042 => 100.0%
+Mammography Unit 26 installed at Palmeiras de Goiás => 2042/2042
+City Palmelo:  221/221 => 100.0%
+Mammography Unit 88 installed at Pires do Rio => 221/221
+City Palminópolis:  352/352 => 100.0%
+Mammography Unit 26 installed at Palmeiras de Goiás => 352/352
+City Panamá:  235/235 => 100.0%
+Mammography Unit 20 installed at Itumbiara => 235/235
+City Paranaiguara:  790/790 => 100.0%
+Mammography Unit 56 installed at Paranaiguara => 790/790
+City Paraúna:  922/922 => 100.0%
+Mammography Unit 41 installed at Indiara => 922/922
+City Perolândia:  0/240 => 0.0%
+City Petrolina de Goiás:  909/909 => 100.0%
+Mammography Unit 91 installed at Jaraguá => 909/909
+City Pilar de Goiás:  251/251 => 100.0%
+Mammography Unit 38 installed at Hidrolina => 251/251
+City Piracanjuba:  2233/2233 => 100.0%
+Mammography Unit 25 installed at Bela Vista de Goiás => 2233/2233
+City Piranhas:  1076/1076 => 100.0%
+Mammography Unit 99 installed at Piranhas => 1076/1076
+City Pirenópolis:  0/1936 => 0.0%
+City Pires do Rio:  2615/2615 => 100.0%
+Mammography Unit 88 installed at Pires do Rio => 2615/2615
+City Planaltina:  0/5837 => 0.0%
+City Pontalina:  1560/1560 => 100.0%
+Mammography Unit 92 installed at Pontalina => 1560/1560
+City Porangatu:  3519/3519 => 100.0%
+Mammography Unit 70 installed at Porangatu => 3519/3519
+City Porteirão:  255/255 => 100.0%
+Mammography Unit 67 installed at Maurilândia => 255/255
+City Portelândia:  311/311 => 100.0%
+Mammography Unit 32 installed at Mineiros => 311/311
+City Posse:  2236/2236 => 100.0%
+Mammography Unit 44 installed at Posse => 2236/2236
+City Professor Jamil:  288/288 => 100.0%
+Mammography Unit 92 installed at Pontalina => 288/288
+City Quirinópolis:  3723/3723 => 100.0%
+Mammography Unit 76 installed at Quirinópolis => 3723/3723
+City Rialma:  987/987 => 100.0%
+Mammography Unit 51 installed at Ceres => 987/987
+City Rianápolis:  392/392 => 100.0%
+Mammography Unit 51 installed at Ceres => 392/392
+City Rio Quente:  279/279 => 100.0%
+Mammography Unit 39 installed at Morrinhos => 279/279
+City Rio Verde:  13888/13888 => 100.0%
+Mammography Unit 0 installed at Rio Verde => 6758/13888
+Mammography Unit 19 installed at Rio Verde => 6758/13888
+Mammography Unit 33 installed at Rio Verde => 372/13888
+City Rubiataba:  1703/1703 => 100.0%
+Mammography Unit 89 installed at Rubiataba => 1703/1703
+City Sanclerlândia:  683/683 => 100.0%
+Mammography Unit 90 installed at São Luís de Montes Belos => 683/683
+City Santa Bárbara de Goiás:  494/494 => 100.0%
+Mammography Unit 26 installed at Palmeiras de Goiás => 494/494
+City Santa Cruz de Goiás:  289/289 => 100.0%
+Mammography Unit 88 installed at Pires do Rio => 289/289
+City Santa Fé de Goiás:  384/384 => 100.0%
+Mammography Unit 71 installed at Jussara => 384/384
+City Santa Helena de Goiás:  3261/3261 => 100.0%
+Mammography Unit 69 installed at Santa Helena de Goiás => 3261/3261
+City Santa Isabel:  349/349 => 100.0%
+Mammography Unit 51 installed at Ceres => 349/349
+City Santa Rita do Araguaia:  535/535 => 100.0%
+Mammography Unit 59 installed at Santa Rita do Araguaia => 535/535
+City Santa Rita do Novo Destino:  273/273 => 100.0%
+Mammography Unit 58 installed at Goianésia => 273/273
+City Santa Rosa de Goiás:  298/298 => 100.0%
+Mammography Unit 29 installed at Inhumas => 298/298
+City Santa Tereza de Goiás:  342/342 => 100.0%
+Mammography Unit 45 installed at Formoso => 342/342
+City Santa Terezinha de Goiás:  939/939 => 100.0%
+Mammography Unit 38 installed at Hidrolina => 939/939
+City Santo Antônio da Barra:  346/346 => 100.0%
+Mammography Unit 33 installed at Rio Verde => 346/346
+City Santo Antônio de Goiás:  392/392 => 100.0%
+Mammography Unit 22 installed at Senador Canedo => 27/392
+Mammography Unit 29 installed at Inhumas => 365/392
+City Santo Antônio do Descoberto:  0/4437 => 0.0%
+City São Domingos:  802/802 => 100.0%
+Mammography Unit 84 installed at Divinópolis de Goiás => 802/802
+City São Francisco de Goiás:  539/539 => 100.0%
+Mammography Unit 91 installed at Jaraguá => 539/539
+City São João d'Aliança:  706/706 => 100.0%
+Mammography Unit 42 installed at São João d'Aliança => 706/706
+City São João da Paraúna:  167/167 => 100.0%
+Mammography Unit 90 installed at São Luís de Montes Belos => 167/167
+City São Luís de Montes Belos:  2835/2835 => 100.0%
+Mammography Unit 90 installed at São Luís de Montes Belos => 2835/2835
+City São Luiz do Norte:  375/375 => 100.0%
+Mammography Unit 38 installed at Hidrolina => 375/375
+City São Miguel do Araguaia:  0/1905 => 0.0%
+City São Miguel do Passa Quatro:  319/319 => 100.0%
+Mammography Unit 25 installed at Bela Vista de Goiás => 319/319
+City São Patrício:  181/181 => 100.0%
+Mammography Unit 37 installed at Heitoraí => 181/181
+City São Simão:  1460/1460 => 100.0%
+Mammography Unit 56 installed at Paranaiguara => 1460/1460
+City Senador Canedo:  6440/6440 => 100.0%
+Mammography Unit 22 installed at Senador Canedo => 6440/6440
+City Serranópolis:  0/558 => 0.0%
+City Silvânia:  1610/1610 => 100.0%
+Mammography Unit 73 installed at Silvânia => 1610/1610
+City Simolândia:  457/457 => 100.0%
+Mammography Unit 78 installed at Simolândia => 457/457
+City Sítio d'Abadia:  210/210 => 100.0%
+Mammography Unit 65 installed at Mambaí => 210/210
+City Taquaral de Goiás:  352/352 => 100.0%
+Mammography Unit 29 installed at Inhumas => 352/352
+City Teresina de Goiás:  0/187 => 0.0%
+City Terezópolis de Goiás:  0/509 => 0.0%
+City Três Ranchos:  0/259 => 0.0%
+City Trindade:  6758/9052 => 74.65753424657534%
+Mammography Unit 95 installed at Trindade => 6758/9052
+City Trombas:  307/307 => 100.0%
+Mammography Unit 36 installed at Montividiu do Norte => 307/307
+City Turvânia:  461/461 => 100.0%
+Mammography Unit 26 installed at Palmeiras de Goiás => 461/461
+City Turvelândia:  318/318 => 100.0%
+Mammography Unit 67 installed at Maurilândia => 318/318
+City Uirapuru:  251/251 => 100.0%
+Mammography Unit 31 installed at Crixás => 251/251
+City Uruaçu:  3143/3143 => 100.0%
+Mammography Unit 80 installed at Uruaçu => 3143/3143
+City Uruana:  1272/1272 => 100.0%
+Mammography Unit 37 installed at Heitoraí => 1272/1272
+City Urutaí:  291/291 => 100.0%
+Mammography Unit 57 installed at Ipameri => 291/291
+City Valparaíso de Goiás:  9703/10302 => 94.18559503009124%
+Mammography Unit 7 installed at Valparaíso de Goiás => 6758/10302
+Mammography Unit 8 installed at Luziânia => 505/10302
+Mammography Unit 30 installed at Cidade Ocidental => 2440/10302
+City Varjão:  338/338 => 100.0%
+Mammography Unit 26 installed at Palmeiras de Goiás => 338/338
+City Vianópolis:  1040/1040 => 100.0%
+Mammography Unit 73 installed at Silvânia => 1040/1040
+City Vicentinópolis:  604/604 => 100.0%
+Mammography Unit 60 installed at Joviânia => 604/604
+City Vila Boa:  288/288 => 100.0%
+Mammography Unit 63 installed at Vila Boa => 288/288
+City Vila Propício:  415/415 => 100.0%
+Mammography Unit 58 installed at Goianésia => 415/415
+Coverage
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.6271343726800297
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.8951882637348081
+0.0
+0.0
+0.7412025043177893
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.8832832309502026
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.6176890156918687
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.8820151396502218
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.6684581018480358
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.16450648055832504
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.9193307033056727
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.820855614973262
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.7465753424657534
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.9418559503009124
+1.0
+1.0
+1.0
+1.0
+1.0

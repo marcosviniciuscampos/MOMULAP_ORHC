@@ -1,0 +1,528 @@
+1 -55609.0
+2 -353423.9574350495
+3 -0.38406756302270895
+Objective functions
+
+
+Mammography Units: 
+
+Mammography Unit 0 installed at Palmas non-used capacity 0
+
+Palmas => 6758/15834
+
+Mammography Unit 1 installed at Araguaína non-used capacity 0
+
+Araguaína => 6758/10838
+
+Mammography Unit 2 installed at Palmas non-used capacity 0
+
+Palmas => 6758/15834
+
+Mammography Unit 3 installed at Miracema do Tocantins non-used capacity 3991
+
+Miracema do Tocantins => 1469/1469
+Miranorte => 937/937
+Tocantínia => 361/361
+
+Mammography Unit 4 installed at Gurupi non-used capacity 0
+
+Aliança do Tocantins => 304/447
+Figueirópolis => 454/454
+Gurupi => 6000/6000
+
+Mammography Unit 5 installed at Gurupi non-used capacity 6615
+
+Aliança do Tocantins => 143/447
+
+Mammography Unit 6 installed at Porto Nacional non-used capacity 2475
+
+Brejinho de Nazaré => 360/360
+Monte do Carmo => 476/476
+Porto Nacional => 3447/3447
+
+Mammography Unit 7 installed at Araguatins non-used capacity 3506
+
+Araguatins => 1956/1956
+Augustinópolis => 1027/1027
+São Bento do Tocantins => 269/269
+
+Mammography Unit 8 installed at Paraíso do Tocantins non-used capacity 2632
+
+Barrolândia => 398/398
+Nova Rosalândia => 292/292
+Paraíso do Tocantins => 3436/3436
+
+Mammography Unit 9 installed at Porto Nacional non-used capacity 6758
+
+
+Mammography Unit 10 installed at Araguatins non-used capacity 6758
+
+
+Mammography Unit 11 installed at Colinas do Tocantins non-used capacity 3578
+
+Bandeirantes do Tocantins => 200/200
+Colinas do Tocantins => 2272/2272
+Nova Olinda => 708/708
+
+Mammography Unit 12 installed at Palmas non-used capacity 4440
+
+Palmas => 2318/15834
+
+Mammography Unit 13 installed at Miracema do Tocantins non-used capacity 6758
+
+
+Mammography Unit 14 installed at Araguatins non-used capacity 6758
+
+
+Mammography Unit 15 installed at Guaraí non-used capacity 3525
+
+Guaraí => 1810/1810
+Pedro Afonso => 733/733
+Colméia => 690/690
+
+Mammography Unit 16 installed at Guaraí non-used capacity 6758
+
+
+Mammography Unit 17 installed at Colinas do Tocantins non-used capacity 6758
+
+
+Mammography Unit 18 installed at Porto Nacional non-used capacity 6758
+
+
+Mammography Unit 19 installed at Miracema do Tocantins non-used capacity 6758
+
+
+Mammography Unit 20 installed at Paraíso do Tocantins non-used capacity 6758
+
+
+Mammography Unit 21 installed at Porto Nacional non-used capacity 6758
+
+
+Mammography Unit 22 installed at Araguaína non-used capacity 1483
+
+Aragominas => 435/435
+Araguaína => 4080/10838
+Wanderlândia => 760/760
+
+Cities covered by the equipment 0 => Palmas, 
+
+
+Cities covered by the equipment 1 => Araguaína, 
+
+
+Cities covered by the equipment 2 => Palmas, 
+
+
+Cities covered by the equipment 3 => Miracema do Tocantins, Miranorte, Tocantínia, 
+
+
+Cities covered by the equipment 4 => Aliança do Tocantins, Figueirópolis, Gurupi, 
+
+
+Cities covered by the equipment 5 => Aliança do Tocantins, 
+
+
+Cities covered by the equipment 6 => Brejinho de Nazaré, Monte do Carmo, Porto Nacional, 
+
+
+Cities covered by the equipment 7 => Araguatins, Augustinópolis, São Bento do Tocantins, 
+
+
+Cities covered by the equipment 8 => Barrolândia, Nova Rosalândia, Paraíso do Tocantins, 
+
+
+Cities covered by the equipment 9 => 
+
+
+Cities covered by the equipment 10 => 
+
+
+Cities covered by the equipment 11 => Bandeirantes do Tocantins, Colinas do Tocantins, Nova Olinda, 
+
+
+Cities covered by the equipment 12 => Palmas, 
+
+
+Cities covered by the equipment 13 => 
+
+
+Cities covered by the equipment 14 => 
+
+
+Cities covered by the equipment 15 => Guaraí, Pedro Afonso, Colméia, 
+
+
+Cities covered by the equipment 16 => 
+
+
+Cities covered by the equipment 17 => 
+
+
+Cities covered by the equipment 18 => 
+
+
+Cities covered by the equipment 19 => 
+
+
+Cities covered by the equipment 20 => 
+
+
+Cities covered by the equipment 21 => 
+
+
+Cities covered by the equipment 22 => Aragominas, Araguaína, Wanderlândia, 
+
+
+
+List of mammography units in Araguaína: 1, 22, 
+
+
+List of mammography units in Araguatins: 7, 10, 14, 
+
+
+List of mammography units in Augustinópolis: 
+
+
+List of mammography units in Colinas do Tocantins: 11, 17, 
+
+
+List of mammography units in Dianópolis: 
+
+
+List of mammography units in Formoso do Araguaia: 
+
+
+List of mammography units in Guaraí: 15, 16, 
+
+
+List of mammography units in Gurupi: 4, 5, 
+
+
+List of mammography units in Miracema do Tocantins: 3, 13, 19, 
+
+
+List of mammography units in Paraíso do Tocantins: 8, 20, 
+
+
+List of mammography units in Porto Nacional: 6, 9, 18, 21, 
+
+
+List of mammography units in Taguatinga: 
+
+
+List of mammography units in Palmas: 0, 2, 12, 
+
+
+List of mammography units in Tocantinópolis: 
+
+
+
+Demand coverage
+City Abreulândia:  0/164 => 0.0%
+City Aguiarnópolis:  0/290 => 0.0%
+City Aliança do Tocantins:  447/447 => 100.0%
+Mammography Unit 4 installed at Gurupi => 304/447
+Mammography Unit 5 installed at Gurupi => 143/447
+City Almas:  0/483 => 0.0%
+City Alvorada:  0/661 => 0.0%
+City Ananás:  0/633 => 0.0%
+City Angico:  0/213 => 0.0%
+City Aparecida do Rio Negro:  0/277 => 0.0%
+City Aragominas:  435/435 => 100.0%
+Mammography Unit 22 installed at Araguaína => 435/435
+City Araguacema:  0/444 => 0.0%
+City Araguaçu:  0/744 => 0.0%
+City Araguaína:  10838/10838 => 100.0%
+Mammography Unit 1 installed at Araguaína => 6758/10838
+Mammography Unit 22 installed at Araguaína => 4080/10838
+City Araguanã:  0/320 => 0.0%
+City Araguatins:  1956/1956 => 100.0%
+Mammography Unit 7 installed at Araguatins => 1956/1956
+City Arapoema:  0/472 => 0.0%
+City Arraias:  0/753 => 0.0%
+City Augustinópolis:  1027/1027 => 100.0%
+Mammography Unit 7 installed at Araguatins => 1027/1027
+City Aurora do Tocantins:  0/259 => 0.0%
+City Axixá do Tocantins:  0/616 => 0.0%
+City Babaçulândia:  0/738 => 0.0%
+City Bandeirantes do Tocantins:  200/200 => 100.0%
+Mammography Unit 11 installed at Colinas do Tocantins => 200/200
+City Barra do Ouro:  0/245 => 0.0%
+City Barrolândia:  398/398 => 100.0%
+Mammography Unit 8 installed at Paraíso do Tocantins => 398/398
+City Bernardo Sayão:  0/312 => 0.0%
+City Bom Jesus do Tocantins:  0/223 => 0.0%
+City Brasilândia do Tocantins:  0/142 => 0.0%
+City Brejinho de Nazaré:  360/360 => 100.0%
+Mammography Unit 6 installed at Porto Nacional => 360/360
+City Buriti do Tocantins:  0/623 => 0.0%
+City Cachoeirinha:  0/129 => 0.0%
+City Campos Lindos:  0/429 => 0.0%
+City Cariri do Tocantins:  0/250 => 0.0%
+City Carmolândia:  0/159 => 0.0%
+City Carrasco Bonito:  0/218 => 0.0%
+City Caseara:  0/329 => 0.0%
+City Centenário:  0/171 => 0.0%
+City Chapada de Areia:  0/109 => 0.0%
+City Chapada da Natividade:  0/210 => 0.0%
+City Colinas do Tocantins:  2272/2272 => 100.0%
+Mammography Unit 11 installed at Colinas do Tocantins => 2272/2272
+City Combinado:  0/332 => 0.0%
+City Conceição do Tocantins:  0/267 => 0.0%
+City Couto Magalhães:  0/360 => 0.0%
+City Cristalândia:  0/597 => 0.0%
+City Crixás do Tocantins:  0/124 => 0.0%
+City Darcinópolis:  0/346 => 0.0%
+City Dianópolis:  0/1223 => 0.0%
+City Divinópolis do Tocantins:  0/481 => 0.0%
+City Dois Irmãos do Tocantins:  0/552 => 0.0%
+City Dueré:  0/328 => 0.0%
+City Esperantina:  0/549 => 0.0%
+City Fátima:  0/276 => 0.0%
+City Figueirópolis:  454/454 => 100.0%
+Mammography Unit 4 installed at Gurupi => 454/454
+City Filadélfia:  0/535 => 0.0%
+City Formoso do Araguaia:  0/1333 => 0.0%
+City Tabocão:  0/177 => 0.0%
+City Goianorte:  0/363 => 0.0%
+City Goiatins:  0/707 => 0.0%
+City Guaraí:  1810/1810 => 100.0%
+Mammography Unit 15 installed at Guaraí => 1810/1810
+City Gurupi:  6000/6000 => 100.0%
+Mammography Unit 4 installed at Gurupi => 6000/6000
+City Ipueiras:  0/104 => 0.0%
+City Itacajá:  0/469 => 0.0%
+City Itaguatins:  0/406 => 0.0%
+City Itapiratins:  0/233 => 0.0%
+City Itaporã do Tocantins:  0/179 => 0.0%
+City Jaú do Tocantins:  0/277 => 0.0%
+City Juarina:  0/158 => 0.0%
+City Lagoa da Confusão:  0/621 => 0.0%
+City Lagoa do Tocantins:  0/204 => 0.0%
+City Lajeado:  0/181 => 0.0%
+City Lavandeira:  0/117 => 0.0%
+City Lizarda:  0/252 => 0.0%
+City Luzinópolis:  0/176 => 0.0%
+City Marianópolis do Tocantins:  0/308 => 0.0%
+City Mateiros:  0/116 => 0.0%
+City Maurilândia do Tocantins:  0/204 => 0.0%
+City Miracema do Tocantins:  1469/1469 => 100.0%
+Mammography Unit 3 installed at Miracema do Tocantins => 1469/1469
+City Miranorte:  937/937 => 100.0%
+Mammography Unit 3 installed at Miracema do Tocantins => 937/937
+City Monte do Carmo:  476/476 => 100.0%
+Mammography Unit 6 installed at Porto Nacional => 476/476
+City Monte Santo do Tocantins:  0/156 => 0.0%
+City Palmeiras do Tocantins:  0/363 => 0.0%
+City Muricilândia:  0/195 => 0.0%
+City Natividade:  0/615 => 0.0%
+City Nazaré:  0/303 => 0.0%
+City Nova Olinda:  708/708 => 100.0%
+Mammography Unit 11 installed at Colinas do Tocantins => 708/708
+City Nova Rosalândia:  292/292 => 100.0%
+Mammography Unit 8 installed at Paraíso do Tocantins => 292/292
+City Novo Acordo:  0/245 => 0.0%
+City Novo Alegre:  0/162 => 0.0%
+City Novo Jardim:  0/142 => 0.0%
+City Oliveira de Fátima:  0/64 => 0.0%
+City Palmeirante:  0/318 => 0.0%
+City Palmeirópolis:  0/605 => 0.0%
+City Paraíso do Tocantins:  3436/3436 => 100.0%
+Mammography Unit 8 installed at Paraíso do Tocantins => 3436/3436
+City Paranã:  0/665 => 0.0%
+City Pau D'Arco:  0/312 => 0.0%
+City Pedro Afonso:  733/733 => 100.0%
+Mammography Unit 15 installed at Guaraí => 733/733
+City Peixe:  0/795 => 0.0%
+City Pequizeiro:  0/365 => 0.0%
+City Colméia:  690/690 => 100.0%
+Mammography Unit 15 installed at Guaraí => 690/690
+City Pindorama do Tocantins:  0/313 => 0.0%
+City Piraquê:  0/212 => 0.0%
+City Pium:  0/464 => 0.0%
+City Ponte Alta do Bom Jesus:  0/296 => 0.0%
+City Ponte Alta do Tocantins:  0/462 => 0.0%
+City Porto Alegre do Tocantins:  0/178 => 0.0%
+City Porto Nacional:  3447/3447 => 100.0%
+Mammography Unit 6 installed at Porto Nacional => 3447/3447
+City Praia Norte:  0/426 => 0.0%
+City Presidente Kennedy:  0/266 => 0.0%
+City Pugmil:  0/158 => 0.0%
+City Recursolândia:  0/213 => 0.0%
+City Riachinho:  0/277 => 0.0%
+City Rio da Conceição:  0/94 => 0.0%
+City Rio dos Bois:  0/194 => 0.0%
+City Rio Sono:  0/416 => 0.0%
+City Sampaio:  0/223 => 0.0%
+City Sandolândia:  0/261 => 0.0%
+City Santa Fé do Araguaia:  0/416 => 0.0%
+City Santa Maria do Tocantins:  0/201 => 0.0%
+City Santa Rita do Tocantins:  0/154 => 0.0%
+City Santa Rosa do Tocantins:  0/307 => 0.0%
+City Santa Tereza do Tocantins:  0/161 => 0.0%
+City Santa Terezinha do Tocantins:  0/155 => 0.0%
+City São Bento do Tocantins:  269/269 => 100.0%
+Mammography Unit 7 installed at Araguatins => 269/269
+City São Félix do Tocantins:  0/82 => 0.0%
+City São Miguel do Tocantins:  0/670 => 0.0%
+City São Salvador do Tocantins:  0/229 => 0.0%
+City São Sebastião do Tocantins:  0/273 => 0.0%
+City São Valério:  0/333 => 0.0%
+City Silvanópolis:  0/344 => 0.0%
+City Sítio Novo do Tocantins:  0/608 => 0.0%
+City Sucupira:  0/121 => 0.0%
+City Taguatinga:  0/1032 => 0.0%
+City Taipas do Tocantins:  0/121 => 0.0%
+City Talismã:  0/195 => 0.0%
+City Palmas:  15834/15834 => 100.0%
+Mammography Unit 0 installed at Palmas => 6758/15834
+Mammography Unit 2 installed at Palmas => 6758/15834
+Mammography Unit 12 installed at Palmas => 2318/15834
+City Tocantínia:  361/361 => 100.0%
+Mammography Unit 3 installed at Miracema do Tocantins => 361/361
+City Tocantinópolis:  0/1569 => 0.0%
+City Tupirama:  0/118 => 0.0%
+City Tupiratins:  0/157 => 0.0%
+City Wanderlândia:  760/760 => 100.0%
+Mammography Unit 22 installed at Araguaína => 760/760
+City Xambioá:  0/808 => 0.0%
+Coverage
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0

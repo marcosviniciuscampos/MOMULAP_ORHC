@@ -1,0 +1,1078 @@
+1 -299798.0
+2 -0.0
+3 -0.35451076749804356
+Objective functions
+
+
+Mammography Units: 
+
+Mammography Unit 0 installed at Ananindeua non-used capacity 0
+
+Ananindeua => 6758/38824
+
+Mammography Unit 1 installed at Castanhal non-used capacity 0
+
+Castanhal => 6758/12420
+
+Mammography Unit 2 installed at Santarém non-used capacity 0
+
+Santarém => 6758/19408
+
+Mammography Unit 3 installed at Santarém non-used capacity 0
+
+Santarém => 6758/19408
+
+Mammography Unit 4 installed at Abaetetuba non-used capacity 0
+
+Abaetetuba => 6758/8434
+
+Mammography Unit 5 installed at Parauapebas non-used capacity 0
+
+Parauapebas => 6758/8861
+
+Mammography Unit 6 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 7 installed at Ananindeua non-used capacity 0
+
+Ananindeua => 6758/38824
+
+Mammography Unit 8 installed at Pacajá non-used capacity 4627
+
+Pacajá => 2131/2131
+
+Mammography Unit 9 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 10 installed at Bragança non-used capacity 19
+
+Bragança => 6739/6739
+
+Mammography Unit 11 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 12 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 13 installed at Altamira non-used capacity 249
+
+Altamira => 6509/6509
+
+Mammography Unit 14 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 15 installed at Ananindeua non-used capacity 0
+
+Ananindeua => 6758/38824
+
+Mammography Unit 16 installed at Cametá non-used capacity 464
+
+Cametá => 6294/6294
+
+Mammography Unit 17 installed at Marituba non-used capacity 0
+
+Marituba => 6758/7508
+
+Mammography Unit 18 installed at Marabá non-used capacity 0
+
+Marabá => 6758/14628
+
+Mammography Unit 19 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 20 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 21 installed at Itaituba non-used capacity 522
+
+Itaituba => 6236/6236
+
+Mammography Unit 22 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 23 installed at Tucuruí non-used capacity 587
+
+Tucuruí => 6171/6171
+
+Mammography Unit 24 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 25 installed at Barcarena non-used capacity 571
+
+Barcarena => 6187/6187
+
+Mammography Unit 26 installed at Ananindeua non-used capacity 0
+
+Ananindeua => 6758/38824
+
+Mammography Unit 27 installed at Marabá non-used capacity 0
+
+Marabá => 6758/14628
+
+Mammography Unit 28 installed at Ananindeua non-used capacity 0
+
+Ananindeua => 6758/38824
+
+Mammography Unit 29 installed at Redenção non-used capacity 1519
+
+Redenção => 5239/5239
+
+Mammography Unit 30 installed at Marabá non-used capacity 5646
+
+Marabá => 1112/14628
+
+Mammography Unit 31 installed at Ananindeua non-used capacity 1724
+
+Ananindeua => 5034/38824
+
+Mammography Unit 32 installed at São Félix do Xingu non-used capacity 1531
+
+São Félix do Xingu => 5227/5227
+
+Mammography Unit 33 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 34 installed at Santarém non-used capacity 866
+
+Santarém => 5892/19408
+
+Mammography Unit 35 installed at Santa Izabel do Pará non-used capacity 2903
+
+Santa Izabel do Pará => 3855/3855
+
+Mammography Unit 36 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 37 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 38 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 39 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 40 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 41 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 42 installed at Breves non-used capacity 2275
+
+Breves => 4483/4483
+
+Mammography Unit 43 installed at Monte Alegre non-used capacity 3410
+
+Monte Alegre => 3348/3348
+
+Mammography Unit 44 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 45 installed at Monte Alegre non-used capacity 6758
+
+
+Mammography Unit 46 installed at Ananindeua non-used capacity 6758
+
+
+Mammography Unit 47 installed at Castanhal non-used capacity 1096
+
+Castanhal => 5662/12420
+
+Mammography Unit 48 installed at Belém non-used capacity 0
+
+Belém => 6758/121809
+
+Mammography Unit 49 installed at Belém non-used capacity 6593
+
+Belém => 165/121809
+
+Mammography Unit 50 installed at Ananindeua non-used capacity 6758
+
+
+Mammography Unit 51 installed at Belém non-used capacity 6758
+
+
+Mammography Unit 52 installed at Belém non-used capacity 6758
+
+
+Mammography Unit 53 installed at Belém non-used capacity 6758
+
+
+Mammography Unit 54 installed at Belém non-used capacity 6758
+
+
+Mammography Unit 55 installed at Marituba non-used capacity 6008
+
+Marituba => 750/7508
+
+Mammography Unit 56 installed at Belém non-used capacity 6758
+
+
+Mammography Unit 57 installed at Belém non-used capacity 6758
+
+
+Mammography Unit 58 installed at Belém non-used capacity 6758
+
+
+Mammography Unit 59 installed at Belém non-used capacity 6758
+
+
+Mammography Unit 60 installed at Belém non-used capacity 6758
+
+
+Mammography Unit 61 installed at Belém non-used capacity 6758
+
+
+Mammography Unit 62 installed at Belém non-used capacity 6758
+
+
+Mammography Unit 63 installed at Belém non-used capacity 6758
+
+
+Mammography Unit 64 installed at Redenção non-used capacity 6758
+
+
+Mammography Unit 65 installed at Paragominas non-used capacity 958
+
+Paragominas => 5800/5800
+
+Mammography Unit 66 installed at Moju non-used capacity 3292
+
+Moju => 3466/3466
+
+Mammography Unit 67 installed at Tucuruí non-used capacity 6758
+
+
+Cities covered by the equipment 0 => Ananindeua, 
+
+
+Cities covered by the equipment 1 => Castanhal, 
+
+
+Cities covered by the equipment 2 => Santarém, 
+
+
+Cities covered by the equipment 3 => Santarém, 
+
+
+Cities covered by the equipment 4 => Abaetetuba, 
+
+
+Cities covered by the equipment 5 => Parauapebas, 
+
+
+Cities covered by the equipment 6 => Belém, 
+
+
+Cities covered by the equipment 7 => Ananindeua, 
+
+
+Cities covered by the equipment 8 => Pacajá, 
+
+
+Cities covered by the equipment 9 => Belém, 
+
+
+Cities covered by the equipment 10 => Bragança, 
+
+
+Cities covered by the equipment 11 => Belém, 
+
+
+Cities covered by the equipment 12 => Belém, 
+
+
+Cities covered by the equipment 13 => Altamira, 
+
+
+Cities covered by the equipment 14 => Belém, 
+
+
+Cities covered by the equipment 15 => Ananindeua, 
+
+
+Cities covered by the equipment 16 => Cametá, 
+
+
+Cities covered by the equipment 17 => Marituba, 
+
+
+Cities covered by the equipment 18 => Marabá, 
+
+
+Cities covered by the equipment 19 => Belém, 
+
+
+Cities covered by the equipment 20 => Belém, 
+
+
+Cities covered by the equipment 21 => Itaituba, 
+
+
+Cities covered by the equipment 22 => Belém, 
+
+
+Cities covered by the equipment 23 => Tucuruí, 
+
+
+Cities covered by the equipment 24 => Belém, 
+
+
+Cities covered by the equipment 25 => Barcarena, 
+
+
+Cities covered by the equipment 26 => Ananindeua, 
+
+
+Cities covered by the equipment 27 => Marabá, 
+
+
+Cities covered by the equipment 28 => Ananindeua, 
+
+
+Cities covered by the equipment 29 => Redenção, 
+
+
+Cities covered by the equipment 30 => Marabá, 
+
+
+Cities covered by the equipment 31 => Ananindeua, 
+
+
+Cities covered by the equipment 32 => São Félix do Xingu, 
+
+
+Cities covered by the equipment 33 => Belém, 
+
+
+Cities covered by the equipment 34 => Santarém, 
+
+
+Cities covered by the equipment 35 => Santa Izabel do Pará, 
+
+
+Cities covered by the equipment 36 => Belém, 
+
+
+Cities covered by the equipment 37 => Belém, 
+
+
+Cities covered by the equipment 38 => Belém, 
+
+
+Cities covered by the equipment 39 => Belém, 
+
+
+Cities covered by the equipment 40 => Belém, 
+
+
+Cities covered by the equipment 41 => Belém, 
+
+
+Cities covered by the equipment 42 => Breves, 
+
+
+Cities covered by the equipment 43 => Monte Alegre, 
+
+
+Cities covered by the equipment 44 => Belém, 
+
+
+Cities covered by the equipment 45 => 
+
+
+Cities covered by the equipment 46 => 
+
+
+Cities covered by the equipment 47 => Castanhal, 
+
+
+Cities covered by the equipment 48 => Belém, 
+
+
+Cities covered by the equipment 49 => Belém, 
+
+
+Cities covered by the equipment 50 => 
+
+
+Cities covered by the equipment 51 => 
+
+
+Cities covered by the equipment 52 => 
+
+
+Cities covered by the equipment 53 => 
+
+
+Cities covered by the equipment 54 => 
+
+
+Cities covered by the equipment 55 => Marituba, 
+
+
+Cities covered by the equipment 56 => 
+
+
+Cities covered by the equipment 57 => 
+
+
+Cities covered by the equipment 58 => 
+
+
+Cities covered by the equipment 59 => 
+
+
+Cities covered by the equipment 60 => 
+
+
+Cities covered by the equipment 61 => 
+
+
+Cities covered by the equipment 62 => 
+
+
+Cities covered by the equipment 63 => 
+
+
+Cities covered by the equipment 64 => 
+
+
+Cities covered by the equipment 65 => Paragominas, 
+
+
+Cities covered by the equipment 66 => Moju, 
+
+
+Cities covered by the equipment 67 => 
+
+
+
+List of mammography units in Abaetetuba: 4, 
+
+
+List of mammography units in Acará: 
+
+
+List of mammography units in Afuá: 
+
+
+List of mammography units in Água Azul do Norte: 
+
+
+List of mammography units in Alenquer: 
+
+
+List of mammography units in Almeirim: 
+
+
+List of mammography units in Altamira: 13, 
+
+
+List of mammography units in Ananindeua: 0, 7, 15, 26, 28, 31, 46, 50, 
+
+
+List of mammography units in Augusto Corrêa: 
+
+
+List of mammography units in Aurora do Pará: 
+
+
+List of mammography units in Baião: 
+
+
+List of mammography units in Barcarena: 25, 
+
+
+List of mammography units in Belém: 6, 9, 11, 12, 14, 19, 20, 22, 24, 33, 36, 37, 38, 39, 40, 41, 44, 48, 49, 51, 52, 53, 54, 56, 57, 58, 59, 60, 61, 62, 63, 
+
+
+List of mammography units in Benevides: 
+
+
+List of mammography units in Bragança: 10, 
+
+
+List of mammography units in Breu Branco: 
+
+
+List of mammography units in Breves: 42, 
+
+
+List of mammography units in Bujaru: 
+
+
+List of mammography units in Cachoeira do Piriá: 
+
+
+List of mammography units in Cametá: 16, 
+
+
+List of mammography units in Canaã dos Carajás: 
+
+
+List of mammography units in Capanema: 
+
+
+List of mammography units in Capitão Poço: 
+
+
+List of mammography units in Castanhal: 1, 47, 
+
+
+List of mammography units in Conceição do Araguaia: 
+
+
+List of mammography units in Concórdia do Pará: 
+
+
+List of mammography units in Curuçá: 
+
+
+List of mammography units in Dom Eliseu: 
+
+
+List of mammography units in Eldorado do Carajás: 
+
+
+List of mammography units in Garrafão do Norte: 
+
+
+List of mammography units in Goianésia do Pará: 
+
+
+List of mammography units in Igarapé-Açu: 
+
+
+List of mammography units in Igarapé-Miri: 
+
+
+List of mammography units in Ipixuna do Pará: 
+
+
+List of mammography units in Irituia: 
+
+
+List of mammography units in Itaituba: 21, 
+
+
+List of mammography units in Itupiranga: 
+
+
+List of mammography units in Jacundá: 
+
+
+List of mammography units in Juruti: 
+
+
+List of mammography units in Mãe do Rio: 
+
+
+List of mammography units in Marabá: 18, 27, 30, 
+
+
+List of mammography units in Maracanã: 
+
+
+List of mammography units in Marapanim: 
+
+
+List of mammography units in Marituba: 17, 55, 
+
+
+List of mammography units in Medicilândia: 
+
+
+List of mammography units in Mocajuba: 
+
+
+List of mammography units in Moju: 66, 
+
+
+List of mammography units in Monte Alegre: 43, 45, 
+
+
+List of mammography units in Muaná: 
+
+
+List of mammography units in Novo Progresso: 
+
+
+List of mammography units in Novo Repartimento: 
+
+
+List of mammography units in Óbidos: 
+
+
+List of mammography units in Oeiras do Pará: 
+
+
+List of mammography units in Oriximiná: 
+
+
+List of mammography units in Ourilândia do Norte: 
+
+
+List of mammography units in Pacajá: 8, 
+
+
+List of mammography units in Paragominas: 65, 
+
+
+List of mammography units in Parauapebas: 5, 
+
+
+List of mammography units in Placas: 
+
+
+List of mammography units in Ponta de Pedras: 
+
+
+List of mammography units in Portel: 
+
+
+List of mammography units in Porto de Moz: 
+
+
+List of mammography units in Prainha: 
+
+
+List of mammography units in Redenção: 29, 64, 
+
+
+List of mammography units in Rio Maria: 
+
+
+List of mammography units in Rondon do Pará: 
+
+
+List of mammography units in Rurópolis: 
+
+
+List of mammography units in Salinópolis: 
+
+
+List of mammography units in Salvaterra: 
+
+
+List of mammography units in Santa Izabel do Pará: 35, 
+
+
+List of mammography units in Santa Maria do Pará: 
+
+
+List of mammography units in Santana do Araguaia: 
+
+
+List of mammography units in Santarém: 2, 3, 34, 
+
+
+List of mammography units in Santo Antônio do Tauá: 
+
+
+List of mammography units in São Domingos do Araguaia: 
+
+
+List of mammography units in São Domingos do Capim: 
+
+
+List of mammography units in São Félix do Xingu: 32, 
+
+
+List of mammography units in São Geraldo do Araguaia: 
+
+
+List of mammography units in São Miguel do Guamá: 
+
+
+List of mammography units in Soure: 
+
+
+List of mammography units in Tailândia: 
+
+
+List of mammography units in Tomé-Açu: 
+
+
+List of mammography units in Tracuateua: 
+
+
+List of mammography units in Tucumã: 
+
+
+List of mammography units in Tucuruí: 23, 67, 
+
+
+List of mammography units in Ulianópolis: 
+
+
+List of mammography units in Uruará: 
+
+
+List of mammography units in Vigia: 
+
+
+List of mammography units in Viseu: 
+
+
+List of mammography units in Xinguara: 
+
+
+
+Demand coverage
+City Abaetetuba:  6758/8434 => 80.12805311833057%
+Mammography Unit 4 installed at Abaetetuba => 6758/8434
+City Abel Figueiredo:  0/434 => 0.0%
+City Acará:  0/2780 => 0.0%
+City Afuá:  0/1538 => 0.0%
+City Água Azul do Norte:  0/1447 => 0.0%
+City Alenquer:  0/2909 => 0.0%
+City Almeirim:  0/1870 => 0.0%
+City Altamira:  6509/6509 => 100.0%
+Mammography Unit 13 installed at Altamira => 6509/6509
+City Anajás:  0/1004 => 0.0%
+City Ananindeua:  38824/38824 => 100.0%
+Mammography Unit 0 installed at Ananindeua => 6758/38824
+Mammography Unit 7 installed at Ananindeua => 6758/38824
+Mammography Unit 15 installed at Ananindeua => 6758/38824
+Mammography Unit 26 installed at Ananindeua => 6758/38824
+Mammography Unit 28 installed at Ananindeua => 6758/38824
+Mammography Unit 31 installed at Ananindeua => 5034/38824
+City Anapu:  0/1064 => 0.0%
+City Augusto Corrêa:  0/2063 => 0.0%
+City Aurora do Pará:  0/1428 => 0.0%
+City Aveiro:  0/826 => 0.0%
+City Bagre:  0/966 => 0.0%
+City Baião:  0/1975 => 0.0%
+City Bannach:  0/218 => 0.0%
+City Barcarena:  6187/6187 => 100.0%
+Mammography Unit 25 installed at Barcarena => 6187/6187
+City Belém:  121809/121809 => 100.0%
+Mammography Unit 6 installed at Belém => 6758/121809
+Mammography Unit 9 installed at Belém => 6758/121809
+Mammography Unit 11 installed at Belém => 6758/121809
+Mammography Unit 12 installed at Belém => 6758/121809
+Mammography Unit 14 installed at Belém => 6758/121809
+Mammography Unit 19 installed at Belém => 6758/121809
+Mammography Unit 20 installed at Belém => 6758/121809
+Mammography Unit 22 installed at Belém => 6758/121809
+Mammography Unit 24 installed at Belém => 6758/121809
+Mammography Unit 33 installed at Belém => 6758/121809
+Mammography Unit 36 installed at Belém => 6758/121809
+Mammography Unit 37 installed at Belém => 6758/121809
+Mammography Unit 38 installed at Belém => 6758/121809
+Mammography Unit 39 installed at Belém => 6758/121809
+Mammography Unit 40 installed at Belém => 6758/121809
+Mammography Unit 41 installed at Belém => 6758/121809
+Mammography Unit 44 installed at Belém => 6758/121809
+Mammography Unit 48 installed at Belém => 6758/121809
+Mammography Unit 49 installed at Belém => 165/121809
+City Belterra:  0/1011 => 0.0%
+City Benevides:  0/3524 => 0.0%
+City Bom Jesus do Tocantins:  0/947 => 0.0%
+City Bonito:  0/760 => 0.0%
+City Bragança:  6739/6739 => 100.0%
+Mammography Unit 10 installed at Bragança => 6739/6739
+City Brasil Novo:  0/990 => 0.0%
+City Brejo Grande do Araguaia:  0/465 => 0.0%
+City Breu Branco:  0/2817 => 0.0%
+City Breves:  4483/4483 => 100.0%
+Mammography Unit 42 installed at Breves => 4483/4483
+City Bujaru:  0/1356 => 0.0%
+City Cachoeira do Piriá:  0/1291 => 0.0%
+City Cachoeira do Arari:  0/1181 => 0.0%
+City Cametá:  6294/6294 => 100.0%
+Mammography Unit 16 installed at Cametá => 6294/6294
+City Canaã dos Carajás:  0/1584 => 0.0%
+City Capanema:  0/4648 => 0.0%
+City Capitão Poço:  0/3063 => 0.0%
+City Castanhal:  12420/12420 => 100.0%
+Mammography Unit 1 installed at Castanhal => 6758/12420
+Mammography Unit 47 installed at Castanhal => 5662/12420
+City Chaves:  0/1021 => 0.0%
+City Colares:  0/680 => 0.0%
+City Conceição do Araguaia:  0/3212 => 0.0%
+City Concórdia do Pará:  0/1434 => 0.0%
+City Cumaru do Norte:  0/560 => 0.0%
+City Curionópolis:  0/1174 => 0.0%
+City Curralinho:  0/1152 => 0.0%
+City Curuá:  0/615 => 0.0%
+City Curuçá:  0/2099 => 0.0%
+City Dom Eliseu:  0/3104 => 0.0%
+City Eldorado do Carajás:  0/1871 => 0.0%
+City Faro:  0/422 => 0.0%
+City Floresta do Araguaia:  0/1067 => 0.0%
+City Garrafão do Norte:  0/1265 => 0.0%
+City Goianésia do Pará:  0/1736 => 0.0%
+City Gurupá:  0/1248 => 0.0%
+City Igarapé-Açu:  0/2341 => 0.0%
+City Igarapé-Miri:  0/3182 => 0.0%
+City Inhangapi:  0/621 => 0.0%
+City Ipixuna do Pará:  0/2549 => 0.0%
+City Irituia:  0/1778 => 0.0%
+City Itaituba:  6236/6236 => 100.0%
+Mammography Unit 21 installed at Itaituba => 6236/6236
+City Itupiranga:  0/2850 => 0.0%
+City Jacareacanga:  0/742 => 0.0%
+City Jacundá:  0/3124 => 0.0%
+City Juruti:  0/2193 => 0.0%
+City Limoeiro do Ajuru:  0/1176 => 0.0%
+City Mãe do Rio:  0/1757 => 0.0%
+City Magalhães Barata:  0/473 => 0.0%
+City Marabá:  14628/14628 => 100.0%
+Mammography Unit 18 installed at Marabá => 6758/14628
+Mammography Unit 27 installed at Marabá => 6758/14628
+Mammography Unit 30 installed at Marabá => 1112/14628
+City Maracanã:  0/1656 => 0.0%
+City Marapanim:  0/1638 => 0.0%
+City Marituba:  7508/7508 => 100.0%
+Mammography Unit 17 installed at Marituba => 6758/7508
+Mammography Unit 55 installed at Marituba => 750/7508
+City Medicilândia:  0/1582 => 0.0%
+City Melgaço:  0/960 => 0.0%
+City Mocajuba:  0/1410 => 0.0%
+City Moju:  3466/3466 => 100.0%
+Mammography Unit 66 installed at Moju => 3466/3466
+City Monte Alegre:  3348/3348 => 100.0%
+Mammography Unit 43 installed at Monte Alegre => 3348/3348
+City Muaná:  0/1788 => 0.0%
+City Nova Esperança do Piriá:  0/935 => 0.0%
+City Nova Ipixuna:  0/853 => 0.0%
+City Nova Timboteua:  0/929 => 0.0%
+City Novo Progresso:  0/1639 => 0.0%
+City Novo Repartimento:  0/3390 => 0.0%
+City Óbidos:  0/2787 => 0.0%
+City Oeiras do Pará:  0/1286 => 0.0%
+City Oriximiná:  0/3527 => 0.0%
+City Ourém:  0/987 => 0.0%
+City Ourilândia do Norte:  0/1521 => 0.0%
+City Pacajá:  2131/2131 => 100.0%
+Mammography Unit 8 installed at Pacajá => 2131/2131
+City Palestina do Pará:  0/457 => 0.0%
+City Paragominas:  5800/5800 => 100.0%
+Mammography Unit 65 installed at Paragominas => 5800/5800
+City Parauapebas:  6758/8861 => 76.26678704435166%
+Mammography Unit 5 installed at Parauapebas => 6758/8861
+City Pau D'Arco:  0/387 => 0.0%
+City Peixe-Boi:  0/532 => 0.0%
+City Piçarra:  0/774 => 0.0%
+City Placas:  0/1263 => 0.0%
+City Ponta de Pedras:  0/1483 => 0.0%
+City Portel:  0/2168 => 0.0%
+City Porto de Moz:  0/1355 => 0.0%
+City Prainha:  0/1489 => 0.0%
+City Primavera:  0/640 => 0.0%
+City Quatipuru:  0/761 => 0.0%
+City Redenção:  5239/5239 => 100.0%
+Mammography Unit 29 installed at Redenção => 5239/5239
+City Rio Maria:  0/1250 => 0.0%
+City Rondon do Pará:  0/3077 => 0.0%
+City Rurópolis:  0/2250 => 0.0%
+City Salinópolis:  0/2390 => 0.0%
+City Salvaterra:  0/1280 => 0.0%
+City Santa Bárbara do Pará:  0/1113 => 0.0%
+City Santa Cruz do Arari:  0/510 => 0.0%
+City Santa Izabel do Pará:  3855/3855 => 100.0%
+Mammography Unit 35 installed at Santa Izabel do Pará => 3855/3855
+City Santa Luzia do Pará:  0/1114 => 0.0%
+City Santa Maria das Barreiras:  0/1146 => 0.0%
+City Santa Maria do Pará:  0/1608 => 0.0%
+City Santana do Araguaia:  0/3193 => 0.0%
+City Santarém:  19408/19408 => 100.0%
+Mammography Unit 2 installed at Santarém => 6758/19408
+Mammography Unit 3 installed at Santarém => 6758/19408
+Mammography Unit 34 installed at Santarém => 5892/19408
+City Santarém Novo:  0/338 => 0.0%
+City Santo Antônio do Tauá:  0/1698 => 0.0%
+City São Caetano de Odivelas:  0/1032 => 0.0%
+City São Domingos do Araguaia:  0/1364 => 0.0%
+City São Domingos do Capim:  0/1444 => 0.0%
+City São Félix do Xingu:  5227/5227 => 100.0%
+Mammography Unit 32 installed at São Félix do Xingu => 5227/5227
+City São Francisco do Pará:  0/995 => 0.0%
+City São Geraldo do Araguaia:  0/1586 => 0.0%
+City São João da Ponta:  0/302 => 0.0%
+City São João de Pirabas:  0/1196 => 0.0%
+City São João do Araguaia:  0/766 => 0.0%
+City São Miguel do Guamá:  0/3062 => 0.0%
+City São Sebastião da Boa Vista:  0/1128 => 0.0%
+City Sapucaia:  0/324 => 0.0%
+City Senador José Porfírio:  0/681 => 0.0%
+City Soure:  0/1553 => 0.0%
+City Tailândia:  0/3838 => 0.0%
+City Terra Alta:  0/627 => 0.0%
+City Terra Santa:  0/925 => 0.0%
+City Tomé-Açu:  0/3083 => 0.0%
+City Tracuateua:  0/1501 => 0.0%
+City Trairão:  0/899 => 0.0%
+City Tucumã:  0/2171 => 0.0%
+City Tucuruí:  6171/6171 => 100.0%
+Mammography Unit 23 installed at Tucuruí => 6171/6171
+City Ulianópolis:  0/2300 => 0.0%
+City Uruará:  0/2407 => 0.0%
+City Vigia:  0/3023 => 0.0%
+City Viseu:  0/2839 => 0.0%
+City Vitória do Xingu:  0/756 => 0.0%
+City Xinguara:  0/2746 => 0.0%
+Coverage
+0.8012805311833057
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.7626678704435166
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0

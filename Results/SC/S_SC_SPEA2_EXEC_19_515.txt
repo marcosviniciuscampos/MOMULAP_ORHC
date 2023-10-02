@@ -1,0 +1,2205 @@
+1 -370461.0
+2 -0.0
+3 -0.3743193393543508
+Objective functions
+
+
+Mammography Units: 
+
+Mammography Unit 0 installed at São José non-used capacity 0
+
+São José => 6758/20470
+
+Mammography Unit 1 installed at Criciúma non-used capacity 0
+
+Criciúma => 6758/18587
+
+Mammography Unit 2 installed at Florianópolis non-used capacity 0
+
+Florianópolis => 6758/41605
+
+Mammography Unit 3 installed at Joinville non-used capacity 0
+
+Joinville => 6758/47662
+
+Mammography Unit 4 installed at Chapecó non-used capacity 0
+
+Chapecó => 6758/15917
+
+Mammography Unit 5 installed at Lages non-used capacity 0
+
+Lages => 6758/14417
+
+Mammography Unit 6 installed at Itajaí non-used capacity 0
+
+Itajaí => 6758/16537
+
+Mammography Unit 7 installed at Florianópolis non-used capacity 0
+
+Florianópolis => 6758/41605
+
+Mammography Unit 8 installed at São José non-used capacity 0
+
+São José => 6758/20470
+
+Mammography Unit 9 installed at Palhoça non-used capacity 0
+
+Palhoça => 6758/12163
+
+Mammography Unit 10 installed at Joinville non-used capacity 0
+
+Joinville => 6758/47662
+
+Mammography Unit 11 installed at Florianópolis non-used capacity 0
+
+Florianópolis => 6758/41605
+
+Mammography Unit 12 installed at Criciúma non-used capacity 0
+
+Criciúma => 6758/18587
+
+Mammography Unit 13 installed at Balneário Camboriú non-used capacity 0
+
+Balneário Camboriú => 6758/10758
+
+Mammography Unit 14 installed at Blumenau non-used capacity 0
+
+Blumenau => 6758/30047
+
+Mammography Unit 15 installed at Florianópolis non-used capacity 0
+
+Florianópolis => 6758/41605
+
+Mammography Unit 16 installed at Florianópolis non-used capacity 0
+
+Florianópolis => 6758/41605
+
+Mammography Unit 17 installed at Tubarão non-used capacity 0
+
+Tubarão => 6758/9806
+
+Mammography Unit 18 installed at Itajaí non-used capacity 0
+
+Itajaí => 6758/16537
+
+Mammography Unit 19 installed at Chapecó non-used capacity 0
+
+Chapecó => 6758/15917
+
+Mammography Unit 20 installed at Jaraguá do Sul non-used capacity 0
+
+Jaraguá do Sul => 6758/12690
+
+Mammography Unit 21 installed at Blumenau non-used capacity 0
+
+Blumenau => 6758/30047
+
+Mammography Unit 22 installed at Lages non-used capacity 0
+
+Lages => 6758/14417
+
+Mammography Unit 23 installed at Joinville non-used capacity 0
+
+Joinville => 6758/47662
+
+Mammography Unit 24 installed at Blumenau non-used capacity 0
+
+Blumenau => 6758/30047
+
+Mammography Unit 25 installed at Blumenau non-used capacity 0
+
+Blumenau => 6758/30047
+
+Mammography Unit 26 installed at Florianópolis non-used capacity 0
+
+Florianópolis => 6758/41605
+
+Mammography Unit 27 installed at São Bento do Sul non-used capacity 125
+
+São Bento do Sul => 6633/6633
+
+Mammography Unit 28 installed at Joinville non-used capacity 0
+
+Joinville => 6758/47662
+
+Mammography Unit 29 installed at São José non-used capacity 0
+
+São José => 6758/20470
+
+Mammography Unit 30 installed at Jaraguá do Sul non-used capacity 826
+
+Jaraguá do Sul => 5932/12690
+
+Mammography Unit 31 installed at São José non-used capacity 6562
+
+São José => 196/20470
+
+Mammography Unit 32 installed at Joinville non-used capacity 0
+
+Joinville => 6758/47662
+
+Mammography Unit 33 installed at Rio do Sul non-used capacity 1107
+
+Rio do Sul => 5651/5651
+
+Mammography Unit 34 installed at Içara non-used capacity 1330
+
+Içara => 5428/5428
+
+Mammography Unit 35 installed at Navegantes non-used capacity 1639
+
+Navegantes => 5119/5119
+
+Mammography Unit 36 installed at Camboriú non-used capacity 1657
+
+Camboriú => 5101/5101
+
+Mammography Unit 37 installed at Joinville non-used capacity 0
+
+Joinville => 6758/47662
+
+Mammography Unit 38 installed at Joinville non-used capacity 0
+
+Joinville => 6758/47662
+
+Mammography Unit 39 installed at Palhoça non-used capacity 1353
+
+Palhoça => 5405/12163
+
+Mammography Unit 40 installed at Biguaçu non-used capacity 1571
+
+Biguaçu => 5187/5187
+
+Mammography Unit 41 installed at Gaspar non-used capacity 1373
+
+Gaspar => 5385/5385
+
+Mammography Unit 42 installed at Joinville non-used capacity 6402
+
+Joinville => 356/47662
+
+Mammography Unit 43 installed at Criciúma non-used capacity 1687
+
+Criciúma => 5071/18587
+
+Mammography Unit 44 installed at Joinville non-used capacity 6758
+
+
+Mammography Unit 45 installed at Mafra non-used capacity 2007
+
+Mafra => 4751/4751
+
+Mammography Unit 46 installed at Laguna non-used capacity 1839
+
+Laguna => 4919/4919
+
+Mammography Unit 47 installed at Canoinhas non-used capacity 2117
+
+Canoinhas => 4641/4641
+
+Mammography Unit 48 installed at Balneário Camboriú non-used capacity 2758
+
+Balneário Camboriú => 4000/10758
+
+Mammography Unit 49 installed at Mafra non-used capacity 6758
+
+
+Mammography Unit 50 installed at Xanxerê non-used capacity 2781
+
+Xanxerê => 3977/3977
+
+Mammography Unit 51 installed at Imbituba non-used capacity 2926
+
+Imbituba => 3832/3832
+
+Mammography Unit 52 installed at Itajaí non-used capacity 3737
+
+Itajaí => 3021/16537
+
+Mammography Unit 53 installed at Timbó non-used capacity 3240
+
+Timbó => 3518/3518
+
+Mammography Unit 54 installed at Camboriú non-used capacity 6758
+
+
+Mammography Unit 55 installed at Blumenau non-used capacity 3743
+
+Blumenau => 3015/30047
+
+Mammography Unit 56 installed at Curitibanos non-used capacity 3464
+
+Curitibanos => 3294/3294
+
+Mammography Unit 57 installed at Imbituba non-used capacity 6758
+
+
+Mammography Unit 58 installed at Tubarão non-used capacity 3710
+
+Tubarão => 3048/9806
+
+Mammography Unit 59 installed at Itajaí non-used capacity 6758
+
+
+Mammography Unit 60 installed at Porto União non-used capacity 3761
+
+Porto União => 2997/2997
+
+Mammography Unit 61 installed at Brusque non-used capacity 0
+
+Brusque => 6758/9733
+
+Mammography Unit 62 installed at Timbó non-used capacity 6758
+
+
+Mammography Unit 63 installed at Xanxerê non-used capacity 6758
+
+
+Mammography Unit 64 installed at Blumenau non-used capacity 6758
+
+
+Mammography Unit 65 installed at Joaçaba non-used capacity 4122
+
+Joaçaba => 2636/2636
+
+Mammography Unit 66 installed at Campos Novos non-used capacity 3907
+
+Campos Novos => 2851/2851
+
+Mammography Unit 67 installed at Tijucas non-used capacity 4059
+
+Tijucas => 2699/2699
+
+Mammography Unit 68 installed at Chapecó non-used capacity 4357
+
+Chapecó => 2401/15917
+
+Mammography Unit 69 installed at Sombrio non-used capacity 4387
+
+Sombrio => 2371/2371
+
+Mammography Unit 70 installed at Joaçaba non-used capacity 6758
+
+
+Mammography Unit 71 installed at Chapecó non-used capacity 6758
+
+
+Mammography Unit 72 installed at Sombrio non-used capacity 6758
+
+
+Mammography Unit 73 installed at São Joaquim non-used capacity 4462
+
+São Joaquim => 2296/2296
+
+Mammography Unit 74 installed at Xaxim non-used capacity 4411
+
+Xaxim => 2347/2347
+
+Mammography Unit 75 installed at Barra Velha non-used capacity 4755
+
+Barra Velha => 2003/2003
+
+Mammography Unit 76 installed at São Joaquim non-used capacity 6758
+
+
+Mammography Unit 77 installed at Barra Velha non-used capacity 6758
+
+
+Mammography Unit 78 installed at Xaxim non-used capacity 6758
+
+
+Mammography Unit 79 installed at Barra Velha non-used capacity 6758
+
+
+Mammography Unit 80 installed at Campos Novos non-used capacity 6758
+
+
+Mammography Unit 81 installed at São Lourenço do Oeste non-used capacity 4805
+
+São Lourenço do Oeste => 1953/1953
+
+Mammography Unit 82 installed at Forquilhinha non-used capacity 4852
+
+Forquilhinha => 1906/1906
+
+Mammography Unit 83 installed at Penha non-used capacity 4500
+
+Penha => 2258/2258
+
+Mammography Unit 84 installed at Capinzal non-used capacity 4963
+
+Capinzal => 1795/1795
+
+Mammography Unit 85 installed at Araquari non-used capacity 4895
+
+Araquari => 1863/1863
+
+Mammography Unit 86 installed at Joaçaba non-used capacity 6758
+
+
+Mammography Unit 87 installed at Forquilhinha non-used capacity 6758
+
+
+Mammography Unit 88 installed at Capinzal non-used capacity 6758
+
+
+Mammography Unit 89 installed at Garopaba non-used capacity 5103
+
+Garopaba => 1655/1655
+
+Mammography Unit 90 installed at Barra Velha non-used capacity 6758
+
+
+Mammography Unit 91 installed at Capinzal non-used capacity 6758
+
+
+Mammography Unit 92 installed at Guaramirim non-used capacity 3939
+
+Guaramirim => 2819/2819
+
+Mammography Unit 93 installed at Guaramirim non-used capacity 6758
+
+
+Mammography Unit 94 installed at Timbó non-used capacity 6758
+
+
+Mammography Unit 95 installed at Forquilhinha non-used capacity 6758
+
+
+Mammography Unit 96 installed at Nova Erechim non-used capacity 6372
+
+Nova Erechim => 386/386
+
+Mammography Unit 97 installed at Forquilhinha non-used capacity 6758
+
+
+Mammography Unit 98 installed at Garopaba non-used capacity 6758
+
+
+Mammography Unit 99 installed at Navegantes non-used capacity 6758
+
+
+Mammography Unit 100 installed at Tijucas non-used capacity 6758
+
+
+Mammography Unit 101 installed at Nova Erechim non-used capacity 6758
+
+
+Mammography Unit 102 installed at Lebon Régis non-used capacity 5866
+
+Lebon Régis => 892/892
+
+Mammography Unit 103 installed at Três Barras non-used capacity 5316
+
+Três Barras => 1442/1442
+
+Mammography Unit 104 installed at Timbó non-used capacity 6758
+
+
+Mammography Unit 105 installed at Lages non-used capacity 5857
+
+Lages => 901/14417
+
+Mammography Unit 106 installed at Biguaçu non-used capacity 6758
+
+
+Mammography Unit 107 installed at Penha non-used capacity 6758
+
+
+Mammography Unit 108 installed at Balneário Camboriú non-used capacity 6758
+
+
+Mammography Unit 109 installed at Três Barras non-used capacity 6758
+
+
+Mammography Unit 110 installed at Tubarão non-used capacity 6758
+
+
+Mammography Unit 111 installed at Santa Cecília non-used capacity 5538
+
+Santa Cecília => 1220/1220
+
+Mammography Unit 112 installed at Gaspar non-used capacity 6758
+
+
+Mammography Unit 113 installed at Tubarão non-used capacity 6758
+
+
+Mammography Unit 114 installed at Lebon Régis non-used capacity 6758
+
+
+Mammography Unit 115 installed at Videira non-used capacity 2579
+
+Videira => 4179/4179
+
+Mammography Unit 116 installed at Camboriú non-used capacity 6758
+
+
+Mammography Unit 117 installed at São Lourenço do Oeste non-used capacity 6758
+
+
+Mammography Unit 118 installed at Içara non-used capacity 6758
+
+
+Mammography Unit 119 installed at Antônio Carlos non-used capacity 6125
+
+Antônio Carlos => 633/633
+
+Mammography Unit 120 installed at Nova Veneza non-used capacity 5584
+
+Nova Veneza => 1174/1174
+
+Mammography Unit 121 installed at Nova Veneza non-used capacity 6758
+
+
+Mammography Unit 122 installed at Nova Veneza non-used capacity 6758
+
+
+Mammography Unit 123 installed at Santa Cecília non-used capacity 6758
+
+
+Mammography Unit 124 installed at Florianópolis non-used capacity 5701
+
+Florianópolis => 1057/41605
+
+Mammography Unit 125 installed at Nova Veneza non-used capacity 6758
+
+
+Mammography Unit 126 installed at Capinzal non-used capacity 6758
+
+
+Mammography Unit 127 installed at Tijucas non-used capacity 6758
+
+
+Mammography Unit 128 installed at Dionísio Cerqueira non-used capacity 5525
+
+Dionísio Cerqueira => 1233/1233
+
+Mammography Unit 129 installed at Palhoça non-used capacity 6758
+
+
+Mammography Unit 130 installed at Dionísio Cerqueira non-used capacity 6758
+
+
+Cities covered by the equipment 0 => São José, 
+
+
+Cities covered by the equipment 1 => Criciúma, 
+
+
+Cities covered by the equipment 2 => Florianópolis, 
+
+
+Cities covered by the equipment 3 => Joinville, 
+
+
+Cities covered by the equipment 4 => Chapecó, 
+
+
+Cities covered by the equipment 5 => Lages, 
+
+
+Cities covered by the equipment 6 => Itajaí, 
+
+
+Cities covered by the equipment 7 => Florianópolis, 
+
+
+Cities covered by the equipment 8 => São José, 
+
+
+Cities covered by the equipment 9 => Palhoça, 
+
+
+Cities covered by the equipment 10 => Joinville, 
+
+
+Cities covered by the equipment 11 => Florianópolis, 
+
+
+Cities covered by the equipment 12 => Criciúma, 
+
+
+Cities covered by the equipment 13 => Balneário Camboriú, 
+
+
+Cities covered by the equipment 14 => Blumenau, 
+
+
+Cities covered by the equipment 15 => Florianópolis, 
+
+
+Cities covered by the equipment 16 => Florianópolis, 
+
+
+Cities covered by the equipment 17 => Tubarão, 
+
+
+Cities covered by the equipment 18 => Itajaí, 
+
+
+Cities covered by the equipment 19 => Chapecó, 
+
+
+Cities covered by the equipment 20 => Jaraguá do Sul, 
+
+
+Cities covered by the equipment 21 => Blumenau, 
+
+
+Cities covered by the equipment 22 => Lages, 
+
+
+Cities covered by the equipment 23 => Joinville, 
+
+
+Cities covered by the equipment 24 => Blumenau, 
+
+
+Cities covered by the equipment 25 => Blumenau, 
+
+
+Cities covered by the equipment 26 => Florianópolis, 
+
+
+Cities covered by the equipment 27 => São Bento do Sul, 
+
+
+Cities covered by the equipment 28 => Joinville, 
+
+
+Cities covered by the equipment 29 => São José, 
+
+
+Cities covered by the equipment 30 => Jaraguá do Sul, 
+
+
+Cities covered by the equipment 31 => São José, 
+
+
+Cities covered by the equipment 32 => Joinville, 
+
+
+Cities covered by the equipment 33 => Rio do Sul, 
+
+
+Cities covered by the equipment 34 => Içara, 
+
+
+Cities covered by the equipment 35 => Navegantes, 
+
+
+Cities covered by the equipment 36 => Camboriú, 
+
+
+Cities covered by the equipment 37 => Joinville, 
+
+
+Cities covered by the equipment 38 => Joinville, 
+
+
+Cities covered by the equipment 39 => Palhoça, 
+
+
+Cities covered by the equipment 40 => Biguaçu, 
+
+
+Cities covered by the equipment 41 => Gaspar, 
+
+
+Cities covered by the equipment 42 => Joinville, 
+
+
+Cities covered by the equipment 43 => Criciúma, 
+
+
+Cities covered by the equipment 44 => 
+
+
+Cities covered by the equipment 45 => Mafra, 
+
+
+Cities covered by the equipment 46 => Laguna, 
+
+
+Cities covered by the equipment 47 => Canoinhas, 
+
+
+Cities covered by the equipment 48 => Balneário Camboriú, 
+
+
+Cities covered by the equipment 49 => 
+
+
+Cities covered by the equipment 50 => Xanxerê, 
+
+
+Cities covered by the equipment 51 => Imbituba, 
+
+
+Cities covered by the equipment 52 => Itajaí, 
+
+
+Cities covered by the equipment 53 => Timbó, 
+
+
+Cities covered by the equipment 54 => 
+
+
+Cities covered by the equipment 55 => Blumenau, 
+
+
+Cities covered by the equipment 56 => Curitibanos, 
+
+
+Cities covered by the equipment 57 => 
+
+
+Cities covered by the equipment 58 => Tubarão, 
+
+
+Cities covered by the equipment 59 => 
+
+
+Cities covered by the equipment 60 => Porto União, 
+
+
+Cities covered by the equipment 61 => Brusque, 
+
+
+Cities covered by the equipment 62 => 
+
+
+Cities covered by the equipment 63 => 
+
+
+Cities covered by the equipment 64 => 
+
+
+Cities covered by the equipment 65 => Joaçaba, 
+
+
+Cities covered by the equipment 66 => Campos Novos, 
+
+
+Cities covered by the equipment 67 => Tijucas, 
+
+
+Cities covered by the equipment 68 => Chapecó, 
+
+
+Cities covered by the equipment 69 => Sombrio, 
+
+
+Cities covered by the equipment 70 => 
+
+
+Cities covered by the equipment 71 => 
+
+
+Cities covered by the equipment 72 => 
+
+
+Cities covered by the equipment 73 => São Joaquim, 
+
+
+Cities covered by the equipment 74 => Xaxim, 
+
+
+Cities covered by the equipment 75 => Barra Velha, 
+
+
+Cities covered by the equipment 76 => 
+
+
+Cities covered by the equipment 77 => 
+
+
+Cities covered by the equipment 78 => 
+
+
+Cities covered by the equipment 79 => 
+
+
+Cities covered by the equipment 80 => 
+
+
+Cities covered by the equipment 81 => São Lourenço do Oeste, 
+
+
+Cities covered by the equipment 82 => Forquilhinha, 
+
+
+Cities covered by the equipment 83 => Penha, 
+
+
+Cities covered by the equipment 84 => Capinzal, 
+
+
+Cities covered by the equipment 85 => Araquari, 
+
+
+Cities covered by the equipment 86 => 
+
+
+Cities covered by the equipment 87 => 
+
+
+Cities covered by the equipment 88 => 
+
+
+Cities covered by the equipment 89 => Garopaba, 
+
+
+Cities covered by the equipment 90 => 
+
+
+Cities covered by the equipment 91 => 
+
+
+Cities covered by the equipment 92 => Guaramirim, 
+
+
+Cities covered by the equipment 93 => 
+
+
+Cities covered by the equipment 94 => 
+
+
+Cities covered by the equipment 95 => 
+
+
+Cities covered by the equipment 96 => Nova Erechim, 
+
+
+Cities covered by the equipment 97 => 
+
+
+Cities covered by the equipment 98 => 
+
+
+Cities covered by the equipment 99 => 
+
+
+Cities covered by the equipment 100 => 
+
+
+Cities covered by the equipment 101 => 
+
+
+Cities covered by the equipment 102 => Lebon Régis, 
+
+
+Cities covered by the equipment 103 => Três Barras, 
+
+
+Cities covered by the equipment 104 => 
+
+
+Cities covered by the equipment 105 => Lages, 
+
+
+Cities covered by the equipment 106 => 
+
+
+Cities covered by the equipment 107 => 
+
+
+Cities covered by the equipment 108 => 
+
+
+Cities covered by the equipment 109 => 
+
+
+Cities covered by the equipment 110 => 
+
+
+Cities covered by the equipment 111 => Santa Cecília, 
+
+
+Cities covered by the equipment 112 => 
+
+
+Cities covered by the equipment 113 => 
+
+
+Cities covered by the equipment 114 => 
+
+
+Cities covered by the equipment 115 => Videira, 
+
+
+Cities covered by the equipment 116 => 
+
+
+Cities covered by the equipment 117 => 
+
+
+Cities covered by the equipment 118 => 
+
+
+Cities covered by the equipment 119 => Antônio Carlos, 
+
+
+Cities covered by the equipment 120 => Nova Veneza, 
+
+
+Cities covered by the equipment 121 => 
+
+
+Cities covered by the equipment 122 => 
+
+
+Cities covered by the equipment 123 => 
+
+
+Cities covered by the equipment 124 => Florianópolis, 
+
+
+Cities covered by the equipment 125 => 
+
+
+Cities covered by the equipment 126 => 
+
+
+Cities covered by the equipment 127 => 
+
+
+Cities covered by the equipment 128 => Dionísio Cerqueira, 
+
+
+Cities covered by the equipment 129 => 
+
+
+Cities covered by the equipment 130 => 
+
+
+
+List of mammography units in Abelardo Luz: 
+
+
+List of mammography units in Agrolândia: 
+
+
+List of mammography units in Agronômica: 
+
+
+List of mammography units in Água Doce: 
+
+
+List of mammography units in Águas de Chapecó: 
+
+
+List of mammography units in Águas Mornas: 
+
+
+List of mammography units in Alfredo Wagner: 
+
+
+List of mammography units in Anchieta: 
+
+
+List of mammography units in Angelina: 
+
+
+List of mammography units in Anita Garibaldi: 
+
+
+List of mammography units in Antônio Carlos: 119, 
+
+
+List of mammography units in Apiúna: 
+
+
+List of mammography units in Arabutã: 
+
+
+List of mammography units in Araquari: 85, 
+
+
+List of mammography units in Araranguá: 
+
+
+List of mammography units in Armazém: 
+
+
+List of mammography units in Arroio Trinta: 
+
+
+List of mammography units in Ascurra: 
+
+
+List of mammography units in Aurora: 
+
+
+List of mammography units in Balneário Arroio do Silva: 
+
+
+List of mammography units in Balneário Camboriú: 13, 48, 108, 
+
+
+List of mammography units in Balneário Barra do Sul: 
+
+
+List of mammography units in Balneário Gaivota: 
+
+
+List of mammography units in Barra Velha: 75, 77, 79, 90, 
+
+
+List of mammography units in Bela Vista do Toldo: 
+
+
+List of mammography units in Benedito Novo: 
+
+
+List of mammography units in Biguaçu: 40, 106, 
+
+
+List of mammography units in Blumenau: 14, 21, 24, 25, 55, 64, 
+
+
+List of mammography units in Bombinhas: 
+
+
+List of mammography units in Bom Jardim da Serra: 
+
+
+List of mammography units in Bom Retiro: 
+
+
+List of mammography units in Botuverá: 
+
+
+List of mammography units in Braço do Norte: 
+
+
+List of mammography units in Brusque: 61, 
+
+
+List of mammography units in Caçador: 
+
+
+List of mammography units in Caibi: 
+
+
+List of mammography units in Camboriú: 36, 54, 116, 
+
+
+List of mammography units in Campo Alegre: 
+
+
+List of mammography units in Campo Belo do Sul: 
+
+
+List of mammography units in Campo Erê: 
+
+
+List of mammography units in Campos Novos: 66, 80, 
+
+
+List of mammography units in Canelinha: 
+
+
+List of mammography units in Canoinhas: 47, 
+
+
+List of mammography units in Capinzal: 84, 88, 91, 126, 
+
+
+List of mammography units in Capivari de Baixo: 
+
+
+List of mammography units in Catanduvas: 
+
+
+List of mammography units in Caxambu do Sul: 
+
+
+List of mammography units in Chapecó: 4, 19, 68, 71, 
+
+
+List of mammography units in Cocal do Sul: 
+
+
+List of mammography units in Concórdia: 
+
+
+List of mammography units in Cordilheira Alta: 
+
+
+List of mammography units in Coronel Freitas: 
+
+
+List of mammography units in Corupá: 
+
+
+List of mammography units in Correia Pinto: 
+
+
+List of mammography units in Criciúma: 1, 12, 43, 
+
+
+List of mammography units in Cunha Porã: 
+
+
+List of mammography units in Curitibanos: 56, 
+
+
+List of mammography units in Descanso: 
+
+
+List of mammography units in Dionísio Cerqueira: 128, 130, 
+
+
+List of mammography units in Doutor Pedrinho: 
+
+
+List of mammography units in Erval Velho: 
+
+
+List of mammography units in Faxinal dos Guedes: 
+
+
+List of mammography units in Florianópolis: 2, 7, 11, 15, 16, 26, 124, 
+
+
+List of mammography units in Forquilhinha: 82, 87, 95, 97, 
+
+
+List of mammography units in Fraiburgo: 
+
+
+List of mammography units in Galvão: 
+
+
+List of mammography units in Garopaba: 89, 98, 
+
+
+List of mammography units in Garuva: 
+
+
+List of mammography units in Gaspar: 41, 112, 
+
+
+List of mammography units in Governador Celso Ramos: 
+
+
+List of mammography units in Grão-Pará: 
+
+
+List of mammography units in Gravatal: 
+
+
+List of mammography units in Guabiruba: 
+
+
+List of mammography units in Guaraciaba: 
+
+
+List of mammography units in Guaramirim: 92, 93, 
+
+
+List of mammography units in Guarujá do Sul: 
+
+
+List of mammography units in Guatambú: 
+
+
+List of mammography units in Herval d'Oeste: 
+
+
+List of mammography units in Ibirama: 
+
+
+List of mammography units in Içara: 34, 118, 
+
+
+List of mammography units in Ilhota: 
+
+
+List of mammography units in Imaruí: 
+
+
+List of mammography units in Imbituba: 51, 57, 
+
+
+List of mammography units in Imbuia: 
+
+
+List of mammography units in Indaial: 
+
+
+List of mammography units in Ipira: 
+
+
+List of mammography units in Iporã do Oeste: 
+
+
+List of mammography units in Ipuaçu: 
+
+
+List of mammography units in Ipumirim: 
+
+
+List of mammography units in Iraceminha: 
+
+
+List of mammography units in Irani: 
+
+
+List of mammography units in Irineópolis: 
+
+
+List of mammography units in Itá: 
+
+
+List of mammography units in Itaiópolis: 
+
+
+List of mammography units in Itajaí: 6, 18, 52, 59, 
+
+
+List of mammography units in Itapema: 
+
+
+List of mammography units in Itapiranga: 
+
+
+List of mammography units in Itapoá: 
+
+
+List of mammography units in Ituporanga: 
+
+
+List of mammography units in Jaborá: 
+
+
+List of mammography units in Jacinto Machado: 
+
+
+List of mammography units in Jaguaruna: 
+
+
+List of mammography units in Jaraguá do Sul: 20, 30, 
+
+
+List of mammography units in Joaçaba: 65, 70, 86, 
+
+
+List of mammography units in Joinville: 3, 10, 23, 28, 32, 37, 38, 42, 44, 
+
+
+List of mammography units in José Boiteux: 
+
+
+List of mammography units in Lages: 5, 22, 105, 
+
+
+List of mammography units in Laguna: 46, 
+
+
+List of mammography units in Laurentino: 
+
+
+List of mammography units in Lauro Müller: 
+
+
+List of mammography units in Lebon Régis: 102, 114, 
+
+
+List of mammography units in Lindóia do Sul: 
+
+
+List of mammography units in Lontras: 
+
+
+List of mammography units in Luiz Alves: 
+
+
+List of mammography units in Luzerna: 
+
+
+List of mammography units in Mafra: 45, 49, 
+
+
+List of mammography units in Major Vieira: 
+
+
+List of mammography units in Maracajá: 
+
+
+List of mammography units in Maravilha: 
+
+
+List of mammography units in Massaranduba: 
+
+
+List of mammography units in Meleiro: 
+
+
+List of mammography units in Modelo: 
+
+
+List of mammography units in Mondaí: 
+
+
+List of mammography units in Monte Carlo: 
+
+
+List of mammography units in Monte Castelo: 
+
+
+List of mammography units in Morro da Fumaça: 
+
+
+List of mammography units in Navegantes: 35, 99, 
+
+
+List of mammography units in Nova Erechim: 96, 101, 
+
+
+List of mammography units in Nova Itaberaba: 
+
+
+List of mammography units in Nova Trento: 
+
+
+List of mammography units in Nova Veneza: 120, 121, 122, 125, 
+
+
+List of mammography units in Orleans: 
+
+
+List of mammography units in Otacílio Costa: 
+
+
+List of mammography units in Ouro: 
+
+
+List of mammography units in Palhoça: 9, 39, 129, 
+
+
+List of mammography units in Palma Sola: 
+
+
+List of mammography units in Palmitos: 
+
+
+List of mammography units in Papanduva: 
+
+
+List of mammography units in Paraíso: 
+
+
+List of mammography units in Passo de Torres: 
+
+
+List of mammography units in Passos Maia: 
+
+
+List of mammography units in Paulo Lopes: 
+
+
+List of mammography units in Pedras Grandes: 
+
+
+List of mammography units in Penha: 83, 107, 
+
+
+List of mammography units in Petrolândia: 
+
+
+List of mammography units in Balneário Piçarras: 
+
+
+List of mammography units in Pinhalzinho: 
+
+
+List of mammography units in Piratuba: 
+
+
+List of mammography units in Pomerode: 
+
+
+List of mammography units in Ponte Alta: 
+
+
+List of mammography units in Ponte Serrada: 
+
+
+List of mammography units in Porto Belo: 
+
+
+List of mammography units in Porto União: 60, 
+
+
+List of mammography units in Pouso Redondo: 
+
+
+List of mammography units in Praia Grande: 
+
+
+List of mammography units in Presidente Getúlio: 
+
+
+List of mammography units in Quilombo: 
+
+
+List of mammography units in Rio das Antas: 
+
+
+List of mammography units in Rio do Campo: 
+
+
+List of mammography units in Rio do Oeste: 
+
+
+List of mammography units in Rio dos Cedros: 
+
+
+List of mammography units in Rio do Sul: 33, 
+
+
+List of mammography units in Rio Fortuna: 
+
+
+List of mammography units in Rio Negrinho: 
+
+
+List of mammography units in Riqueza: 
+
+
+List of mammography units in Rodeio: 
+
+
+List of mammography units in Romelândia: 
+
+
+List of mammography units in Salete: 
+
+
+List of mammography units in Saltinho: 
+
+
+List of mammography units in Salto Veloso: 
+
+
+List of mammography units in Sangão: 
+
+
+List of mammography units in Santa Cecília: 111, 123, 
+
+
+List of mammography units in Santa Rosa do Sul: 
+
+
+List of mammography units in Santa Terezinha: 
+
+
+List of mammography units in Santo Amaro da Imperatriz: 
+
+
+List of mammography units in São Bento do Sul: 27, 
+
+
+List of mammography units in São Carlos: 
+
+
+List of mammography units in São Cristóvão do Sul: 
+
+
+List of mammography units in São Domingos: 
+
+
+List of mammography units in São Francisco do Sul: 
+
+
+List of mammography units in São João do Oeste: 
+
+
+List of mammography units in São João Batista: 
+
+
+List of mammography units in São João do Sul: 
+
+
+List of mammography units in São Joaquim: 73, 76, 
+
+
+List of mammography units in São José: 0, 8, 29, 31, 
+
+
+List of mammography units in São José do Cedro: 
+
+
+List of mammography units in São José do Cerrito: 
+
+
+List of mammography units in São Lourenço do Oeste: 81, 117, 
+
+
+List of mammography units in São Ludgero: 
+
+
+List of mammography units in São Miguel do Oeste: 
+
+
+List of mammography units in Saudades: 
+
+
+List of mammography units in Schroeder: 
+
+
+List of mammography units in Seara: 
+
+
+List of mammography units in Siderópolis: 
+
+
+List of mammography units in Sombrio: 69, 72, 
+
+
+List of mammography units in Taió: 
+
+
+List of mammography units in Tangará: 
+
+
+List of mammography units in Tijucas: 67, 100, 127, 
+
+
+List of mammography units in Timbé do Sul: 
+
+
+List of mammography units in Timbó: 53, 62, 94, 104, 
+
+
+List of mammography units in Timbó Grande: 
+
+
+List of mammography units in Três Barras: 103, 109, 
+
+
+List of mammography units in Treviso: 
+
+
+List of mammography units in Treze de Maio: 
+
+
+List of mammography units in Treze Tílias: 
+
+
+List of mammography units in Trombudo Central: 
+
+
+List of mammography units in Tubarão: 17, 58, 110, 113, 
+
+
+List of mammography units in Tunápolis: 
+
+
+List of mammography units in Turvo: 
+
+
+List of mammography units in Urubici: 
+
+
+List of mammography units in Urussanga: 
+
+
+List of mammography units in Vargem Bonita: 
+
+
+List of mammography units in Vidal Ramos: 
+
+
+List of mammography units in Videira: 115, 
+
+
+List of mammography units in Vitor Meireles: 
+
+
+List of mammography units in Witmarsum: 
+
+
+List of mammography units in Xanxerê: 50, 63, 
+
+
+List of mammography units in Xavantina: 
+
+
+List of mammography units in Xaxim: 74, 78, 
+
+
+
+Demand coverage
+City Abdon Batista:  0/242 => 0.0%
+City Abelardo Luz:  0/1375 => 0.0%
+City Agrolândia:  0/764 => 0.0%
+City Agronômica:  0/421 => 0.0%
+City Água Doce:  0/573 => 0.0%
+City Águas de Chapecó:  0/543 => 0.0%
+City Águas Frias:  0/224 => 0.0%
+City Águas Mornas:  0/485 => 0.0%
+City Alfredo Wagner:  0/814 => 0.0%
+City Alto Bela Vista:  0/205 => 0.0%
+City Anchieta:  0/574 => 0.0%
+City Angelina:  0/447 => 0.0%
+City Anita Garibaldi:  0/751 => 0.0%
+City Anitápolis:  0/290 => 0.0%
+City Antônio Carlos:  633/633 => 100.0%
+Mammography Unit 119 installed at Antônio Carlos => 633/633
+City Apiúna:  0/812 => 0.0%
+City Arabutã:  0/364 => 0.0%
+City Araquari:  1863/1863 => 100.0%
+Mammography Unit 85 installed at Araquari => 1863/1863
+City Araranguá:  0/5664 => 0.0%
+City Armazém:  0/669 => 0.0%
+City Arroio Trinta:  0/357 => 0.0%
+City Arvoredo:  0/202 => 0.0%
+City Ascurra:  0/691 => 0.0%
+City Atalanta:  0/311 => 0.0%
+City Aurora:  0/484 => 0.0%
+City Balneário Arroio do Silva:  0/931 => 0.0%
+City Balneário Camboriú:  10758/10758 => 100.0%
+Mammography Unit 13 installed at Balneário Camboriú => 6758/10758
+Mammography Unit 48 installed at Balneário Camboriú => 4000/10758
+City Balneário Barra do Sul:  0/849 => 0.0%
+City Balneário Gaivota:  0/786 => 0.0%
+City Bandeirante:  0/261 => 0.0%
+City Barra Bonita:  0/165 => 0.0%
+City Barra Velha:  2003/2003 => 100.0%
+Mammography Unit 75 installed at Barra Velha => 2003/2003
+City Bela Vista do Toldo:  0/471 => 0.0%
+City Belmonte:  0/231 => 0.0%
+City Benedito Novo:  0/888 => 0.0%
+City Biguaçu:  5187/5187 => 100.0%
+Mammography Unit 40 installed at Biguaçu => 5187/5187
+City Blumenau:  30047/30047 => 100.0%
+Mammography Unit 14 installed at Blumenau => 6758/30047
+Mammography Unit 21 installed at Blumenau => 6758/30047
+Mammography Unit 24 installed at Blumenau => 6758/30047
+Mammography Unit 25 installed at Blumenau => 6758/30047
+Mammography Unit 55 installed at Blumenau => 3015/30047
+City Bocaina do Sul:  0/283 => 0.0%
+City Bombinhas:  0/1276 => 0.0%
+City Bom Jardim da Serra:  0/382 => 0.0%
+City Bom Jesus:  0/220 => 0.0%
+City Bom Jesus do Oeste:  0/197 => 0.0%
+City Bom Retiro:  0/718 => 0.0%
+City Botuverá:  0/406 => 0.0%
+City Braço do Norte:  0/2510 => 0.0%
+City Braço do Trombudo:  0/295 => 0.0%
+City Brunópolis:  0/250 => 0.0%
+City Brusque:  6758/9733 => 69.43388472207953%
+Mammography Unit 61 installed at Brusque => 6758/9733
+City Caçador:  0/6069 => 0.0%
+City Caibi:  0/584 => 0.0%
+City Calmon:  0/239 => 0.0%
+City Camboriú:  5101/5101 => 100.0%
+Mammography Unit 36 installed at Camboriú => 5101/5101
+City Capão Alto:  0/243 => 0.0%
+City Campo Alegre:  0/983 => 0.0%
+City Campo Belo do Sul:  0/648 => 0.0%
+City Campo Erê:  0/744 => 0.0%
+City Campos Novos:  2851/2851 => 100.0%
+Mammography Unit 66 installed at Campos Novos => 2851/2851
+City Canelinha:  0/871 => 0.0%
+City Canoinhas:  4641/4641 => 100.0%
+Mammography Unit 47 installed at Canoinhas => 4641/4641
+City Capinzal:  1795/1795 => 100.0%
+Mammography Unit 84 installed at Capinzal => 1795/1795
+City Capivari de Baixo:  0/2097 => 0.0%
+City Catanduvas:  0/806 => 0.0%
+City Caxambu do Sul:  0/428 => 0.0%
+City Celso Ramos:  0/250 => 0.0%
+City Cerro Negro:  0/297 => 0.0%
+City Chapadão do Lageado:  0/222 => 0.0%
+City Chapecó:  15917/15917 => 100.0%
+Mammography Unit 4 installed at Chapecó => 6758/15917
+Mammography Unit 19 installed at Chapecó => 6758/15917
+Mammography Unit 68 installed at Chapecó => 2401/15917
+City Cocal do Sul:  0/1527 => 0.0%
+City Concórdia:  0/6539 => 0.0%
+City Cordilheira Alta:  0/340 => 0.0%
+City Coronel Freitas:  0/944 => 0.0%
+City Coronel Martins:  0/214 => 0.0%
+City Corupá:  0/1170 => 0.0%
+City Correia Pinto:  0/1271 => 0.0%
+City Criciúma:  18587/18587 => 100.0%
+Mammography Unit 1 installed at Criciúma => 6758/18587
+Mammography Unit 12 installed at Criciúma => 6758/18587
+Mammography Unit 43 installed at Criciúma => 5071/18587
+City Cunha Porã:  0/1006 => 0.0%
+City Cunhataí:  0/180 => 0.0%
+City Curitibanos:  3294/3294 => 100.0%
+Mammography Unit 56 installed at Curitibanos => 3294/3294
+City Descanso:  0/842 => 0.0%
+City Dionísio Cerqueira:  1233/1233 => 100.0%
+Mammography Unit 128 installed at Dionísio Cerqueira => 1233/1233
+City Dona Emma:  0/307 => 0.0%
+City Doutor Pedrinho:  0/324 => 0.0%
+City Entre Rios:  0/220 => 0.0%
+City Ermo:  0/179 => 0.0%
+City Erval Velho:  0/415 => 0.0%
+City Faxinal dos Guedes:  0/901 => 0.0%
+City Flor do Sertão:  0/138 => 0.0%
+City Florianópolis:  41605/41605 => 100.0%
+Mammography Unit 2 installed at Florianópolis => 6758/41605
+Mammography Unit 7 installed at Florianópolis => 6758/41605
+Mammography Unit 11 installed at Florianópolis => 6758/41605
+Mammography Unit 15 installed at Florianópolis => 6758/41605
+Mammography Unit 16 installed at Florianópolis => 6758/41605
+Mammography Unit 26 installed at Florianópolis => 6758/41605
+Mammography Unit 124 installed at Florianópolis => 1057/41605
+City Formosa do Sul:  0/224 => 0.0%
+City Forquilhinha:  1906/1906 => 100.0%
+Mammography Unit 82 installed at Forquilhinha => 1906/1906
+City Fraiburgo:  0/2940 => 0.0%
+City Frei Rogério:  0/210 => 0.0%
+City Galvão:  0/321 => 0.0%
+City Garopaba:  1655/1655 => 100.0%
+Mammography Unit 89 installed at Garopaba => 1655/1655
+City Garuva:  0/1156 => 0.0%
+City Gaspar:  5385/5385 => 100.0%
+Mammography Unit 41 installed at Gaspar => 5385/5385
+City Governador Celso Ramos:  0/1218 => 0.0%
+City Grão-Pará:  0/558 => 0.0%
+City Gravatal:  0/993 => 0.0%
+City Guabiruba:  0/1664 => 0.0%
+City Guaraciaba:  0/1011 => 0.0%
+City Guaramirim:  2819/2819 => 100.0%
+Mammography Unit 92 installed at Guaramirim => 2819/2819
+City Guarujá do Sul:  0/473 => 0.0%
+City Guatambú:  0/396 => 0.0%
+City Herval d'Oeste:  0/1980 => 0.0%
+City Ibiam:  0/189 => 0.0%
+City Ibicaré:  0/311 => 0.0%
+City Ibirama:  0/1529 => 0.0%
+City Içara:  5428/5428 => 100.0%
+Mammography Unit 34 installed at Içara => 5428/5428
+City Ilhota:  0/1047 => 0.0%
+City Imaruí:  0/1081 => 0.0%
+City Imbituba:  3832/3832 => 100.0%
+Mammography Unit 51 installed at Imbituba => 3832/3832
+City Imbuia:  0/479 => 0.0%
+City Indaial:  0/4850 => 0.0%
+City Iomerê:  0/256 => 0.0%
+City Ipira:  0/444 => 0.0%
+City Iporã do Oeste:  0/779 => 0.0%
+City Ipuaçu:  0/463 => 0.0%
+City Ipumirim:  0/659 => 0.0%
+City Iraceminha:  0/397 => 0.0%
+City Irani:  0/814 => 0.0%
+City Irati:  0/189 => 0.0%
+City Irineópolis:  0/798 => 0.0%
+City Itá:  0/585 => 0.0%
+City Itaiópolis:  0/1575 => 0.0%
+City Itajaí:  16537/16537 => 100.0%
+Mammography Unit 6 installed at Itajaí => 6758/16537
+Mammography Unit 18 installed at Itajaí => 6758/16537
+Mammography Unit 52 installed at Itajaí => 3021/16537
+City Itapema:  0/4343 => 0.0%
+City Itapiranga:  0/1320 => 0.0%
+City Itapoá:  0/1415 => 0.0%
+City Ituporanga:  0/1902 => 0.0%
+City Jaborá:  0/375 => 0.0%
+City Jacinto Machado:  0/973 => 0.0%
+City Jaguaruna:  0/1642 => 0.0%
+City Jaraguá do Sul:  12690/12690 => 100.0%
+Mammography Unit 20 installed at Jaraguá do Sul => 6758/12690
+Mammography Unit 30 installed at Jaraguá do Sul => 5932/12690
+City Jardinópolis:  0/164 => 0.0%
+City Joaçaba:  2636/2636 => 100.0%
+Mammography Unit 65 installed at Joaçaba => 2636/2636
+City Joinville:  47662/47662 => 100.0%
+Mammography Unit 3 installed at Joinville => 6758/47662
+Mammography Unit 10 installed at Joinville => 6758/47662
+Mammography Unit 23 installed at Joinville => 6758/47662
+Mammography Unit 28 installed at Joinville => 6758/47662
+Mammography Unit 32 installed at Joinville => 6758/47662
+Mammography Unit 37 installed at Joinville => 6758/47662
+Mammography Unit 38 installed at Joinville => 6758/47662
+Mammography Unit 42 installed at Joinville => 356/47662
+City José Boiteux:  0/357 => 0.0%
+City Jupiá:  0/193 => 0.0%
+City Lacerdópolis:  0/210 => 0.0%
+City Lages:  14417/14417 => 100.0%
+Mammography Unit 5 installed at Lages => 6758/14417
+Mammography Unit 22 installed at Lages => 6758/14417
+Mammography Unit 105 installed at Lages => 901/14417
+City Laguna:  4919/4919 => 100.0%
+Mammography Unit 46 installed at Laguna => 4919/4919
+City Lajeado Grande:  0/145 => 0.0%
+City Laurentino:  0/584 => 0.0%
+City Lauro Müller:  0/1275 => 0.0%
+City Lebon Régis:  892/892 => 100.0%
+Mammography Unit 102 installed at Lebon Régis => 892/892
+City Leoberto Leal:  0/288 => 0.0%
+City Lindóia do Sul:  0/433 => 0.0%
+City Lontras:  0/858 => 0.0%
+City Luiz Alves:  0/812 => 0.0%
+City Luzerna:  0/575 => 0.0%
+City Macieira:  0/154 => 0.0%
+City Mafra:  4751/4751 => 100.0%
+Mammography Unit 45 installed at Mafra => 4751/4751
+City Major Gercino:  0/265 => 0.0%
+City Major Vieira:  0/632 => 0.0%
+City Maracajá:  0/558 => 0.0%
+City Maravilha:  0/1991 => 0.0%
+City Marema:  0/214 => 0.0%
+City Massaranduba:  0/1273 => 0.0%
+City Matos Costa:  0/216 => 0.0%
+City Meleiro:  0/636 => 0.0%
+City Mirim Doce:  0/216 => 0.0%
+City Modelo:  0/366 => 0.0%
+City Mondaí:  0/872 => 0.0%
+City Monte Carlo:  0/710 => 0.0%
+City Monte Castelo:  0/647 => 0.0%
+City Morro da Fumaça:  0/1440 => 0.0%
+City Morro Grande:  0/253 => 0.0%
+City Navegantes:  5119/5119 => 100.0%
+Mammography Unit 35 installed at Navegantes => 5119/5119
+City Nova Erechim:  386/386 => 100.0%
+Mammography Unit 96 installed at Nova Erechim => 386/386
+City Nova Itaberaba:  0/387 => 0.0%
+City Nova Trento:  0/1115 => 0.0%
+City Nova Veneza:  1174/1174 => 100.0%
+Mammography Unit 120 installed at Nova Veneza => 1174/1174
+City Novo Horizonte:  0/264 => 0.0%
+City Orleans:  0/1947 => 0.0%
+City Otacílio Costa:  0/1397 => 0.0%
+City Ouro:  0/699 => 0.0%
+City Ouro Verde:  0/199 => 0.0%
+City Paial:  0/161 => 0.0%
+City Painel:  0/205 => 0.0%
+City Palhoça:  12163/12163 => 100.0%
+Mammography Unit 9 installed at Palhoça => 6758/12163
+Mammography Unit 39 installed at Palhoça => 5405/12163
+City Palma Sola:  0/631 => 0.0%
+City Palmeira:  0/199 => 0.0%
+City Palmitos:  0/1534 => 0.0%
+City Papanduva:  0/1478 => 0.0%
+City Paraíso:  0/379 => 0.0%
+City Passo de Torres:  0/604 => 0.0%
+City Passos Maia:  0/355 => 0.0%
+City Paulo Lopes:  0/563 => 0.0%
+City Pedras Grandes:  0/403 => 0.0%
+City Penha:  2258/2258 => 100.0%
+Mammography Unit 83 installed at Penha => 2258/2258
+City Peritiba:  0/303 => 0.0%
+City Petrolândia:  0/567 => 0.0%
+City Balneário Piçarras:  0/1551 => 0.0%
+City Pinhalzinho:  0/1378 => 0.0%
+City Pinheiro Preto:  0/284 => 0.0%
+City Piratuba:  0/442 => 0.0%
+City Planalto Alegre:  0/268 => 0.0%
+City Pomerode:  0/2579 => 0.0%
+City Ponte Alta:  0/406 => 0.0%
+City Ponte Alta do Norte:  0/258 => 0.0%
+City Ponte Serrada:  0/920 => 0.0%
+City Porto Belo:  0/1468 => 0.0%
+City Porto União:  2997/2997 => 100.0%
+Mammography Unit 60 installed at Porto União => 2997/2997
+City Pouso Redondo:  0/1220 => 0.0%
+City Praia Grande:  0/642 => 0.0%
+City Presidente Castello Branco:  0/175 => 0.0%
+City Presidente Getúlio:  0/1330 => 0.0%
+City Presidente Nereu:  0/201 => 0.0%
+City Princesa:  0/223 => 0.0%
+City Quilombo:  0/892 => 0.0%
+City Rancho Queimado:  0/243 => 0.0%
+City Rio das Antas:  0/524 => 0.0%
+City Rio do Campo:  0/533 => 0.0%
+City Rio do Oeste:  0/619 => 0.0%
+City Rio dos Cedros:  0/909 => 0.0%
+City Rio do Sul:  5651/5651 => 100.0%
+Mammography Unit 33 installed at Rio do Sul => 5651/5651
+City Rio Fortuna:  0/421 => 0.0%
+City Rio Negrinho:  0/3403 => 0.0%
+City Rio Rufino:  0/205 => 0.0%
+City Riqueza:  0/399 => 0.0%
+City Rodeio:  0/1044 => 0.0%
+City Romelândia:  0/556 => 0.0%
+City Salete:  0/646 => 0.0%
+City Saltinho:  0/331 => 0.0%
+City Salto Veloso:  0/378 => 0.0%
+City Sangão:  0/791 => 0.0%
+City Santa Cecília:  1220/1220 => 100.0%
+Mammography Unit 111 installed at Santa Cecília => 1220/1220
+City Santa Helena:  0/230 => 0.0%
+City Santa Rosa de Lima:  0/186 => 0.0%
+City Santa Rosa do Sul:  0/731 => 0.0%
+City Santa Terezinha:  0/682 => 0.0%
+City Santa Terezinha do Progresso:  0/256 => 0.0%
+City Santiago do Sul:  0/135 => 0.0%
+City Santo Amaro da Imperatriz:  0/1791 => 0.0%
+City São Bernardino:  0/225 => 0.0%
+City São Bento do Sul:  6633/6633 => 100.0%
+Mammography Unit 27 installed at São Bento do Sul => 6633/6633
+City São Bonifácio:  0/275 => 0.0%
+City São Carlos:  0/960 => 0.0%
+City São Cristóvão do Sul:  0/345 => 0.0%
+City São Domingos:  0/881 => 0.0%
+City São Francisco do Sul:  0/3773 => 0.0%
+City São João do Oeste:  0/594 => 0.0%
+City São João Batista:  0/2130 => 0.0%
+City São João do Itaperiú:  0/268 => 0.0%
+City São João do Sul:  0/616 => 0.0%
+City São Joaquim:  2296/2296 => 100.0%
+Mammography Unit 73 installed at São Joaquim => 2296/2296
+City São José:  20470/20470 => 100.0%
+Mammography Unit 0 installed at São José => 6758/20470
+Mammography Unit 8 installed at São José => 6758/20470
+Mammography Unit 29 installed at São José => 6758/20470
+Mammography Unit 31 installed at São José => 196/20470
+City São José do Cedro:  0/1255 => 0.0%
+City São José do Cerrito:  0/813 => 0.0%
+City São Lourenço do Oeste:  1953/1953 => 100.0%
+Mammography Unit 81 installed at São Lourenço do Oeste => 1953/1953
+City São Ludgero:  0/921 => 0.0%
+City São Martinho:  0/294 => 0.0%
+City São Miguel da Boa Vista:  0/181 => 0.0%
+City São Miguel do Oeste:  0/3480 => 0.0%
+City São Pedro de Alcântara:  0/308 => 0.0%
+City Saudades:  0/818 => 0.0%
+City Schroeder:  0/1247 => 0.0%
+City Seara:  0/1550 => 0.0%
+City Serra Alta:  0/315 => 0.0%
+City Siderópolis:  0/1244 => 0.0%
+City Sombrio:  2371/2371 => 100.0%
+Mammography Unit 69 installed at Sombrio => 2371/2371
+City Sul Brasil:  0/254 => 0.0%
+City Taió:  0/1513 => 0.0%
+City Tangará:  0/761 => 0.0%
+City Tigrinhos:  0/173 => 0.0%
+City Tijucas:  2699/2699 => 100.0%
+Mammography Unit 67 installed at Tijucas => 2699/2699
+City Timbé do Sul:  0/475 => 0.0%
+City Timbó:  3518/3518 => 100.0%
+Mammography Unit 53 installed at Timbó => 3518/3518
+City Timbó Grande:  0/485 => 0.0%
+City Três Barras:  1442/1442 => 100.0%
+Mammography Unit 103 installed at Três Barras => 1442/1442
+City Treviso:  0/334 => 0.0%
+City Treze de Maio:  0/627 => 0.0%
+City Treze Tílias:  0/527 => 0.0%
+City Trombudo Central:  0/598 => 0.0%
+City Tubarão:  9806/9806 => 100.0%
+Mammography Unit 17 installed at Tubarão => 6758/9806
+Mammography Unit 58 installed at Tubarão => 3048/9806
+City Tunápolis:  0/428 => 0.0%
+City Turvo:  0/1087 => 0.0%
+City União do Oeste:  0/268 => 0.0%
+City Urubici:  0/938 => 0.0%
+City Urupema:  0/234 => 0.0%
+City Urussanga:  0/2024 => 0.0%
+City Vargeão:  0/298 => 0.0%
+City Vargem:  0/242 => 0.0%
+City Vargem Bonita:  0/394 => 0.0%
+City Vidal Ramos:  0/513 => 0.0%
+City Videira:  4179/4179 => 100.0%
+Mammography Unit 115 installed at Videira => 4179/4179
+City Vitor Meireles:  0/398 => 0.0%
+City Witmarsum:  0/318 => 0.0%
+City Xanxerê:  3977/3977 => 100.0%
+Mammography Unit 50 installed at Xanxerê => 3977/3977
+City Xavantina:  0/406 => 0.0%
+City Xaxim:  2347/2347 => 100.0%
+Mammography Unit 74 installed at Xaxim => 2347/2347
+City Zortéa:  0/253 => 0.0%
+Coverage
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.6943388472207952
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
